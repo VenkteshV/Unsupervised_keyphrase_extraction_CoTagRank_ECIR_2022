@@ -1,0 +1,15 @@
+synthetic mammograms 1.0
+compression model 0.6421312689781189
+breast deformation 0.898507297039032
+simulated structures 0.7995290756225586
+ray image acquisition process 0.6385748982429504
+medium scale tissue structures 0.8802562355995178
+tissue elasticity parameters 0.877739429473877
+model 0.6087803244590759
+mammogram acquisition model 0.8531646132469177
+i. breast tissue model 0.9485156536102295
+mammographic imaging process 0.8878202438354492
+mammogram synthesis 0.9504396915435791
+parallel beam approximation 0.40245065093040466
+realistic distribution 0.4545247554779053
+acquisition simulation 0.42706331610679626

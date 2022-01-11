@@ -1,0 +1,15 @@
+spurious oscillations 0.11408476278398226
+lagrangian description 0.07965484744068141
+kernel interpolation functions 0.07728352556719159
+discontinuous second derivatives 0.07300499323853349
+kernel functions 0.0722007568917357
+similar numerical oscillations 0.07143959108630396
+classical ibm kernels 0.05667805015928934
+immersed structure stresses 0.0539782645711015
+cartesian staggered grids 0.049554752988282796
+derivatives 0.045659031456006166
+account discrete reproducibility conditions 0.039309071937314824
+regularity 0.03348617230242531
+regularity requirements 0.0325203134625554
+explicit expressions 0.031152417024033527
+new kernels 0.025589520722201102

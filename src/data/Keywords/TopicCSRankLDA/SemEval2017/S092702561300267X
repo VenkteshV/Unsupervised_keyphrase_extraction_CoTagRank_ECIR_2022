@@ -1,0 +1,15 @@
+multiphase volume average solidification model 0.04555579921271896
+process simulations 0.042312595717859766
+thermodynamic data 0.04132398903914758
+method 0.03709431418576413
+isat approach 0.035758887930311935
+discretized volume elements 0.035166656030949844
+product 0.034292699468366494
+model 0.03381507440384177
+solidification kinetics 0.0325516728585529
+interpolation program isat 0.030517879240472997
+liquid diffusion 0.03017097625935898
+incorporated full diffusion 0.029742469651525112
+reasonable computation cost 0.028727396024001546
+current model 0.028588203853829278
+diffusion 0.02841611663786994

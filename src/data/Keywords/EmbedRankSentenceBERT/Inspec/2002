@@ -1,0 +1,15 @@
+process input 1.0
+sensor faults 0.9865283370018005
+standard pca 0.8916312456130981
+consistent model estimates 0.8606671094894409
+new subspace identification approach 0.8599865436553955
+identification algorithm 0.9243643879890442
+real industrial process 0.7481863498687744
+principal component analysis principal component analysis 0.880670428276062
+simulated process 0.8749215602874756
+eiv formulation 0.7244992852210999
+variables 0.529679536819458
+analysis 0.6536510586738586
+system 0.5388847589492798
+instrumental variables 0.43508419394493103
+smi 0.23362748324871063

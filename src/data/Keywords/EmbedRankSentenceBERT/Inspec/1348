@@ -1,0 +1,15 @@
+3d implicit surface 1.0
+traditional reconstruction algorithms 0.6868253946304321
+weighted radial basis functions 0.7349907159805298
+surface reconstruction 0.8032254576683044
+data acquisition 0.550361156463623
+low resolution 0.4076758921146393
+space carving 0.5341960191726685
+seamless models 0.41669389605522156
+stereo range images 0.44791099429130554
+3d point sets 0.8387907147407532
+computer vision 0.496707946062088
+smooth reconstructions 0.6350641846656799
+volumetric regularization 0.4816032946109772
+surfaces 0.6365177035331726
+reconstructed surface 0.729052722454071

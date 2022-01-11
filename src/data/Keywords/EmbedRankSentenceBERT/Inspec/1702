@@ -1,0 +1,15 @@
+lv cineangiocardiograms 1.0
+reconstruction results 0.7264204025268555
+supplementary angiography 0.791628360748291
+clinical cardiology 0.9032930731773376
+computational costs 0.4072432219982147
+lv shape recovery 0.686150848865509
+imaging geometry 0.45515337586402893
+ventricular shape 0.5717688798904419
+ray cineangiocardiograms 0.8971859216690063
+performance 0.05992760509252548
+experimental results 0.30030688643455505
+preprocesses 0.23513582348823547
+system 0.31895712018013
+surface method 0.35285332798957825
+real lv 0.13951325416564941

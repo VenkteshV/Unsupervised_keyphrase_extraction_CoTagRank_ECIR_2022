@@ -1,0 +1,15 @@
+minimum torque ripple 1.0
+low torque ripple-direct self control 0.8864485025405884
+high dynamics 0.6827924847602844
+double three-level inverter 0.5290440917015076
+dynamic control scheme 0.452128529548645
+18-corner trajectory 0.2873941957950592
+induction machine 0.21235524117946625
+stator flux 0.20747049152851105
+sides 0.1296774446964264
+direct self control 0.6721096038818359
+torque quality 0.33347374200820923
+two-level inverters 0.20220868289470673
+dsc 0.11975526064634323
+measurements 0.24207770824432373
+inverter control 0.5693768262863159

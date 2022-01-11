@@ -1,0 +1,156 @@
+•
+0:01- [Voiceover] To help us understand
+0:02how cell to cell communication works,
+0:05I want you to think back to your
+0:07good old elementary school days.
+0:09In particular, I want you to think about the things
+0:11you'd have to do in order to secretly
+0:13talk to your friends during class.
+0:16Here you are sitting in your classroom
+0:18and you desperately want to tell your friend here something
+0:21so you write a little note and you pass it to them.
+0:24>From your hand directly to their hand.
+0:27They see the note but no one else sees it,
+0:29it's just for them.
+0:31But let's say you want to tell your friend
+0:33across the room something.
+0:35I don't know about you but when I was in elementary school
+0:38I used to write notes on pieces of paper,
+0:41fold it up into a paper airplane,
+0:43and I had pretty good aim back then
+0:44so I'd throw my paper airplane over to my friend
+0:47across some distance
+0:49and they'd get my message.
+0:50And again, they'd be the only one who got the message,
+0:53no one else got my little paper airplane message.
+0:57If I wanted to tell a few friends something,
+0:59I might call a little huddle and actually say a few things
+1:03just to this group of friends here.
+1:05My voice would cross this small distance between us.
+1:10Now, let's kick things up a notch.
+1:12I was, kind of, a rebel in elementary school
+1:14and sometimes I'd go to the secretary's desk
+1:17and take over the intercom
+1:18to say funny things to my friends,
+1:20maybe to tell them to meet me at the flagpole
+1:23or on the playground at recess or something.
+1:26This intercom message that I'd send out,
+1:28that would go to everyone,
+1:29it would be broadcasted to the whole school.
+1:32Those who wanted to come meet me would do that
+1:35and those who wouldn't, wouldn't.
+1:37We can think of cells as little people
+1:39that do really similar things
+1:42because you might not always think about it
+1:44but it's really, really important
+1:45that cells are able to talk to each other.
+1:48Evolutionarily, cells being able
+1:50to communicate with each other
+1:51are a major reason why we're as complex as we are,
+1:54as human beings.
+1:57I'll give you examples of when cells
+1:58might talk to each other as we go along here.
+2:02How do cells pass notes to each?
+2:04How do they directly communicate with each other?
+2:07One way is by, actual, direct contact.
+2:11Cells have lots of protein
+2:12stuck into their plasma membranes here
+2:14that serve a lot of functions.
+2:17The most important one is for communication.
+2:20Let's look at a macrophage here,
+2:21this is a type of white blood cell
+2:23that's a part of your immune system.
+2:25When these macrophages see a foreign invader,
+2:28maybe a little bacteria or a virus,
+2:31they can ingest it.
+2:32They can ingest it then they break it down
+2:35and then they display a little piece of it
+2:37which is now called an antigen,
+2:39on their surface.
+2:41They show it off on their surface with one of these
+2:43cell surface proteins here.
+2:46This one in particular is called an MHC II protein.
+2:51Now, this little antigen here has become
+2:53the note that they want to pass on,
+2:55this antigen is the message.
+2:57Another white blood cell,
+2:58maybe a helper T cell might come along
+3:01and then grab hold of this antigen here
+3:03with one of its cell membrane proteins,
+3:06in this case a T cell receptor.
+3:09Just by doing this, the macrophage here managed
+3:12to pass a message onto the helper T cell here.
+3:15Now, based on which antigen this is,
+3:18the T cell can decide whether to start
+3:20a full-blown immune response.
+3:23Maybe it'll go off and ring more alarm bells
+3:25by activating other antibody cells which are called B cells
+3:29or not, maybe they'll just do nothing.
+3:30It just depends on what type of note this is.
+3:34When cells directly touch to communicate,
+3:38sort of, unsurprisingly this is called
+3:40direct cell-cell communication or just direct binding.
+3:45Now, what about our other methods of communication?
+3:49Cells can also communicate over short distances.
+3:52This is our paper airplane here.
+3:54For example, let's look at two neurons.
+3:57They're in close approximation
+3:59but one end of a neuron
+4:01doesn't quite touch the start of the next neuron here,
+4:04there's a little gap there called the synaptic cleft.
+4:08What neurons do is they release
+4:09little signals called neurotransmitters
+4:12to communicate with each other.
+4:14Neurotransmitters get released from the end of this neuron
+4:18and they'll diffuse across this little distance here
+4:20until they bind onto one of the dendrites
+4:23of this next neuron.
+4:25That effectively passes the message on
+4:27from this neuron to this next neuron.
+4:30The paper airplane is thrown from here
+4:33to here.
+4:34This is called neural communication.
+4:37Over here, just like calling a huddle,
+4:40one cell can talk to a small group of cells locally as well.
+4:45For example, just underneath our skin,
+4:47let's say the skin inside our nose,
+4:49we have these immune cells called mast cells.
+4:53They're really important in mediating allergic reactions,
+4:56that's why I purposely picked the nose here.
+4:59Let's say you're allergic to certain pollens
+5:02and one day in the spring you find yourself
+5:04walking through the park.
+5:06Inevitably, you'd breathe in some pollen
+5:09and then the pollen would go on to attach
+5:11to these antibodies stuck to our mast cells.
+5:15What happens as a response to this is that
+5:17the mast cells release little chemical signals
+5:19called histamine.
+5:21Histamine acts as our short-range message.
+5:24It travels around to cells in the area
+5:26then let them know that an allergen has been found
+5:29and lets them know to start preparing
+5:31for an allergic reaction to take place.
+5:34This type of communication is called paracrine signaling,
+5:37paracrine, meaning nearby.
+5:40Finally, the intercom take over.
+5:42How do our cells talk to huge groups of cells at once?
+5:47They do that by endocrine signaling.
+5:50For example, cells in our Pituitary gland in our brain
+5:53make a lot of the important hormones in our bodies.
+5:57Let's say that they're making Growth hormone, GH,
+6:00to send around to all the cells in the body.
+6:02Sending his hormone is their form of communication here.
+6:06They'll create the Growth hormone
+6:08inside their cell bodies
+6:11and they'll release them into the bloodstream.
+6:14Now, our Growth hormone can travel through the bloodstream
+6:16and get to, literally, any place in the body.
+6:20Every cell of your body has the opportunity
+6:22to get this Growth hormone message.
+6:25It doesn't mean that every cell
+6:26will, necessarily, respond to the message.
+6:29Some cells just don't have the right proteins
+6:31to bind certain hormones,
+6:32but either way, you can see that this is a
+6:34long distance form of communication.

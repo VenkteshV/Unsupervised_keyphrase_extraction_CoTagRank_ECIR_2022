@@ -1,0 +1,13 @@
+,app,F1_10,P_10,recall_10
+0,SemEval2017_EmbedRankSentenceUSE.out,0.238100 bl ,0.328600 bl ,0.196500 bl 
+1,SemEval2017_EmbedRank.out,0.219500 ▼ ,0.306100 ▼ ,0.180100 ▼ 
+2,SemEval2017_MultiPartiteRank.out,0.213300 ▼ ,0.297200 ▼ ,0.175800 ▼ 
+3,SemEval2017_WordAttractionRank.out,0.181500 ▼ ,0.256600 ▼ ,0.148200 ▼ 
+4,SemEval2017_SingleRank.out,0.247400   ,0.342800 ᐃ ,0.204000   
+5,SemEval2017_TopicalPageRank.out,0.254300 ▲ ,0.352300 ▲ ,0.209800 ▲ 
+6,SemEval2017_TextRank.out,0.132600 ▼ ,0.184800 ▼ ,0.106900 ▼ 
+7,SemEval2017_EmbedRankSentenceBERT.out,0.240400   ,0.332900   ,0.198200   
+8,SemEval2017_CoTagRankPositional.out,0.272200 ▲ ,0.379500 ▲ ,0.223600 ▲ 
+9,SemEval2017_CoTagRankWindow.out,0.273400 ▲ ,0.379700 ▲ ,0.225300 ▲ 
+10,SemEval2017_CoTagRanks2v.out,0.242400   ,0.337900   ,0.199000   
+11,SemEval2017_CoTagRankUSE.out,0.280300 ▲ ,0.389500 ▲ ,0.231000 ▲ 

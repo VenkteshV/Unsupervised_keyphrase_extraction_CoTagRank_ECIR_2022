@@ -1,0 +1,3 @@
+,app,F1_10,P_10,recall_10
+0,SemEval2010_CoTagRankUSE.out,0.136900 bl ,0.179400 bl ,0.112600 bl 
+1,SemEval2010_CoTagRankWindow.out,0.142500   ,0.186400   ,0.117500   

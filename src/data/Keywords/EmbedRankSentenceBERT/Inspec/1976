@@ -1,0 +1,15 @@
+image multiresolution decomposition 1.0
+edge preservation 0.883660614490509
+space consistency 0.710720956325531
+adaptive image 0.9392709136009216
+shrinkage function 0.8515710234642029
+wavelet domain 0.6006768941879272
+image edges 0.8028580546379089
+original image 0.4819386601448059
+gradient magnitudes 0.4902694523334503
+preservation 0.6209518909454346
+geometric constraints 0.4904087781906128
+possible applications 0.29762452840805054
+image noise 0.55845707654953
+image denoising 0.7359831929206848
+scale consistency 0.7352915406227112

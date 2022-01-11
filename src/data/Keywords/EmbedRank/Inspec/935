@@ -1,0 +1,15 @@
+feedback control 1.0
+one-dimensional sma 0.34294846653938293
+control 0.6471941471099854
+experimental feedforward 0.15512345731258392
+feedforward controller 0.2567910850048065
+inherent difficulties 0.14393122494220734
+sma actuators 0.13907453417778015
+effective behavior 0.10417719185352325
+interest 0.06996101886034012
+average stress 0.08319716900587082
+phenomenological model 0.019179657101631165
+thermal activation 0.0945538654923439
+embedded shape memory alloy 0.06794174760580063
+variety 0.023797256872057915
+linear matrix 0.16407479345798492

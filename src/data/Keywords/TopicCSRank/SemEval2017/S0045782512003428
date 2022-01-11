@@ -1,0 +1,15 @@
+interpolation functions 0.036307038049314004
+sfem formulations 0.03617469484392588
+explicit analysis 0.034028680627061936
+nodal integration 0.033372623478245586
+nodes 0.030501258971626775
+convergence 0.03015898447032414
+numerical cost 0.02972772257456315
+non - physical penalty energy functions 0.028250319193080325
+enlarged critical time step 0.028156850139591055
+gradients 0.027728993936040624
+continuous deformation gradients 0.02630616820368902
+product interpolation 0.025269034137500933
+gradient field 0.02489013988526261
+support point coordinates 0.024473286989396655
+stability 0.024367663430652647

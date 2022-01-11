@@ -1,0 +1,15 @@
+mammographic lesions 1.0
+reasoning classifier 0.2834891974925995
+% benign lesions 0.8962779641151428
+sup tm/ lexicon 0.5816947221755981
+final biopsy results 0.6428310871124268
+feature subsets 0.6796935796737671
+euclidean distance measure 0.4798295199871063
+morphology 0.5460400581359863
+% sensitivity 0.4268346130847931
+breast biopsies 0.8260886669158936
+partial roc areas 0.3906973600387573
+development 0.41381365060806274
+round robin sampling 0.1909649670124054
+similarity thresholds 0.6320940852165222
+mass margin 0.31975096464157104

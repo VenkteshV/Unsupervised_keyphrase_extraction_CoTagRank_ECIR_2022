@@ -1,0 +1,15 @@
+robust output feedback model predictive control 0.04724421303057827
+output feedback mpc algorithm 0.04679127910667981
+robust constrained state feedback mpc law 0.04615336817428557
+algorithm 0.045980811636099767
+design parameters 0.0444457749609342
+robustness 0.04372297335078209
+explicit control laws 0.043495011914987634
+linear matrix inequalities 0.043155526525754655
+controller design 0.0421867445280396
+constraints 0.04148267523093138
+polytopic uncertainty 0.040599146646332386
+robust stability 0.040449227198056936
+model predictive control 0.03966460711559538
+uncertainty 0.03648053842464239
+control laws 0.03630668799535192

@@ -1,0 +1,68 @@
+
+In this video, we're going to modify the shell that
+goes around our Bit-zee bot so that the switches will
+be able to fit through, and we'll
+be able to get the bumper switches in place.
+So we're sort of not exactly sure how much material
+we need to remove, so we're just going to take away a chunk,
+and see if we can make that work.
+Now when I was doing this, I learned
+that the nipper pliers that I used
+to cut the plastic is actually not the right tool.
+Because it tends to cause the plastic to split,
+and can make it crack in places that you
+don't want it to crack.
+So I would just use the knife, and sort of take it away just
+a little bit at a time.
+And that way you can get exactly the way you want it.
+Now again, any time you're using a knife,
+you should have a lot of experience with it.
+And be wearing safety glasses, and things like that.
+Especially using a break off blade
+knife, because the sections can pop away
+if you cut at the wrong angle.
+But you can see how easily the styrene carves.
+It's very easy material to work with.
+So we're just taking more and more of the styrene
+out at a time.
+And making sure that we have enough clearance for our
+switches.
+And we'll go back and take a little bit more styrene.
+Now we're trying to find a way to do it
+in a way that's also aesthetically
+somewhat pleasing.
+So we're going to, instead of having just a harsh jog,
+were cutting a curve into the styrene.
+And in order to get enough clearance for our green wires,
+we really have to remove a whole lot more material.
+So we're just marking that out with our break off blade knife.
+And then snipping some of it off with our nipper pliers.
+And that's where I discovered that the nipper pliers can
+cause it to sort of split.
+And so it's not nearly as good as the break-off blade knife.
+It's faster, but you risk cracking it.
+So in any case, we've got our sort of shell,
+or outer housing.
+And we're making sure that the switches clear, and the wires
+clear, and trimming off the excess material.
+And we've put it upside down, and we
+can see that it's totally clear, and everything's good.
+We've managed to smooth off the edges.
+And now we're just lining it up for the final time.
+And we're going to go ahead and put the screws that
+hold the outer shell in place.
+And that will finish the modifications
+to the outer shell.
+All right, and we're turning down the screws there.
+Last adjustments on the 22 gauge wires,
+making sure everything works, and tightening the switches
+down.
+And we've already loaded some code on the Arduino.
+And so we're going to push our bumper switches
+and see if we can get them to trigger the lights.
+There they go.
+So the lights are working pretty well.
+And our bumper switches cover almost the full front and back
+of the bot.
+So we can be sure that when we run into a wall
+we'll be able to respond to it.

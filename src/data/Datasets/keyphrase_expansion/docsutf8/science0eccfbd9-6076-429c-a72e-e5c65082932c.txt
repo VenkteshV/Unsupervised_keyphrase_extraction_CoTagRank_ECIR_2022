@@ -1,0 +1,156 @@
+•
+0:00What I want to do in this video is think about the two
+0:03different ways of interpreting lowercase g.
+0:07Which as we've talked about before, many textbooks will
+0:09give you as either 9.81 meters per second squared
+0:14downward or towards the Earth's center.
+0:17Or sometimes it's given with a negative quantity that
+0:19signifies the direction, which is essentially downwards,
+0:22negative 9.81 meters per second squared.
+0:25And probably the most typical way
+0:27to interpret this value, as the acceleration due to gravity
+0:38near Earth's surface for an object in free fall.
+0:47And this is what we're going to focus on this video.
+0:56And the reason why I'm stressing this last part
+0:59is because we know of many objects that
+1:03are near the surface of the Earth that
+1:05are not in free fall.
+1:06For example, I am near the surface of the Earth right now,
+1:10and I am not in free fall.
+1:12What's happening to me right now is I'm sitting in a chair.
+1:15And so this is my chair-- draw a little stick
+1:20drawing on my chair, and this is me.
+1:24And let's just say that the chair
+1:25is supporting all my weight.
+1:26So I have-- my legs are flying in the air.
+1:29So this is me.
+1:31And so what's happening right now?
+1:32If I were in free fall, I would be accelerating
+1:35towards the center of the Earth at 9.81 meters
+1:39per second squared.
+1:40But what's happening is, all of the force due to gravity
+1:46is being completely offset by the normal force
+1:49from the surface of the chair onto my pants,
+1:54and so this is normal force.
+1:57And now I'll make them both as vectors.
+2:03So the net force in my situation-- the net force
+2:07is equal to 0, especially in this vertical direction.
+2:10And because the net force is equal to 0,
+2:13I am not accelerating towards the center of the Earth.
+2:16I am not in free fall.
+2:18And because this 9.81 meters per second squared
+2:22still seems relevant to my situation--
+2:24I'll talk about that in a second.
+2:26But I'm not an object in free fall.
+2:29Another way to interpret this is not as the acceleration
+2:32due to gravity near Earth's surface
+2:34for an object in free fall, although it
+2:35is that-- a maybe more general way to interpret
+2:38this is the gravitational-- or Earth's gravitational field.
+2:42Or it's really the average acceleration, or the average,
+2:46because it actually changes slightly
+2:47throughout the surface of the Earth.
+2:49But another way to view this, as the average gravitational field
+2:54at Earth's surface.
+2:55Let me write it that way in pink.
+2:57So the average gravitational field-- and we'll
+3:02talk about what a field means in the physics
+3:05context in a second-- the average gravitational field
+3:09at Earth's surface.
+3:14And this is a little bit more of an abstract thing--
+3:16we'll talk about that in a second--
+3:18but it does help us think about how
+3:20g is related to this scenario where
+3:21I am not an object in free fall.
+3:24A field, when you think of it in the physics context--
+3:27slightly more abstract notion when
+3:29you start thinking about it in the mathematics context--
+3:31but in the physics context, a field
+3:33is just something that associates a quantity
+3:36with every point in space.
+3:38So this is just a quantity with every point in space.
+3:48And it can actually be a scalar quantity, in which case
+3:50we call it a scalar field, and in which case
+3:52it would just be a value.
+3:54Or it could be a vector quantity,
+3:55which would be a magnitude and a direction associated
+3:58with every point in space.
+3:59In which case you are dealing with a vector field.
+4:02And the reason why this is called a field
+4:04is, because at near Earth's surface,
+4:08if you give me a mass-- so for example-- actually,
+4:11I don't know what my mass is in kilograms.
+4:14But if you're near Earth's surface
+4:15and you give me a mass-- so let's say
+4:17that mass right over there is 10 kilograms--
+4:21you can use g to figure out the actual force of gravity
+4:26on that object at that point in space.
+4:31So for example, if this has a mass of 10 kilograms,
+4:34then we know-- and this right over here
+4:36is the surface of the Earth, so that's the center of the Earth.
+4:39So it actually associates a vector quantity
+4:41whose magnitude,-- so its direction is
+4:43towards the center of the Earth, and the magnitude
+4:45of this vector quantity is going to be the mass times g.
+4:51And you could take-- since we're already
+4:53specifying the direction, we could
+4:54say 9.81 meters per second squared
+4:57towards the center of the Earth.
+4:58And so in this situation, it would
+5:00be 10 kilograms times 9.81 meters per second squared.
+5:07Which is 98.1.
+5:10And even this I've rounded a little bit,
+5:12so it's actually approximate number.
+5:1498.1 kilogram meters per second squared
+5:20which is the unit of force, or 98.1 newtons.
+5:24And this thing might not be in free fall,
+5:26so this is why g is relevant even
+5:30in a situation where the object isn't in free fall.
+5:33g has given us the force per unit mass--
+5:36the force per mass of gravity on an object
+5:41near the surface of the Earth.
+5:44Another way to think about it-- so this
+5:46is the average gravitational field, and what it's giving
+5:50is force per mass.
+5:54So you give me a mass near Earth's surface--
+5:57whether it's an object in free fall
+5:59or not-- you multiply that mass times g,
+6:02because it's giving you force per mass,
+6:05and it will give you the force of gravity acting
+6:08on that object near the surface of the Earth,
+6:11whether or not it's in free fall.
+6:12So I just want to make this little distinction,
+6:14because although g tends to be referred
+6:17to this way right over here.
+6:18Sometimes you might encounter a stickler
+6:20who says oh no, no, no, no, no but g is relevant even when
+6:24an object is not in free fall.
+6:25You obviously can't say that my acceleration when
+6:28I'm sitting in my chair is 9.81 meters per second squared
+6:30towards the center of the Earth.
+6:31I am not accelerating towards the center of the Earth.
+6:34And so they'll say, oh no, no, no, no,
+6:35you can't just call this acceleration.
+6:38It is true, it is the acceleration
+6:40when an object is in free fall near the surface of the Earth--
+6:43if you don't have really air resistance, if the net force
+6:47really is the force of gravity-- then this really
+6:50would be the object's acceleration.
+6:52But it becomes relevant, and we know
+6:54most objects that we know of aren't in free fall.
+6:56Obviously, an object in free fall doesn't stay in free fall
+6:58for long.
+6:58It eventually hits something.
+7:00But we know that now g is actually
+7:02relevant to all objects.
+7:03It tells us the force per mass And it's
+7:07tempting to call it always acceleration--
+7:08because the units are acceleration--
+7:10but even when you talk about in terms
+7:12of the gravitational field, it's still the same quantity.
+7:14It still has the exact same units, the same magnitude,
+7:19and the same direction-- it's just
+7:20a different way of viewing it.
+7:22Here, acceleration for an object in free fall.
+7:24Here, something to multiply by mass
+7:27to figure out the force due to gravity.

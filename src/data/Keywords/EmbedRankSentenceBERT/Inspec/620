@@ -1,0 +1,13 @@
+retinal blood vessel segmentation retinal blood vessel images 1.0
+simple algorithm 0.6262412667274475
+adaptive image enhancement 0.7471383213996887
+imaging system 0.5797412395477295
+segmentation 0.31318214535713196
+local neighbourhood 0.3767259120941162
+need -0.10991509258747101
+illumination knowledge 0.13870413601398468
+blood 0.04583989083766937
+background 0.21868550777435303
+vessels -0.006204400211572647
+result 0.020534904673695564
+information 0.1410018354654312

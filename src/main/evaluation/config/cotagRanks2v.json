@@ -1,0 +1,37 @@
+  {
+    "name": "CoTagRanks2v",
+    "class": "KeywordExtractor",
+    "encoder": {
+      "class": "CoTagRanks2v",
+      "kwargs": {
+        "model_name_or_path": ""
+      }
+    },
+    "nlp": {
+      "name": "spacy",
+      "model_name": "en_core_web_sm"
+    },
+    "extractor": {
+      "class": "PhraseExtractor",
+      "kwargs": {
+        "grammar": "GRAMMAR1",
+        "np_method": "GRAMMAR",
+        "np_tags": "NLTK",
+        "stopwords": "NLTK"
+      }
+    },
+    "embedding": {
+      "class": "Sent2Vec",
+      "kwargs": {}
+    },
+    "rank": {
+      "class": "CoTagRanks2v",
+      "kwargs": {
+        "emb_method": "NAIVE",
+        "mmr_beta": 0.5,
+        "top_n": 15,
+        "alias_threshold": 0.8
+      }
+    }
+  }
+  

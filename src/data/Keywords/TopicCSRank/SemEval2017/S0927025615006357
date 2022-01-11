@@ -1,0 +1,15 @@
+crystal plasticity constitutive model 0.045250544264819656
+crystal plasticity model 0.044649260109372764
+material subroutine 0.043547468342221424
+crystal plasticity umat 0.03937138992702438
+extensive finite element analyses 0.03903937284006988
+model parameters 0.0390120321470313
+finite element model 0.038339576240777815
+realistic material microstructure 0.03822005040739126
+user 0.03808979272400925
+cyclic test data 0.03797746717986983
+finite element package abaqus 0.034977633761502425
+xfem technique 0.03356281868158343
+research 0.03215532912522963
+parameters 0.03207468658132422
+material 0.03154938855684191

@@ -1,0 +1,15 @@
+finite element model 0.04722659200599233
+model parameters 0.04143225560013918
+finite element package abaqus 0.04068090258765196
+extensive finite element analyses 0.039415574472885476
+crystal plasticity model 0.03836717032116462
+crystal plasticity constitutive model 0.03836717032116462
+first objective 0.036720630433058093
+third objective 0.036486673507248664
+realistic material microstructure 0.03569424516595362
+fatigue crack growth 0.03516437751517777
+second objective 0.034962723787545516
+material 0.034902268345540124
+material subroutine 0.03490226834484588
+parameters 0.03461051105947965
+cyclic test data 0.03418918772542073

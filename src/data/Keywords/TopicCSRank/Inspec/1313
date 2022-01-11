@@ -1,0 +1,15 @@
+size polynomial collocation formulation 0.07149570866669862
+control algorithm 0.06900734161019875
+multistep methods 0.06873255320442881
+extensions multistep methods 0.06642729753441945
+variable step 0.06393123973189263
+operators 0.05411856185086577
+collocation approach 0.05057425934531623
+piecewise polynomials 0.04931159843703485
+size formulation 0.04717557643794812
+step method 0.045506315903100274
+size formulas 0.0450655561190942
+equidistant time grid 0.04322289987609816
+collocation formulation 0.04275128237049588
+error 0.04157887995912454
+formulas 0.037191594104179

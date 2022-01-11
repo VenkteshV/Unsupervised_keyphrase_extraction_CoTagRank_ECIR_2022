@@ -1,0 +1,15 @@
+cyclic deformation 0.034640841828493356
+crystal plasticity model 0.03440800832449101
+crystal plasticity umat 0.034133519558326456
+xfem technique 0.033966530293653825
+material subroutine 0.033889687146320444
+realistic material microstructure 0.03291655525183379
+crystal plasticity constitutive model 0.03281869933308394
+material 0.03271387251777551
+finite element model 0.03269611063237857
+cyclic deformation behaviour 0.032277587997050355
+cyclic test data 0.03172570968586849
+xfem 0.031255274800134986
+superalloy 0.030957733779426795
+umat 0.029692148133607692
+stress relaxation 0.02941530026670978

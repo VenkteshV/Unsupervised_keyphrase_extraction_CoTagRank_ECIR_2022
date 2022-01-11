@@ -1,0 +1,14 @@
+variable temporal rates 1.0
+mpeg-4 video object-based rate allocation 0.9578409194946289
+temporal rates 0.9438557624816895
+different temporal rates 0.8740361928939819
+stable buffer level 0.2378450483083725
+algorithm 0.2902311682701111
+target bit rate 0.5648044943809509
+multiple video objects 0.4251309037208557
+issues 0.08909940719604492
+object-based coding 0.2049218863248825
+bit allocation 0.22931770980358124
+object level 0.2213796228170395
+algorithm deals 0.20951205492019653
+different objects 0.13124795258045197

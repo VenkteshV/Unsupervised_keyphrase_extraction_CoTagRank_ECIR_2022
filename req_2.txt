@@ -1,0 +1,111 @@
+absl-py==1.0.0
+astor==0.8.1
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.10.0
+bert-serving-client==1.10.0
+bert-serving-server==1.10.0
+blis==0.4.1
+boto3==1.20.31
+botocore==1.23.31
+cached-property==1.5.2
+catalogue==1.0.0
+certifi==2021.10.8
+chardet==3.0.4
+click==8.0.3
+cycler==0.11.0
+cymem==2.0.6
+Cython==0.29.26
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.2.5/en_core_web_lg-2.2.5.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
+filelock==3.4.2
+Flask==1.1.1
+gast==0.5.3
+gensim==4.1.2
+GPUtil==1.4.0
+grpcio==1.43.0
+h5py==3.6.0
+idna==2.10
+imbalanced-learn==0.6.2
+imblearn==0.0
+importlib-metadata==4.10.0
+ipython @ file:///tmp/build/80754af9/ipython_1635944172793/work
+itsdangerous==2.0.1
+jedi @ file:///tmp/build/80754af9/jedi_1611333758854/work
+jellyfish==0.9.0
+Jinja2==3.0.3
+jmespath==0.10.0
+joblib==1.1.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.2
+littleutils==0.2.2
+Markdown==3.3.6
+MarkupSafe==2.0.1
+matplotlib==3.2.0
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+mock==4.0.3
+murmurhash==1.0.6
+networkx==2.6.3
+nltk==3.6.7
+numpy==1.21.5
+outdated==0.2.1
+pandas==1.3.5
+pandas-flavor==0.2.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.2
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pingouin==0.5.0
+plac==1.1.3
+preshed==3.0.6
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.19.1
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyparsing==3.0.6
+python-dateutil==2.8.2
+pytz==2021.3
+pyzmq==22.3.0
+regex==2021.11.10
+requests==2.23.0
+s3transfer==0.5.0
+sacremoses==0.0.46
+scikit-learn==0.22.1
+scipy==1.7.3
+seaborn==0.10.0
+segtok==1.5.11
+sent2vec @ file:///home/ayan/concept-extraction-lo-backend/sent2vec/src
+sentence-transformers==0.2.6.1
+sentencepiece==0.1.96
+six==1.16.0
+smart-open==5.2.1
+soupsieve==2.3.1
+spacy==2.2.4
+spacy-stanfordnlp==0.1.3
+srsly==1.0.5
+stanfordnlp==0.2.0
+statsmodels==0.13.1
+tabulate==0.8.9
+tensorboard==1.13.1
+tensorflow==1.13.1
+tensorflow-estimator==1.13.0
+tensorflow-hub==0.7.0
+termcolor==1.1.0
+thinc==7.4.0
+tokenizers==0.5.2
+torch==1.10.1
+tqdm==4.62.3
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+transformers==2.8.0
+typing_extensions==4.0.1
+Unidecode==1.3.2
+urllib3==1.25.11
+wasabi==0.9.0
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==2.0.2
+wikipedia==1.4.0
+xarray==0.20.2
+xlrd==2.0.1
+yake==0.4.8
+zipp==3.7.0

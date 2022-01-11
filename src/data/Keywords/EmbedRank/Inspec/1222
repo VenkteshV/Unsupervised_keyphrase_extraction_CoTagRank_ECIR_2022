@@ -1,0 +1,15 @@
+optimal class association rule set 0.9999999403953552
+optimal class association rule 0.9369995594024658
+complete class association rule set 0.8728924989700317
+mining predictive association rules 0.4583730101585388
+rule 0.5572147369384766
+criterion 0.2779829204082489
+complete class association rule 0.7992656230926514
+same predictive power 0.09950067102909088
+time 0.06825591623783112
+average 0.1087501123547554
+redundant computation 0.15706470608711243
+dense databases 0.0894206240773201
+efficiency 0.024540996178984642
+upward closure property 0.03951296955347061
+pruning weak rules 0.22449296712875366

@@ -1,0 +1,33 @@
+{
+    "name": "EmbedRank",
+    "class": "KeywordExtractor",
+    "encoder": {
+      "class": "EmbedRank",
+      "kwargs": {
+        "model_name_or_path": "https://tfhub.dev/google/universal-sentence-encoder-large/3"
+      }
+    },
+    "nlp": {
+      "name": "spacy",
+      "model_name": "en_core_web_sm"
+    },
+    "extractor": {
+      "class": "CoreNLPExtractor",
+      "kwargs": {
+      }
+    },
+    "embedding": {
+      "class": "Sent2Vec",
+      "kwargs": {}
+    },
+    "rank": {
+      "class": "EmbedRank",
+      "kwargs": {
+        "emb_method": "NAIVE",
+        "mmr_beta": 0.55,
+        "top_n": 15,
+        "alias_threshold": 0.8
+      }
+    }
+  }
+  

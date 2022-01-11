@@ -1,0 +1,127 @@
+•
+- [Voiceover] Two of the most studied operons
+are the Trp operon and the Lac operon
+and what I wanna do in this video is focus on
+the Trp operon, which is essential for the production
+of tryptophan,
+tryptophan, which you might recognize as an amino acid
+often associated with Thanksgiving and turkey dinner,
+but tryptophan, as all or most amino acids
+are essential for creating the polypeptides,
+the proteins that you use in your body
+and so the Trp operon, and here we're going to be
+talking about not your body, or we're going to be
+talking about something that's in your body.
+We're gonna talk about E. Coli.
+It is an operon that is on the E. Coli that is part of
+the E. Coli genome, and just in this diagram,
+the way it's drawn, it would be sitting,
+it would be sitting right over here.
+And just as a reminder, an operon is a combination
+of a set of genes, as well as the regulatory DNA sequences
+for that set of genes, in particular you have the promoter,
+you have the operator right over here.
+The promoter's where the RNA polymerase binds and
+would start the transcription process.
+The operator's where the repressor binds,
+and this is going to be essential for
+understanding how the Trp operon works.
+And so what are these genes actually code for?
+Well these genes code enzymes that are used
+in the construction of tryptophan,
+and I'm always amazed that enzymes can be used
+to construct what are essentially molecules
+that are much smaller than the enzymes themselves.
+In fact the enzymes involved are made up
+of amino acids, but then they're used to make
+particular amino acids, and so Trp E, D, C, B, A,
+they're all, once they are transcribed into mRNA
+and then translated into ribosomes,
+these enzymes are used to create tryptophan,
+for tryptophan biosynthesis.
+So let's think about how this works.
+So, if we are in a low tryptophan environment,
+our E. Coli, it needs tryptophan, it needs
+that amino acid as a building block for its proteins.
+So in that world, it makes sense that in a low
+tryptophan environment, the RNA polymerase
+can just latch on to the promoter and begin
+the transcription process, transcribe these five genes
+into mRNA which then can be translated into those enzymes
+and they you will have more tryptophan biosynthesis.
+That makes sense that you wanna create tryptophan if you're
+in an environment that does not have a lot of tryptophan.
+But what if we did have a lot of tryptophan?
+Well if you have a lot of something around,
+you shouldn't waste energy creating more of it.
+You have to appreciate that all organisms that are around
+today are the byproducts of billions of years of evolution
+and they've learned to be very careful, or the ones
+that are selected for tend to be the ones that don't
+waste resources, and so when you have tryptophan around,
+you probably don't want this transcription to occur.
+So it makes sense that maybe tryptophan
+can act as a co-repressor for a repressor molecule,
+for a repressor enzyme, that would attach
+to the operator and block the RNA polymerase
+from transcribing, and that's exactly what happens.
+So if you're in a high tryptophan environment,
+and tryptophan obviously does not look like these little
+yellow quadrilaterals over there, but that's just
+for our visualization purposes, and neither does RNA
+polymerase look like that, or neither does the
+Trp repressor look like that, in fact
+I encourage you to web search these and see
+how they actually look, they're fascinating.
+But when you have a lot of tryptophan, the tryptophan
+can act as a co-repressor,
+it can bind to the Trp repressor essentially activate it
+so that it'll change its confirmation so that it can then
+attach to the operator in the operon, and once
+it's attached to the operator, well then the RNA polymerase
+can no longer move forward with transcription.
+So as you can see this is a very valuable feedback loop,
+or not even necessarily feedback, if you're in an
+environment with a lot of tryptophan, don't create
+tryptophan, or if you just have a lot of tryptophan
+laying around, don't create more tryptophan.
+If you don't have tryptophan around, well then the
+repressor won't be co-repressed, I guess you can say,
+and then the tryptophan will actually be created.
+Now, tryptophan's an interesting thing because
+the control of transcription isn't the only place
+where you have some type of a feedback loop
+or kind of a conditional situation.
+You can actually have direct feedback inhibition
+between the proteins, and so this part isn't related
+to the transcription, but if this is a precursor
+of tryptophan, it's all very abstract in this diagram,
+and let's say Enzyme 1 turns into Precursor 2,
+Enzyme 2 turns into Precursor 3, and Enzyme 3
+turns in into tryptophan, well you actually have
+direct feedback inhibition where tryptophan can then bind
+or interact with Enzyme 1 here, could interact with
+Enzyme 1, let me do it in a color you can see.
+Could interact with Enzyme 1 so that it can no longer
+act as efficiently taking Precursor 1 to Precursor 2.
+So this right over here, this is the classic
+feedback inhibition,
+feedback inhibition.
+The focus of this video, we're talking about operons
+and gene regulation, but it's important to realize that
+the regulation of the creation of tryptophan
+doesn't only occur at the transcription level
+and I'm not gonna go into this video,
+it's a slightly more advanced topic, but there's also
+regulation of tryptophan biases through a process
+called attenuation, which doesn't affect the start
+of transcription, but it affects how things
+get completed, and it will keep tryptophan from being
+completely, or the entire process from going to completion.
+But the ones that are most typically talked about
+are what we just talked about here, where you have your
+tryptophan act as a co-repressor of the Trp repressor,
+and also the feedback inhibition, which once again,
+it's not really about gene regulation, but you can see
+how the product of this process can go back
+and inhibit one of the first enzymes.

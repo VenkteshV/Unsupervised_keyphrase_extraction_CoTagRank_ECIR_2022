@@ -1,0 +1,15 @@
+fourier approximation 1.0
+parabolic equation 0.7614500522613525
+optimal error estimate 0.8241650462150574
+single interval spectral method 0.7761814594268799
+numerical results 0.8426790237426758
+galerkin methods 0.667747974395752
+periodic boundary conditions 0.588646411895752
+multi - interval legendre tau -methods 0.5882187485694885
+spectral method 0.5420966148376465
+time 0.3477444648742676
+sup 0.3221178352832794
+l 0.27428874373435974
+model 0.15615440905094147
+multi - interval legendre petrov 0.4125608801841736
+paper 0.20379066467285156

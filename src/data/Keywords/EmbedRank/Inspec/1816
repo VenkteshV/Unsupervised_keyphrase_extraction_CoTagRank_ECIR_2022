@@ -1,0 +1,15 @@
+nonlinear disturbance attenuation control 1.0
+hamiltonian modelling 0.32246991991996765
+passivity-based control 0.6513714790344238
+gain disturbance attenuation 0.5237907767295837
+non-linear adaptive l/sub 0.22197620570659637
+problem 0.22987394034862518
+power system stability 0.2152218371629715
+thyristor controlled serial compensator 0.2552379369735718
+parametric perturbations 0.16660943627357483
+storage function 0.1384347528219223
+proposed controller 0.1174875870347023
+validity 0.05166460573673248
+gain control method 0.36809220910072327
+port 0.042002122849226
+dissipation 0.04145887866616249

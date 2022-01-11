@@ -1,0 +1,15 @@
+available hpf compilers 1.0
+efficient parallel code generation 0.9973012804985046
+performance bugs 0.4641363322734833
+storage 0.2601073980331421
+gmd adaptor hpf compiler 0.9764278531074524
+tno hpf benchmark suite 0.5634551048278809
+prepare prototype compiler 0.9248095154762268
+performance fortran 0.8871543407440186
+convex iteration 0.29905498027801514
+different array sizes 0.25036168098449707
+simple assignments 0.36346322298049927
+different hpf compilers 0.9137336015701294
+hpf compiler 0.9479604959487915
+programmer 0.7166094779968262
+compilers 0.7263373732566833

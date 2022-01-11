@@ -1,0 +1,149 @@
+•
+Let's say we have a cup of water.
+Let me draw the cup.
+This is one side of the cup, this is the bottom of the cup,
+and this is the other side of the cup.
+Let me say that it's some liquid.
+It doesn't have to be water, but some arbitrary liquid.
+It could be water.
+That's the surface of it.
+We've already learned that the pressure at any point within
+this liquid is dependent on how deep
+we go into the liquid.
+One point I want to make before we move on, and I
+touched on this a little bit before, is that the pressure
+at some point isn't just acting downwards, or it isn't
+just acting in one direction.
+It's acting in all directions on that point.
+So although how far we go down determines how much pressure
+there is, the pressure is actually acting in all
+directions, including up.
+The reason why that makes sense is because I'm assuming
+that this is a static system, or that the fluids in this
+liquid are stationary, or you even could imagine an object
+down here, and it's stationary.
+The fact that it's stationary tells us that the pressure in
+every direction must be equal.
+Let's think about a molecule of water.
+A molecule of water, let's say it's roughly a sphere.
+If the pressure were different in one direction or if the
+pressure down were greater than the pressure up, then the
+object would start accelerating downwards,
+because its surface area pointing upwards is the same
+as the surface area pointing downwards, so the force
+upwards would be more.
+It would start accelerating downwards.
+Even though the pressure is a function of how far down we
+go, at that point, the pressure is
+acting in every direction.
+Let's remember that, and now let's keep that in mind to
+learn a little bit about Archimedes' principle.
+Let's say I submerge a cube into this liquid, and let's
+say this cube has dimensions d, so every side is d.
+What I want to do is I want to figure out if there's any
+force or what is the net force acting on this
+cube due to the water?
+Let's think about what the pressure on this cube is at
+different points.
+At the depths along the side of the cube, we know that the
+pressures are equal, because we know at this depth right
+here, the pressure is going to be the same as at that depth,
+and they're going to offset each other, and so these are
+going to be the same.
+But one thing we do know, just based on the fact that
+pressure is a function of depth, is that at this point
+the pressure is going to be higher-- I don't know how much
+higher-- than at this point, because this point is deeper
+into the water.
+Let's call this P1.
+Let's call that pressure on top, PT, and let's call this
+point down here PD.
+No, pressure on the bottom, PB.
+What's going to be the net force on this cube?
+The net force-- let's call that F sub N-- is going to be
+equal to the force acting upwards on this object.
+What's the force acting upwards on the object?
+It's going to be this pressure at the bottom of the object
+times the surface area at the bottom of the object.
+What's the surface area at the bottom of the object?
+That's just d squared.
+Any surface of a cube is d squared, so the bottom is
+going to be d squared minus-- I'm doing this because I
+actually know that the pressure down here is higher
+than the pressure here, so this is going to be a larger
+quantity, and that the net force is actually going to be
+upwards, so that's why I can do the minus confidently up
+here-- the pressure at the top.
+What's the force at the top?
+The force at the top is going to be the pressure on the top
+times the surface area of the top of the cube,
+right, times d squared.
+We can even separate out the d squared already at that point,
+so the net force is equal to the pressure of the bottom
+minus the pressure of the top, or the difference in pressure
+times the surface area of either the top or the bottom
+or really any of the sides of the cube.
+Let's see if we can figure what these are.
+Let's say the cube is submerged h units or h meters
+into the water.
+So what's the pressure at the top?
+The pressure at the top is going to be equal to the
+density of the liquid-- I keep saying water, but it could be
+any liquid-- times how far down we are.
+So we're h units down, or maybe h meters, times gravity.
+And what's the pressure the bottom?
+The pressure at the bottom similarly would be the density
+of the liquid times the depth, so what's the depth?
+It would be this h and then we're another d down.
+It's h plus d-- that's our total depth-- times gravity.
+Let's just substitute both of those back into our net force.
+Let me switch colors to keep from getting monotonous.
+I get the net force is equal to the pressure at the bottom,
+which is this.
+Let's just multiply it out, so we get p times h times g plus
+d times p times g.
+I just distributed this out, multiplied this out.
+That's the pressure at the bottom, then minus the
+pressure at the top, minus phg, and then we learned it's
+all of that times d squared.
+Immediately, we see something cancels out.
+phg, phg subtract.
+It cancels out, so we're just left with--
+what's the net force?
+The net force is equal to dpg times d squared, or that
+equals d cubed times the density of the
+liquid times gravity.
+Let me ask you a question: What is d cubed?
+d cubed is the volume of this cube.
+And what else is it?
+It's also the volume of the water displaced.
+If I stick this cube into the water, and the cube isn't
+shrinking or anything-- you can even imagine it being
+empty, but it doesn't have to be empty-- but that amount of
+water has to be moved out of the way in order for
+that cube to go in.
+This is the volume of the water displaced.
+It's also the volume of the cube.
+This is the density-- I keep saying water, but it could be
+any liquid-- of the liquid.
+This is the gravity.
+So what is this?
+Volume times density is the mass of the liquid displaced,
+so the net force is also equal to the
+mass of liquid displaced.
+Let's just say mass times gravity, or we could say that
+the net force acting on this object is-- what's the mass of
+the liquid displaced times gravity?
+That's just the weight of liquid displaced.
+That's a pretty interesting thing.
+If I submerge anything, the net force acting upwards on
+it, or the amount that I'm lighter by, is equal to the
+weight of the water being displaced.
+That's actually called Archimedes' principle.
+That net upward force due to the fact that there's more
+pressure on the bottom than there is on the top, that's
+called the buoyant force.
+That's what makes things float.
+I'll leave you there to just to ponder that, and we'll use
+this concept in the next couple of videos to actually
+solve some problems. I'll see you soon.

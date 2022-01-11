@@ -1,0 +1,15 @@
+fast algorithm 1.0
+resource folding 0.6920868754386902
+multiplierless realisation 0.6909803152084351
+memory requirement 0.5138530135154724
+linear dsp transforms 0.7068603038787842
+constant multiplications 0.7084473371505737
+final chip 0.19275955855846405
+simple techniques 0.2755843698978424
+major reduction 0.2338893562555313
+wordlengths 0.18757246434688568
+efficient algorithm 0.9479853510856628
+pseudopolynomial run 0.10212722420692444
+multiplierless architectures 0.6197838187217712
+operators -0.04987454414367676
+techniques 0.26231956481933594

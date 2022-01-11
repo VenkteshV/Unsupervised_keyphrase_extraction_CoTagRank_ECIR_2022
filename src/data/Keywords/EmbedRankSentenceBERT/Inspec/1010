@@ -1,0 +1,15 @@
+pid controller 1.0
+preload relay 0.9992880821228027
+tuning 0.6906365752220154
+nonlinear systems 0.780117392539978
+simulation results 0.6979657411575317
+robust self 0.4106864631175995
+chattering 0.24617862701416016
+ceases 0.07468023151159286
+explicit input signal 0.6365373730659485
+stability properties 0.5171128511428833
+control system 0.6269506812095642
+p_relay 0.6310810446739197
+pid controller 1.0
+pid controller 1.0
+pid controller 1.0

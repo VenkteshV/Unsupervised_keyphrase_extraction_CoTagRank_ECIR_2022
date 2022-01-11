@@ -1,0 +1,15 @@
+cns tumors 1.0
+varian-80 millennium multileaf collimators 0.945784330368042
+physical radiation dose differences 0.7240363955497742
+imrt treatment plans 0.85438472032547
+mm beamlets d\. mlc 0.8333739042282104
+contralateral parotid gland 0.6072858572006226
+moderate dose range 0.7137103080749512
+dimensional conformal radiotherapy plans 0.9232199192047119
+organ avoidance plans 0.39238452911376953
+planning isodose volume 0.7544561624526978
+t2-t4 n0-n2c m0 0.48233920335769653
+dynamic mlc treatment delivery 0.8688624501228333
+different mlc leaf sizes 0.8732215762138367
+clinical patients 0.6239493489265442
+adequate coverage 0.3638770282268524

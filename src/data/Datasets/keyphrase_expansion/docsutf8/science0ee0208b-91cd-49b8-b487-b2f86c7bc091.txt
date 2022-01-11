@@ -1,0 +1,370 @@
+•
+0:00- [Instructor] Suppose I drop two identical balls
+0:02from the same height.
+0:03One I just let go of it, so it just falls straight down.
+0:07Another one, let's say I have a slide
+0:10and I make it slide down, it rolls down.
+0:13The question you want to try and answer
+0:14is in which of the two cases
+0:16gravity does more work.
+0:20Okay?
+0:21So let's see, how to we answer this question?
+0:24First we need to know how to calculate work.
+0:26We know work done equals force acting on a body
+0:30multiplied by the displacement of that body, right?
+0:34So let's try and figure out the work
+0:35done in both these cases.
+0:37Now which is the force that's acting on them?
+0:40Since we're introducing gravity,
+0:41that's the force we should talk about,
+0:43and the gravitational force on both of them
+0:45must be the same because they are identical balls,
+0:47they have the same mass,
+0:48and you might know that gravitational force is mg,
+0:51so that part must be the same.
+0:53Now let's look at the displacement part.
+0:56In the first case, the ball falls straight down.
+0:59So the displacement is just the height of the ball,
+1:04and so in the first case, the work done becomes
+1:07mg times h.
+1:09But what about the second case?
+1:11Now in the second case,
+1:13the displacement is from here to here
+1:16which is more than the height of the ball, right?
+1:19This length, as you can see,
+1:21is larger than this length, larger than the height.
+1:24And so if we call this as, let's say s,
+1:27we might say in this case the work done
+1:29will be mg into this displacement,
+1:32and therefore we might conclude that
+1:35more work is done by gravity in this case, right?
+1:39Well, an important thing to see over here
+1:41is that the force and the displacement
+1:44in this case are not in the same direction.
+1:47You see, they're in a different direction.
+1:50And whenever we say we are calculating work
+1:52as force into displacement,
+1:54that displacement has to be calculated
+1:57in the direction of the force.
+2:01And so I guess the goal of the video
+2:02is to try and figure out
+2:04whenever the force and displacement
+2:06are not in the same direction,
+2:07how do we calculate work done?
+2:09What is the meaning of this statement?
+2:13So let's look at these two cases
+2:15in a little bit more detail, okay.
+2:17So in the first case, the force of gravity is down
+2:19and the object just falls down.
+2:22No surprise.
+2:23In the second case, gravity's down,
+2:26but the ball is falling down at an angle.
+2:29It's sliding down at an angle.
+2:31So again, not surprising, but what does it mean?
+2:34This means gravity can make things accelerate
+2:37in other directions as well,
+2:40not just down, but in other directions as well, right?
+2:44But there's a difference between these two.
+2:48In which case do you think the ball accelerates
+2:50more quickly?
+2:52Well, I'm pretty sure you'll agree it's in the first case.
+2:54In the first case the ball would accelerate
+2:55very quickly compared to the second one.
+2:57Here, let me show you this.
+2:59So if I drop the ball,
+3:01see how quickly it just fell down.
+3:03In the second case, I'll make it slide,
+3:06and now notice it's a little slower than before.
+3:09Again, to see it clearly,
+3:11let's do a comparison side by side in slow motion,
+3:14and you can see immediately the ball here
+3:17accelerates down, but over here notice
+3:19it's so much slower.
+3:22So the ball accelerates much slower here
+3:24compared to this.
+3:25So what can we conclude from this?
+3:28Because the acceleration is slower,
+3:30we could say the effect of gravity felt by this ball
+3:34must be less, right,
+3:35because it's feeling less force
+3:37and therefore smaller acceleration.
+3:40So we can conclude that gravity has an effect
+3:43in this direction, but that effect is smaller
+3:46compared to the previous one, right?
+3:49So at an angle, the effect of gravity reduces.
+3:53So we can say less effect along this angle.
+3:57Okay, in a third case what we'll do is
+4:00we'll try to make that object slide horizontally
+4:05due to gravity.
+4:06What'll happen?
+4:07Well, gravity's acting down,
+4:09and we're trying to make this object
+4:11go forward, let's say.
+4:13Do you think this is going to happen?
+4:15I'm pretty sure you'll agree nothing's going to happen
+4:17in this case, right?
+4:18This object is not going to move at all.
+4:22Again, I can just show you that.
+4:24I'll just keep an object, this time it's horizontal.
+4:27Here the ball is moving because my hand is shaking,
+4:29but I'm pretty sure you'll agree
+4:30that the ball is just going to be at rest
+4:32if this was perfectly leveled, right?
+4:35So in this case, gravity cannot affect
+4:38the motion at all.
+4:40So we can say that gravity
+4:42has no effect in the horizontal direction.
+4:45Does that make sense?
+4:46Because it's not able to accelerate this ball.
+4:52So in this case we can say gravity has zero effect.
+4:55Now before we put all of this together
+4:57and try to make sense of this,
+4:58let me tell you that this is not just for gravity.
+5:00This can be seen in any force.
+5:03To give you an example, let's say you take a mop
+5:05and you push it forward,
+5:06and you'll expect the mop to accelerate forward
+5:09and speed up in the forward direction.
+5:10No surprise, right?
+5:12But take that mop and now push it at an angle,
+5:16and again, that force can accelerate it,
+5:20meaning even though this force is acting at an angle,
+5:22it has an effect in this direction
+5:26just like what we saw over here.
+5:28So this force also has effects in other direction,
+5:31but again, you might agree that over here
+5:33the effect is a little smaller,
+5:35because now the mop will not accelerate
+5:37as much as it accelerated in this case, right?
+5:39So the effect has reduced,
+5:41and eventually, if you push the mop straight down,
+5:45now you'll see it has absolutely no effect
+5:47in the horizontal direction.
+5:49So this force has zero effect in this direction.
+5:53So if you put it all together,
+5:54what do we understand?
+5:55First of all we see that forces can have
+5:57effects in other directions as well.
+6:00But what's important is that as the angle
+6:04between the force and the motion increases,
+6:06as this angle starts increasing,
+6:09the effect starts reducing.
+6:10You see the effect is maximum
+6:13when the force and the motion are in line with each other.
+6:15But as the motion starts making an angle
+6:17with the force, the effect reduces.
+6:19And when the angle becomes 90 degrees,
+6:23as you can see, the effect becomes zero.
+6:27This is the most important thing, okay?
+6:29This means that forces have no effect
+6:32in perpendicular direction.
+6:33It has zero effects in perpendicular direction.
+6:38So what can we say about the work done
+6:40in this particular case?
+6:43Well, let's take an example.
+6:44So imagine I take a ball and I keep it on
+6:46a perfectly horizontal slide,
+6:48and let's think about the work done by gravity.
+6:50Gravity's pulling it down.
+6:52Let's say I push this ball now
+6:54and make it displace horizontally.
+6:57What is the work done by gravity?
+6:59Can we just say it is the gravitational force
+7:01multiplied by the displacement?
+7:02No, because the angle between the gravity
+7:07and the displacement is 90 degrees,
+7:08we can now say gravity has no effect
+7:10in this direction like we saw earlier.
+7:13So gravity's not causing this displacement at all,
+7:16and therefore we can say the work done by gravity
+7:18is zero, because gravity's not the one
+7:21that displaced this body.
+7:22Does that make sense?
+7:24In a similar manner, imagine somebody's carrying
+7:27a luggage on their head,
+7:29and let's say they move forward,
+7:31displacing that luggage.
+7:33What is the work done by their force on the luggage?
+7:37Again, that's zero.
+7:38Why?
+7:39Because they're pushing on the luggage up,
+7:43and this is perpendicular to direction of the displacement.
+7:46And so we can say this force has no effect
+7:48on this direction, it did not cause
+7:50this displacement at all,
+7:52and therefore the work done by this force
+7:54on the luggage must be zero.
+7:57And so, in general, if the force and displacement
+7:59are perpendicular to each other,
+8:01work done by that force must be zero.
+8:05So now let's see how this knowledge helps us
+8:07in answering our original question.
+8:10So we want to calculate the work done in this case, right?
+8:14Now instead of the ball falling,
+8:16sliding straight down, let's assume,
+8:19let's assume for a moment that the ball
+8:22is going on a staircase.
+8:25So let's assume that the ball is going forward,
+8:27then coming down, then going forward,
+8:28then coming down, and so on and so forth.
+8:30Let's assume it's going that way.
+8:31I know it's not really doing that,
+8:32but let's calculate the work in this case first.
+8:35It'll help us to figure out what happens
+8:36in the work in the sliding case as well.
+8:39So what is the work during this entire motion?
+8:42Well again, it's going to be force times displacement.
+8:45We know the force, which is mg,
+8:47but what is the displacement?
+8:48Should we take this entire displacement,
+8:50should we add up all these displacements?
+8:53No, because we know now that
+8:55during the horizontal motion,
+8:57gravity's not doing any work.
+8:59So this displacement doesn't come into the picture.
+9:01During the vertical motion gravity is doing work.
+9:04Gravity is pulling and make it displace,
+9:06so this matters.
+9:08Again, during the horizontal motion,
+9:09that displacement doesn't matter.
+9:11Again, during the vertical motion, it matters.
+9:14So, during the horizontal motion,
+9:16since the work done is zero,
+9:17we can just get rid of the displacement,
+9:19that displacement doesn't come into our formula.
+9:23So let's get rid of that displacement.
+9:25And so the only displacement that matters to us
+9:28is the one that happens in the direction
+9:31of the force of gravity, right?
+9:34And that's what we meant earlier.
+9:37When you're calculating the work done,
+9:39what matters is the displacement that happens
+9:41in the direction of the force.
+9:43Only that displacement should come into the picture.
+9:48Okay, so what is this total displacement?
+9:50Well, we just have to add all of them up.
+9:53Now if we add all of them up,
+9:55notice what we get.
+9:57We just get the entire height
+10:00of the fall from the ground,
+10:02which means the displacement over here
+10:05has to be h itself,
+10:07and therefore the work done in this case
+10:09is exactly the same as the work done in this case.
+10:12So even though the ball is going down on a staircase,
+10:15going forward and going down and so on,
+10:18the work done by gravity must be the same.
+10:22Now, of course, you might say well, okay,
+10:23but that doesn't answer my question.
+10:25Our original question was not on a staircase,
+10:27it was going down on a slide, right?
+10:29How do we answer that?
+10:31Well, we'll come to that.
+10:32Now instead of thinking of a big staircase,
+10:35let's assume we made the step size smaller,
+10:38so we had a longer staircase.
+10:42Okay,
+10:43now imagine again the ball goes forward
+10:45and comes down and so on and so forth.
+10:47What'll be the work done?
+10:49Well again, we don't have to worry about
+10:51the horizontal displacements
+10:52because the work done by gravity would be zero.
+10:55Right, in the perpendicular direction,
+10:56gravity has no effect.
+10:58So the only displacement that matters to us
+11:00is in the vertical direction,
+11:01in the direction of the force.
+11:04Again, if we add up all those
+11:07displacements, notice we end up with just h.
+11:10So this means even if I make this staircase smaller,
+11:13the work done by gravity should still be the same.
+11:17So now let me make the staircase even smaller.
+11:21The work done should still be the same.
+11:23Let's make the staircase even smaller.
+11:25The work done would still be the same.
+11:27Now you can imagine if we go on making
+11:30the staircase smaller and smaller and smaller
+11:32and smaller, the motion of the ball
+11:34would start becoming smoother and smoother,
+11:36and eventually, if you imagine the staircase
+11:38while it's super, super, super, super, super small,
+11:41we can pretty much assume that that staircase
+11:43is now like the slide.
+11:45And we can now say that the work done
+11:47in this slide must also be the same.
+11:51So in both the cases, gravity does exactly
+11:55the same work.
+11:58Amazing, isn't it?
+12:00Now we can extend this even further.
+12:02Instead of going on a slide, let's say the ball
+12:05went on some curve like this.
+12:08What is the work done by gravity in this case?
+12:11Again, it should be the same.
+12:13Why?
+12:14Because again you can think of it as
+12:15going in a very tiny staircase from here to here,
+12:19and when you add up all the displacements,
+12:21only the vertical displacements will matter,
+12:23and again, the total displacement will still be just h.
+12:27So even in this complicated curvy example,
+12:29work done by gravity is still the same.
+12:31And so now we can extend this in general
+12:33and say even if our ball is going in some
+12:36crazy, weird path,
+12:38then the work done by gravity will again
+12:40be just the same.
+12:42So it seems like the work done by gravity
+12:44doesn't depend on what path it takes
+12:46to go from one point to another.
+12:48It only depends upon the height
+12:51that it covers, right?
+12:53The height is all that matters.
+12:55It does not depend on the path.
+12:57And this is important, because tomorrow
+12:59if we have our object going in some crazy path
+13:03and we are asked to calculate
+13:04the work done by gravity,
+13:05we don't have to worry too much about the path taken.
+13:07We just say it's the force into the height
+13:09that it covers from one point to another.
+13:14And so what did we learn in this video?
+13:17By looking at some day-to-day life examples,
+13:19we saw that forces can have effects
+13:21in other directions as well.
+13:24But what's important is that forces
+13:25have maximum effect in the line of the force,
+13:29and as the angle between the motion
+13:30and the force increases,
+13:32its effect starts decreasing.
+13:35And eventually when the angle between the force
+13:37and the motion becomes 90 degrees,
+13:39we see that the force has zero effect.
+13:42Forces have zero effect in perpendicular direction,
+13:45and because of this, if the force
+13:47and the displacement are perpendicular to each other,
+13:50that work done by that force should be zero
+13:52because the force had no effect in that direction.
+13:55And using this, we were able to figure out
+13:59that when a ball falls through some height,
+14:02it doesn't matter what path it takes,
+14:03whether it falls straight down
+14:04or it goes through a curve,
+14:06the work done will be the same.
+14:08It'll be the force of gravity times the height
+14:10through which it fell down,
+14:12and one way to argue this is
+14:14instead of imaging that it fell through a curve like this,
+14:17we can imagine it went through
+14:19a very, very, very tiny staircase,
+14:21and then when the ball goes forward,
+14:24the work done would be zero
+14:25so those displacements don't matter,
+14:27and the only displacement that'll come
+14:29into our equation is the vertical displacement,
+14:32and when you add all of them up,
+14:33we saw it'll just be the height.
+14:36And so regardless of what path the ball takes,
+14:39the work done by gravity doesn't depend on the path,
+14:42it only depends upon the height
+14:43through which it falls.

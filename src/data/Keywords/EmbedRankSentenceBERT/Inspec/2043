@@ -1,0 +1,15 @@
+algorithmic complexity 1.0
+memory chips 0.8153569102287292
+arithmetic processors 0.9102540016174316
+high data movement 0.5589179992675781
+computational electromagnetics codes 0.6893680095672607
+innermost loops 0.21620263159275055
+matrix multiplications 0.6618493795394897
+iterative solvers 0.6244974732398987
+hp pa 0.20409546792507172
+operation count 0.3695094883441925
+execution -0.12183819711208344
+dense matrices 0.6428015828132629
+processor 0.49745452404022217
+underlying computer hardware 0.5776938796043396
+cem 0.21783345937728882

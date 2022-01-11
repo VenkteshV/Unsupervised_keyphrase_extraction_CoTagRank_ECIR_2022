@@ -1,0 +1,15 @@
+reversible voltage control 1.0
+regenerative dc snubber 0.540752112865448
+line stray inductance 0.6684189438819885
+proper switching operation 0.6269426941871643
+novel line conditioner 0.6038552522659302
+capacitor 0.6702113151550293
+fast output 0.36858728528022766
+output voltage 0.7673377394676208
+transformer 0.5213181376457214
+ac chopper 0.11295076459646225
+commutation problem 0.3138938546180725
+voltage compensation 0.677349865436554
+experimental results 0.22373616695404053
+voltage control 0.7148070335388184
+output voltage 0.7673377394676208

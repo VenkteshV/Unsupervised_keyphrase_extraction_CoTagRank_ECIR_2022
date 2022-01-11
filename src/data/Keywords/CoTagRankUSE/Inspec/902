@@ -1,0 +1,15 @@
+tcp explicit congestion notification 0.047067103359947585
+tcp 0.039630289679664865
+throughput 0.03876492911563441
+explicit congestion notification 0.03812127464765983
+buffer utilization 0.03759948432608961
+packet losses 0.03734836032059851
+forward congestion indication 0.035732236035163775
+asynchronous transfer mode 0.03549014027503058
+atm network 0.03345197972976938
+transmission control protocol 0.03318547794368469
+congestion 0.0328144085449695
+packet retransmissions 0.03237833267096536
+congestion control 0.03153408198052601
+networks 0.028386394142883235
+atm cell 0.02704892965394646

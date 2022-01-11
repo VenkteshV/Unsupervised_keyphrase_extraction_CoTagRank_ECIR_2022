@@ -1,0 +1,15 @@
+nonlinear performance 1.0
+improved analysis 0.7750420570373535
+multisinusoidal input current 0.7027458548545837
+intermodulation components 0.3055818974971771
+complementary mosfet 0.275212824344635
+results 0.23051604628562927
+spice simulations 0.23962976038455963
+threshold-voltage mismatches 0.051265694200992584
+values 0.16084925830364227
+expressions 0.10729111731052399
+case 0.022315772250294685
+detail 0.08640968799591064
+device mismatch 0.10778895765542984
+prespecified conditions 0.05913211777806282
+single input sinusoid 0.2917475402355194

@@ -1,0 +1,171 @@
+In this video, we're going to be talking
+about conjugate acid-base pairs.
+We're going to introduce the idea
+of a conjugate acid-base pair
+using an example reaction.
+The example reaction is between hydrogen fluoride,
+or HF, and water.
+So hydrogen fluoride is a weak acid,
+and when you put it in water,
+it will dissociate partially.
+So some of the HF will dissociate,
+and you'll get fluoride minus ions.
+And then that dissociated H plus ion.
+So this dissociated H plus ion
+will get donated
+to our water.
+So water then becomes H3O plus, or hydronium.
+And so this process is in dynamic equilibrium,
+cause it can go forward, and it can go backward,
+and eventually, those two rates are equal,
+and they're both happening at the same time.
+So in this reaction, we have a couple things going on,
+and we're gonna think about it
+in terms of hydrogen ions being exchanged.
+So if we just look at the hydrofluoric acid,
+and we look in the forward direction,
+our HF is becoming F minus.
+And it's doing that by donating or losing,
+so I'll put a minus for losing a proton.
+So our HF loses a proton
+that forms our F minus or fluoride ion.
+And then we can look at that same process
+happening in the backwards reaction.
+So if we look at the backwards reaction,
+which is also happening,
+the fluoride ion can pick up
+or accept a proton from somewhere.
+So it can pick up an H plus,
+so I'll have a plus, H plus here.
+And so when fluoride accepts a proton,
+we reform our HF.
+So we can see that HF and F minus
+have this special relationship where
+you can form one or the other
+by losing or gaining a proton.
+And we can see a similar relationship
+between water and hydronium.
+So, water here, we said water
+is accepting a proton from HF,
+so we see that water will gain a proton,
+and that will give us hydronium.
+In the reverse reaction,
+hydronium can lose a proton to reform water.
+So, minus H plus.
+So again we have these two species,
+water and hydronium,
+that are related to each other
+by having, or not having, one H plus.
+So in chemistry, we call these species
+that are related in this way
+conjugate acid-base pairs.
+So the official definition,
+or my official definition of a conjugate acid-base pair
+is when you have two species that are related to each other.
+Let's see, two species that are related to each other,
+related by one H plus.
+In this case, we have HF and F minus
+that are related to each other by that one H plus.
+And so HF and F minus are a conjugate acid-base pair.
+We also have water and hydronium,
+which are also related by that one H plus.
+So water and H3O plus are also a conjugate acid-base pair.
+You can probably tell from the name,
+but whenever you have a conjugate acid-base pair,
+one thing in the pair will be an acid,
+and the other thing will always be a base.
+The definition of which one is the acid
+and which one is the base
+comes from the Bronsted-Lowry definition
+of acids and bases.
+So the Brondsted-Lowry definition says
+anything that can donate an H plus,
+so anything that will give away an H plus is an acid.
+So we can see that, in this case,
+our hydrofluoric acid is acting as the acid
+in the conjugate acid-base pair.
+And that means that fluoride
+has to be acting as the base.
+And that makes sense, because
+the Bronsted-Lowry definition of a base
+is something that will accept an H plus.
+And that's exactly what it does
+in the reverse reaction.
+Your F minus will pick up an H plus
+and go back to your acid.
+So we can also look at water and H3O plus.
+So here, water is gaining a proton, or accepting it,
+so water is acting as a base.
+And in the reverse reaction, H3O plus
+is donating a proton,
+so H3O plus is acting as an acid.
+The relationship between conjugate acid-base pairs
+we can write a little bit more generally.
+So, if we represent any generic acid as HA.
+So this is our acid.
+We said that a acid is something that donates a proton.
+So it'll lose the proton,
+and when it does that, it will form the conjugate base,
+which is represented by A minus.
+In the reverse reaction, our base, A minus,
+can gain a proton and remake our acid,
+or conjugate acid.
+So whenever you have two species
+that have basically the same formula,
+which we abbreviated here as A minus,
+except for one has an H plus and one doesn't,
+then you know you have a conjugate acid-base pair.
+So let's look at some more examples
+of conjugate acid-base pairs.
+We saw above, HF, or hydrofluoric acid,
+it's conjugate base is F minus.
+So here HF is our acid, and when it loses that proton,
+we are left with F minus.
+We saw in the same reaction that water can act as a base.
+So if water is our A minus,
+if that water accepts a proton,
+it forms the conjugate acid H3O plus.
+So the example we've gone through so far,
+HF, is for a weak acid.
+But we can also talk about
+the conjugate base of a strong acid,
+like hydrochloric acid.
+HCl is a strong acid,
+so that means it completely dissociates.
+So it gives away all of its protons,
+and when it does that,
+we're left with the conjugate base, chloride.
+So even though chloride isn't particularly basic,
+it's still the conjugate base of HCl.
+And last but not least,
+we're gonna go through two examples where
+it looks like we might have a conjugate acid-base pair,
+but we actually don't.
+So one example is, what about the relationship
+between H3O plus and OH minus?
+If we think of our acid up here
+being H3O plus, if we lose one proton,
+we saw that its conjugate base is water.
+If water loses another proton, we get OH minus.
+So the difference between these two species here
+is two protons instead of one proton.
+So these two, hydronium and hydroxide
+are not a conjugate acid-base pair
+because they differ by two protons instead of one.
+And then the last example we'll look at is,
+we said that fluoride is a conjugate base of HF.
+So what about the relationship between
+sodium fluoride and fluoride?
+And so these two are also not a conjugate base pair
+because if we take our fluoride ion,
+and it accepts a proton,
+we don't get sodium fluoride.
+They are related by a sodium ion.
+So by definition, these two are not
+a conjugate acid-base pair.
+So in this video, we learned that a conjugate acid-base pair
+is when you have two species
+and they have the same formula,
+except one has an extra proton.
+So the acid has an extra proton,
+which it can lose to form the base.

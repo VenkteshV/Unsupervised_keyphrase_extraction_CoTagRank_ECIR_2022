@@ -1,0 +1,9 @@
+low time jitter 1.0
+master-slave d-type flip-flop 0.1487099677324295
+circuit 0.13746868073940277
+measurement issues 0.1290232092142105
+full-rate clock operation 0.10425154864788055
+self-aligned inp dhbt technology 0.010521379299461842
+packaging -0.023595696315169334
+layout aspects 0.04395250603556633
+good retiming capabilities -0.008566617034375668

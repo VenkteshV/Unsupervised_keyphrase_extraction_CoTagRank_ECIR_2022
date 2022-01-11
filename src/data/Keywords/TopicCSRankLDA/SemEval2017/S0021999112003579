@@ -1,0 +1,15 @@
+linear systems 0.04389477801568904
+tangent stiffness matrix 0.043187604182237355
+newton iteration 0.041722478564680844
+nb unknown discrete lagrange multipliers 0.04072541203516889
+discrete unknowns 0.040675834766766436
+lagrange multipliers 0.040197040527983126
+vector 0.04000801919416756
+related problems 0.03984431877921771
+dirichlet boundary conditions 0.037785852476037676
+solid problem 0.03771298651842054
+displacement constraint 0.037091338105628674
+symmetric positive definite 0.0352407659975358
+diagonal blocks cxl 0.03508876598118085
+nx unknown nodal coordinates 0.03411200129654525
+system 0.03217784115872241

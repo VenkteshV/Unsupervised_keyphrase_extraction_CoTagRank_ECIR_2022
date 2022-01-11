@@ -1,0 +1,15 @@
+crystal plasticity constitutive model 0.046675751180988476
+crystal plasticity model 0.045638041550195005
+crystal plasticity umat 0.04299621593333906
+extensive finite element analyses 0.042572912412499525
+cyclic test data 0.042130067571463974
+cyclic deformation behaviour 0.041728828324322675
+finite element model 0.040014394693576746
+cyclic deformation 0.03994805364864223
+finite element package abaqus 0.03675851719065312
+material subroutine 0.03589043347154125
+fracture criterion 0.032638717787688676
+fatigue crack growth 0.03117669930624993
+realistic material microstructure 0.02917614656042394
+crack growth 0.029097018621200413
+low solvus high refractory 0.0288764094808754

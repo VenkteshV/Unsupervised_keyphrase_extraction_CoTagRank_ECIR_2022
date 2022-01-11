@@ -1,0 +1,245 @@
+•
+Voiceover: In the last video we saw
+the mechanism to make imines.
+And to make an imine,
+we started with an aldehyde or ketone,
+added an amine, used an acid catalyst,
+and we formed our imine.
+And if this Y here is equal
+to a hydrogen, or an alkyl group,
+we called it an "imine."
+If that Y is equal to an OH,
+we would call it an "oxime."
+So let me go ahead and write that,
+so this would be an oxime as your product.
+And so the word, "oxime"
+is kind of like a combination
+of "oxygen" and "imine."
+And then, another derivative would be
+if the Y group was equal to NH two,
+or if the Y group were equal to NH,
+and then have another alkyl group in there,
+so R double prime,
+we would call it a "hydrazone,"
+so this would be a hydrazone derivative,
+and so, the mechanism would be the same
+as what we talked about before.
+And if we formed any of these,
+an imine, an oxime, or a hydrazone,
+and we wanted to go from those products,
+back to our original starting aldehyde or ketone,
+we could just increase the concentration of water.
+So, an excess of water,
+again, an acid-catalyzed reaction,
+could push your equilibrium back this way,
+and give you back your amine,
+and your aldehyde or ketone.
+So, let's take a look at an example of that.
+So, here we have our imine,
+and to it we're adding aqueous acid,
+so an excess of water here,
+and so, we're gonna get back
+our original aldehyde or ketone.
+And if we think about it,
+if we look at our product over here,
+we have a nitrogen double-bonded to a carbon,
+and then an R group, and an R group,
+so nitrogen double-bonded to a carbon,
+R group, and R group;
+so, it's R and R prime,
+so going backwards, we'd be starting
+with a ketone here,
+and so we would get cyclohexanone.
+So let's go ahead and draw cyclohexanone in,
+as one of our products.
+So, for our hydrolysis of an imine,
+we would get cyclohexanone,
+and then, our other product,
+we could see right in here, this portion,
+we would get back our amine,
+and so we would get back our nitrogen,
+and then, think about the mechanism,
+we lost two protons in that mechanism,
+so we get back our primary amine, like that.
+And so, this reaction works, of course,
+for oximes or hydrazones as well.
+But let's look into the formation
+of oximes and hydrazones here.
+So, let's look at another reaction.
+Once again, we're starting with cyclohexanone,
+but this time, we're dealing with hydroxyl amine,
+so this guy right here, once again,
+with an acid catalyst.
+And so, here our OH is our Y group,
+so let's go back up here, and identify that again,
+let me use a different color.
+So our OH is our Y,
+so right here; it's this portion,
+so we're gonna put an OH
+on the nitrogen that's double-bonded
+to our carbon.
+So let's go ahead and draw the products,
+for our oxime here.
+So, we're going to start with our ring.
+So we have our ring here,
+and then we're gonna have our carbon
+double-bonded to a nitrogen,
+and this time, instead of it having
+a hydrogen or an alkyl group,
+we're gonna have an OH,
+so we have an OH right here,
+and let's go ahead and put
+in some lone pairs of electrons,
+and so this would be formation of an oxime,
+so this is our oxime product.
+And, oximes are more stable than imines,
+and the reason for that
+has to do with the fact that we have
+this oxygen here, with a lone pair of electrons,
+so we could think about moving in
+this lone pair of electrons into here,
+and pushing these electrons off, onto this carbon.
+So, if we were to draw a resonance structure,
+we could go ahead and show,
+once again, here's our ring,
+and then here we have
+our carbon bonded to our nitrogen,
+and then, now there would be a double bond
+between this nitrogen and this oxygen,
+and this oxygen would still have
+a lone pair of electrons on it,
+giving it a plus one formal charge;
+this nitrogen would have a lone pair
+of electrons on it,
+and then we move some electrons
+out onto this carbon,
+so this carbon right here gets
+a negative one formal charge.
+So let's show some of those electrons.
+So, these electrons right here, on the oxygen,
+moved into here, and then we could show these electrons,
+kicking off onto this carbon,
+to form a carbanion here,
+for our resonance structure.
+So we can de-localize some of those electrons,
+and you could think about
+this resonance structure over here,
+with this little bit more negative charge,
+helping to stabilize this carbon,
+which we know, is partially positive.
+So it's partially positive, over here on the left,
+and so that electron density
+from that resonance structure
+helps to stabilize it a little bit,
+and so this is one way to look at
+why an oxime is more stable than an imine.
+so let's look at this ketone,
+so, so far, we talked about
+using a symmetrical keytone,
+with R groups that are the same on both sides,
+but this time, we're dealing with an un-symmetrical ketone,
+and so, when we add our hydroxylamine,
+we're gonna get an oxime product,
+but we get two possible products here.
+So let me go ahead and draw them out,
+so because we're dealing
+with an un-symmetrical ketone to start with,
+we could show lone pair of electrons and nitro on one side,
+and the OH on the other side,
+so that's one of our possible products.
+And then we could show a stereoisomer to that,
+we could show the lone pair on the left side this time,
+and the OH on the right side.
+And so, these are stereoisomers,
+so if we examine them a little bit more in detail,
+the OH is opposite side from this,
+if you're thinking about the double bond,
+and the double bond here,
+you can think about the OH being on the same side as this.
+So, stereoisomers are possible,
+if you're not starting with a symmetrical ketone, here.
+And the same thing happens with imines,
+but oximes are more stable than imines,
+and so it's easier to isolate
+the oxime isomers, once they are formed.
+And so, that's something to look out for, on reactions.
+Alright, let's do another reaction:
+and this one's a little bit different than before.
+Alright, so instead of having an OH here,
+we have an NH two as our Y component here,
+so let's go back up,
+and look at our generic reaction again.
+So, an NH two is now our Y right here,
+and so, when the Y is equal to an NH two,
+we're dealing with a hydrazone, as our product.
+So, once again, same mechanism,
+but let's think about what the product
+would look like here:
+So, reaction of hydrazine,
+so this guy right here is called, "hydrazine,"
+with cyclohexanone, is going to give us our ring,
+so a double bond to this nitrogen here,
+and then, this time, our Y is going to be NH two,
+so, we go ahead and put "NH two"
+coming off of here like that.
+And so, this would be a hydrazone,
+so put in my lone pairs of electrons right here.
+And so, once again,
+hydrazones are also more stable than imines,
+and, once again, this had to do
+with the fact that this nitrogen here
+has a lone pair of electrons,
+and so, we can do the same thing that we did before.
+So, this is a hydrazone, hydrazone product,
+so, "hydrazone," like that.
+Alright, let's do another example
+of a formation of a hydrazone:
+So let's look at this guy,
+little bit more complicated looking,
+but you can see that we have here our NH two,
+and then we have all of this;
+we have all of this up here as well,
+and so we can think about this part reacting
+with our carbon EEL,
+so acid-catalyzed reaction again.
+So it looks a little bit intimidating,
+let's get a little bit more space here,
+but really, we're just gonna form hydrazone,
+so you can just think about all this
+as being an R double prime group, if you want to.
+So let's get a little bit more space,
+and let's draw the product:
+So, we're going to have our ring,
+like that, and then we're going to have
+it double bonded our nitrogen,
+so you think about this nitrogen, right here,
+and then, we can just go ahead
+and draw the rest of the molecule, here.
+So, since its symmetrical, it doesn't really matter
+which side I put it, so I'll just put it on the left here.
+So nitrogen, bonded to a hydrogen,
+and then we have our benzene ring here,
+so go ahead and put that in, like that,
+and then we have these nitro groups,
+coming off of our benzene ring,
+and so, this is a famous, historical reaction.
+So this compound that we are reacting
+our cyclohexanone with,
+is two four DNP, so "2, 4 DNP,"
+or "2,4-Dinitrophenyl-hydrazine."
+So this would be two nitro, four nitro,
+dinitrophenyl-hydrazine, so you can see
+this derivative here, of hydrazine.
+And the reason why this is useful, historically,
+is this is a diagnostic test for an aldehyde or a ketone,
+because it reacts with aldehydes or ketones,
+usually to give an orange or red precipitate,
+and that solid usually has a good melting point,
+so you can characterize aldehydes and ketones.
+And so, before the advent of things like NMR,
+this helped with structure determination,
+and there are all kinds of tables,
+listing these hydrazone derivatives,
+and so this is more of a historical reaction,
+than anything else.
+But it is kind of interesting, to look at it here.

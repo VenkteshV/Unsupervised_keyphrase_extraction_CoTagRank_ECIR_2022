@@ -1,0 +1,15 @@
+equations 0.05243739777679643
+compressible single phase fluid 0.04662331472886236
+constitutive equations 0.045664483412492546
+finite element spatial discretization 0.0448118012894612
+discrete numerical schemes 0.04094902226198762
+porous media 0.04071881688562576
+non - lagged backward euler time 0.040603264851726585
+viscoelastic relaxation effects 0.04039616373343053
+viscoelastic porous medium 0.040211128071402494
+fluid 0.03860504887869509
+elasticity 0.03665196043907062
+viscoelastic internal variables 0.036566234237110036
+viscous stresses 0.03620431461091045
+scheme 0.03446335780615468
+pressures 0.0292141693455241

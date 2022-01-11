@@ -1,0 +1,15 @@
+variable step-size extensions multistep methods 1.0
+multistep methods 0.9215899109840393
+variable step-size formulation 0.756888747215271
+bdf formulas 0.40899449586868286
+equidistant time grid 0.2312123328447342
+error-control algorithm 0.3874531388282776
+collocation formulation 0.5039196014404297
+k-step method 0.5366577506065369
+collocation approach 0.2625645697116852
+paper 0.14347876608371735
+variable step-size polynomial collocation formulation 0.7578474879264832
+difference operators 0.19004502892494202
+order 0.1344931721687317
+piecewise polynomials 0.178315207362175
+variable step-size formulas 0.6774346828460693

@@ -1,0 +1,15 @@
+light propagation 0.09268224725020288
+constant refractive index 0.0625599601764425
+wise constant refractive index 0.05732454122083756
+internal refractive index changes 0.05626451273958884
+fresnel reflection 0.052840551555195826
+radiative transport equation 0.048959150661711574
+dot reconstructions 0.040327248916507616
+erroneous boundary measurements 0.03996529619947769
+boundary conditions 0.03641200627077584
+equations 0.035872649486762546
+rte model 0.03513099231889648
+light 0.03340117757667037
+image reconstruction procedure 0.030647103898874123
+model 0.030621731445240278
+interfaces 0.030459223127885314

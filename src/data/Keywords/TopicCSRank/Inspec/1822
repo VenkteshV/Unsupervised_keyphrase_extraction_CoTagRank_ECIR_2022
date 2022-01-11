@@ -1,0 +1,15 @@
+power switches 0.047273357935301505
+neutral point switch 0.04641617370939226
+circuit configuration 0.04560603166242702
+current controller 0.043333301822620164
+switches 0.04292089772040971
+voltage balance compensator 0.04104652954061443
+low current distortion 0.040532981748049174
+power quality compensation 0.04026097391187608
+high power factor 0.03998936630584959
+bridge converter topology 0.039412808600995095
+active power filter 0.03909010272925929
+voltage regulator 0.03772393617201822
+current control scheme 0.03625432010078309
+pwm control schemes 0.03530858618567443
+harmonic currents 0.033483524131116715

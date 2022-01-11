@@ -1,0 +1,15 @@
+mass damper 1.0
+structure 0.7770904302597046
+vibration control 0.6649530529975891
+new variable gain control system 0.5993310213088989
+displacement increase 0.3857589066028595
+active control 0.5846894979476929
+normal controller 0.3526536226272583
+problem 0.23093661665916443
+actuator 0.21830353140830994
+effectiveness 0.20473182201385498
+simulation 0.22278212010860443
+large disturbance input 0.2664774954319
+other method 0.15968267619609833
+switching control system 0.5420395731925964
+auxiliary mass 0.7580245733261108

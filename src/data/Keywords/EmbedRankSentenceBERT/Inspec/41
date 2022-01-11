@@ -1,0 +1,15 @@
+controller performance analysis 1.0
+linear quadratic gaussian 0.8681598901748657
+lqg benchmark 0.9421448111534119
+explicit parametric model 0.8541661500930786
+output variances 0.6393153071403503
+subspace approach 0.5162928104400635
+feedforward control 0.5951261520385742
+optimal lqg performance 0.7873939871788025
+closed loop 0.24888433516025543
+new method 0.35911616683006287
+benchmark variances 0.6878778338432312
+work 0.2354741096496582
+process input 0.6240096688270569
+profit analysis 0.2945088744163513
+lqg benchmark 0.9421448111534119

@@ -1,0 +1,15 @@
+source trackers 1.0
+parallel spatial processors 0.9016476273536682
+noise ratio 0.6873708963394165
+second stage 0.31736302375793457
+electromagnetic vector sensor 0.7571419477462769
+emvs 0.7536342144012451
+multiple broadband sources 0.7537269592285156
+individual source 0.5050793886184692
+source parameter estimates 0.6542229056358337
+conventional adaptive beamforming 0.4609343409538269
+signal location 0.6351352334022522
+processing 0.6136666536331177
+separation 0.30431830883026123
+redesign 0.47690027952194214
+snr 0.15272824466228485

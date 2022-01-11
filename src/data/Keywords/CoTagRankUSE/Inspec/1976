@@ -1,0 +1,15 @@
+wavelet coefficients 0.04700534257756006
+wavelet domain 0.044942791176159555
+redundant wavelet 0.0447495290177721
+image multiresolution decomposition 0.044468784500800364
+adaptive image 0.043557581490951854
+gradient magnitudes 0.04051387192172455
+image edges 0.03825364751956731
+geometric constraints 0.03808893919531109
+image noise 0.03267590410867469
+shrinkage function 0.03257390179226917
+shrinkage functions 0.03188224433551714
+scale consistency 0.030974482147151566
+edge preservation 0.03080690757474072
+homogeneous regions 0.0305085442929801
+image denoising 0.029831218429909778

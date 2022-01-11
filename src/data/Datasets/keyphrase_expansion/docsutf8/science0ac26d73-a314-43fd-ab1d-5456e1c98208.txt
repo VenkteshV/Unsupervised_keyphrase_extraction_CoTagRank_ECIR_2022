@@ -1,0 +1,176 @@
+ Here we have one form of the
+integrated rate law for a first order reaction.
+And we're gonna keep going with the math here,
+so we eventually will talk about the half-life.
+So over here on the left, the natural log
+of the concentration of A at time t
+minus the natural log of the initial concentration of A.
+That's the same thing as the natural log
+of the concentration of A over
+the initial concentration of A.
+So that's just the log property.
+And this is equal to negative kt,
+where k is your rate constant.
+Next, we need to get rid of our natural logs.
+So we're going to exponentiate both sides.
+So we're gonna take e to both sides here
+and that's gonna get rid of our natural log.
+So now, on the left side we have our concentration
+over the initial concentration.
+On the right side we have e to the negative kt.
+So we're gonna multiply both sides
+by the initial concentration of A.
+So we get that our concentration of A at time t
+is equal to the initial concentration of A
+times e to the negative kt.
+And now, it's a little bit easier to think about the graph.
+We can put the concentration of A on the y-axis
+and we can put time on the x-axis.
+And this is in the form of an exponential decay.
+So down here I've graphed an exponential decay graph,
+just to show you what it looks like here.
+Let's think about this point on our graph.
+So that's when time is equal to zero.
+So when time is equal to zero,
+what is the concentration?
+So you would just plug in time is equal to zero into here.
+So you would have your concentration is equal to
+the initial concentration times e to the zero.
+And e to the 0 is of course one.
+So this is one.
+So our initial concentration is obviously
+this point right here, time is equal to zero.
+This is obviously our initial concentration.
+So I'll write that in here.
+So that's this point.
+And as time approaches infinity,
+as time goes to infinity,
+your concentration of A
+goes to zero.
+So as you go out here,
+obviously your concentration of A
+is going to approach zero.
+So that's the idea of an exponential decay graph.
+Next, let's think about half-life.
+So over here is our definition of half-life.
+It's the time it takes for the concentration
+of a reactant to decrease to half
+of its initial concentration.
+So if the initial concentration,
+if this is the initial concentration here,
+what would be the concentration
+after half of it has reacted?
+We would get our initial concentration divided by two.
+So we're gonna plug this in for our concentration
+and then the symbol for half-life is t 1/2.
+So t 1/2.
+So we're gonna plug this in for time.
+So when the time is equal to the half-life,
+your concentration is half of your initial concentration.
+So let's plug those in and solve for the half-life.
+So on the left side we would have
+our initial concentration divided by two.
+And then this would be equal to
+the initial concentration of
+A times e to the negative k
+and then this would be the half life,
+so we plug in t 1/2 here.
+And so now we're just gonna solve for t 1/2.
+We're gonna find the half-life for a first order reaction.
+Let's get some more space down here.
+And we can immediately cancel out
+our initial concentration of A.
+So now we have 1/2 is equal to
+this is e to the negative kt 1/2.
+Alright, next, we need to get rid of our e here.
+So we can take the natural log of both sides.
+So we can take the natural log of 1/2
+this is equal to the natural log of
+e to the negative kt to the 1/2.
+And so that gets rid of our e.
+So now we have the natural log of 1/2
+is equal to negative kt 1/2.
+So we're just solving for t 1/2,
+cause t 1/2 is our half-life.
+So our half-life, t 1/2, would be equal to
+this would be negative
+natural log of 1/2 divided by k.
+Let's get out the calculator and let's find out
+what natural log of 1/2 is.
+So let's get some space over here.
+So natural log of .5 is equal to negative .693.
+So we have the negative of that,
+so we get a positive value here for our half life.
+So our half-life is equal to, let me rewrite this here,
+so our half-life, t 1/2,
+is equal to .693
+divided by k,
+where k is our rate constant.
+So here is your half-life for a first order reaction.
+Now let's think about this.
+If k is a constant,
+obviously .693 is a constant.
+And so your half-life is constant.
+Your half-life of a first order reaction
+is independent of the initial concentration of A.
+So you're gonna get the same half-life.
+And let's think about that for an example.
+Let's go back up here to our graph
+and let's think about half-life.
+So lets' say we're starting with some initial concentration,
+let me go ahead and change colors here,
+so we can think about it.
+I'm just going to represent our initial concentration
+here with eight dots.
+So that's our, let's say we have eight particles
+we're starting out here.
+So obviously this is a theoretical reaction.
+So we're gonna wait until we've lost half of our reactant.
+Alright, so we've lost half of our reactant,
+obviously we'd be left with four.
+We'd be left with four here.
+So, where would that be on our graph?
+Well this point right here is out initial concentration.
+This is concentration here, so we'd go half that.
+So that would be right here on our graph.
+So we'd go over here and we find this point.
+Then we drop down to here on our x-axis.
+And let's just put in some times.
+Let's say that this is 10 seconds
+and 20 seconds and 30 seconds
+and 40 and so on.
+So we can see that it took,
+this took 10 seconds for us to
+decrease the concentration of our reactant by half.
+And so the first half-life is 10 seconds.
+So let me write that in here,
+so t 1/2 is equal to 10 seconds.
+Again, a made up reaction,
+just to think about the idea of half-life.
+And then, let's say, now we have four.
+How long does it take for half of that to react?
+So if half of that reacts, we're left with two particles.
+And on our graph, let's see, that would be right here.
+This point would be half of this,
+so we go over to here,
+and then we drop down.
+And how long did it take for us
+to decrease the concentration of our reactant by half?
+Once again, 10 seconds.
+So this time here would be 10 seconds.
+So this half-life is 10 seconds.
+We could do it again.
+So we lose half of our reactant again.
+And we go over to here on our graph
+and we drop down to here.
+How long did it take to go from
+two particles to one particle?
+Once again, it took 10 seconds.
+So the half-life is once again 10 seconds.
+So your half-life is independent
+of the initial concentration.
+So it didn't matter if we started with
+eight particles or four or two.
+Our half-life was always 10 seconds.
+And so, this is the idea of half-life
+for a first order reaction.

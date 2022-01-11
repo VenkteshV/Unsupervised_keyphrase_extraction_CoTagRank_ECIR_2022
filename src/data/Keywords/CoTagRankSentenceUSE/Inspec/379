@@ -1,0 +1,15 @@
+voltage 0.030519477851968915
+feedforward maximum power 0.030350366143728574
+neural network 0.029522326329656852
+feedforward maximum power point tracking 0.02937708281181736
+feedforward loop 0.029175921788801296
+instantaneous array voltage 0.028728455993837044
+fuzzy feedforward peak power 0.02871801504259041
+interleaved boost 0.02810272118731572
+propagation algorithm 0.027862590862225055
+reference voltage 0.027209611799086184
+error signal 0.027124576066304206
+pv systems 0.02708850132339578
+simulation 0.026912851881533785
+solar cell array 0.026854593148720376
+conventional boost converter 0.02668236747016745

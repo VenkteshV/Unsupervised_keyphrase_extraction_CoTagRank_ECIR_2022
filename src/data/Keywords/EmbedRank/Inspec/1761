@@ -1,0 +1,10 @@
+discontinuous galerkin method 1.0
+nonstationary hyperbolic equation 0.260300874710083
+optimal estimate 0.14412753283977509
+discontinuous solver 0.1064402386546135
+uniform rectangular partition 0.06016349047422409
+half approximative order 0.03118414431810379
+piecewise linear discontinuous galerkin solver 0.1563202291727066
+first order nonstationary hyperbolic equation 0.2245141863822937
+rectangular partition 0.02569945715367794
+half order 0.03118412382900715

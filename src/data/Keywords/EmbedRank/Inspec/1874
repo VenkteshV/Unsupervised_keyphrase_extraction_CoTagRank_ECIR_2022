@@ -1,0 +1,15 @@
+brainiac theorem prover 1.0
+superposition-based theorem prover 0.9148818850517273
+strengths 0.22531117498874664
+flexible interface 0.21433372795581818
+equality 0.1321134865283966
+clausal first order logic 0.1846262365579605
+efficient inference engine 0.15719375014305115
+sound 0.0672992467880249
+strong redundancy elimination criteria 0.2636018693447113
+complete prover 0.020850781351327896
+important properties 0.08250182121992111
+search control heuristics 0.04779161140322685
+system 0.05968274921178818
+discount loop proof procedure 0.06057366728782654
+weaknesses 0.16218793392181396

@@ -1,0 +1,15 @@
+nonlinear iterative smoothing filter 1.0
+cfl condition 0.509808361530304
+smooth areas 0.5667392611503601
+tv scheme 0.41621941328048706
+anisotropic diffusion process 0.6696656942367554
+standard time 0.2624913156032562
+candidate edges 0.35640203952789307
+total variation 0.37901633977890015
+causality 0.23130746185779572
+discrete scheme 0.3865536153316498
+adoption 0.1220557689666748
+approximation 0.4534315764904022
+differential equation 0.4446731209754944
+image 0.28821897506713867
+typical staircase effects 0.10743521898984909

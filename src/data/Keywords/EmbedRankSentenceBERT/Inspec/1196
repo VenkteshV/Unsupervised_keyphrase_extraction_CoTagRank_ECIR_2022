@@ -1,0 +1,15 @@
+ordinary differential equations 1.0
+multiple shooting 0.5364122986793518
+stable integrator symdae encounters 0.9850504994392395
+solution process 0.8707451224327087
+comparable gaussian method 0.849290668964386
+ode integrator 0.7588405013084412
+lobatto ia formulae 0.6127822995185852
+code 0.5526108741760254
+stiff test 0.34840330481529236
+accurate solution 0.934368908405304
+integrator 0.6962833404541016
+algebraic variables 0.9464229345321655
+sharp boundary layers 0.5548624396324158
+stable implicit runge 0.8769195079803467
+previous work 0.29363229870796204

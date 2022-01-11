@@ -1,0 +1,12 @@
+waiting-time distribution 0.9999999403953552
+discrete-time multiserver queue 0.9135754108428955
+d-map/d/k queue 0.9135754108428955
+multiserver queue 0.9135754108428955
+single-server queue 0.9135754108428955
+arrivals 0.14911553263664246
+d-map/d/k system 0.1778065413236618
+deterministic service times 0.055259253829717636
+computational results 0.159159317612648
+procedure 0.10526715219020844
+complete solution -0.017840737476944923
+service times 0.004319239407777786

@@ -1,0 +1,78 @@
+In the first video where we introduced
+the idea of diffusion and concentration gradients,
+we had a container with only one type of particle in it,
+we had these purple particles.
+And in our starting scenario we had a higher concentration
+of the purple particles on the left-hand side
+than we had on the right-hand side.
+And so if we looked at its concentration gradient,
+so the concentration gradient went from
+high concentration on the left
+to low concentration on the right.
+And we saw what happened.
+Since you have more of these particles here
+and they're all bouncing around
+in different directions randomly,
+you have a higher probability of things moving
+from the left to the right than from the right to the left.
+You will have things move from the right to the left,
+but you're going to have more things, so you'll have
+a higher probability of things, moving from left to right.
+And so if you let some time pass, then they become
+more uniformly spread across a container.
+They have moved down their concentration gradient
+to make things more uniform.
+Now, what's interesting about this diagram
+is I've introduced a second particle,
+these big yellow particles.
+And we see that their concentration gradient
+is going in the other direction.
+So we have a low concentration,
+in fact we have no, on the left-hand,
+we have none of the yellow particles
+on the left-hand side, and we have
+a high concentration on the right-hand side.
+So their concentration gradient goes from right to left.
+And the whole point of this video
+is to show that each particle moves down
+its unique concentration gradient,
+assuming that it's not blocked in some way,
+it's going to move down its unique concentration gradient
+irrespective of what the other particles
+are going to do, for the most part.
+And so we see the yellow particles are going to move
+from high concentration, to low concentration.
+They're going to move,
+they're going to diffuse from right to left.
+And once again, there's no magic here.
+It's not like this molecule is saying,
+oh, I've got seven other of my friends here,
+it's getting too crowded, I see them, I'm claustrophobic,
+let me move over to the left-hand side.
+That's not what's going on.
+They're just all randomly bouncing around
+and when you're in the starting position,
+when you're exactly like this, there's no probability
+because of a yellow particle moving from left to right,
+because there aren't any yellow particles here.
+While there's a probability that some of these particles,
+in a certain amount of time, some of these yellow particles
+could move from right to left.
+And so they'll keep doing that
+until you get to a stable configuration
+where now you have an equal probability
+of things moving from left to right, and right to left.
+And that's going to be true for each of these particles.
+So the real takeaway, you'll hear in a biology
+or a chemistry class, of things moving down
+their concentration gradient, and you might say,
+and their unique concentration gradient.
+As you see, the yellow particles' concentration gradient
+goes in the other direction as the purple particles,
+but there's no magic to this.
+You just have to imagine a bunch of things
+just bouncing around in a bunch of different directions,
+and then what would just naturally happen?
+You would naturally have a higher probability of moving
+from high concentration to low concentration,
+than from low concentration to high concentration.

@@ -1,0 +1,15 @@
+methods 0.07621493537078973
+monotone affine variational inequality problem 0.07535917172698442
+monotone linear complementarity problem 0.07500311276612295
+type methods 0.07126551695065045
+active set strategy 0.07062261302168707
+extragradient method 0.062107022434332304
+finite termination property 0.06060116124009996
+iteration 0.049435696439228446
+linearly convergent 0.047687909749091595
+finite termination 0.0425747312305338
+linear system 0.040225307405976796
+assumption 0.03638479919812371
+new projection 0.03520050481525392
+solution 0.033434848172695666
+monotonicity 0.0314035827681722

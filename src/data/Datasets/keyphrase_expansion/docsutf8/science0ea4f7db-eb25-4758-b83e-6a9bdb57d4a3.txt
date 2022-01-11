@@ -1,0 +1,223 @@
+•
+0:02- [Voiceover] Arthritis is a term that we hear
+0:04all the time, right, but to break down this word,
+0:07arthritis, -itis means inflammation.
+0:10Everywhere in medicine it's gonna refer
+0:12to inflammation, and whatever before it
+0:15is telling us where the inflammation is.
+0:17In this case, arthr- is referring to joints.
+0:21Now we have joints in our body that don't move,
+0:24kind of like pieces of our skull that come together.
+0:27Those are not meant to move,
+0:29and it's just holding our head together,
+0:31but the joints that we're thinking of
+0:33and the joints that we're gonna talk about
+0:34are the joints that do move.
+0:36Your knees, your elbows, so on and so forth.
+0:39In those joints, the rough structure, pattern,
+0:41is always gonna have the end of one bone
+0:44and then another bone with a space in between
+0:48that is enclosed by a joint capsule,
+0:51and it's lined with synovium, or synovial lining,
+0:54which produces a fluid that we call
+0:57synovial fluid to lubricate,
+0:59and on the surface of these bones we have cartilage.
+1:03So that's gonna be the rough structure,
+1:04and I'll draw this in much better detail later.
+1:06Any kind of joint inflammation qualifies as arthritis,
+1:11and there's actually a lot of different kinds.
+1:13So if we ask ourselves, "What is arthritis,"
+1:15I wanna go through some of the big categories
+1:18of things that qualify as arthritis,
+1:20and the kinds of people that are likely to get each kind.
+1:24But the first category is probably
+1:26the most common category,
+1:28and that's gonna be arthritis from overuse of the joint.
+1:31This is probably what your grandma is talking about
+1:33when she's saying, "My knee hurts.
+1:34"I have arthritis."
+1:36And the thing is, you and I will probably get this kind
+1:38of arthritis too if we're lucky to live long enough.
+1:42So the groups of people that are most likely
+1:44to get this kind are those who are elderly,
+1:46because they've lived longer
+1:48and have used their joints longer,
+1:50and also people who are obese and overweight,
+1:53because the extra weight they're carrying
+1:55just weighs down their joints.
+1:57So obesity is correlated with more overuse,
+2:01or osteoarthritis.
+2:02Speaking of which, osteoarthritis is the poster child
+2:06for overuse arthritis, osteo- meaning bone.
+2:10Arthritis.
+2:12I'm not gonna write this out every time,
+2:14so from now on I'm probably gonna refer to it as OA.
+2:18Lots and lots of people get this,
+2:19usually in the weightbearing parts of their body
+2:22or whatever is overused the most.
+2:24For example, a typist might get this
+2:26in her fingers or wrists.
+2:28A dancer might get it in her knees.
+2:30This is due to rubbing away of the cartilage
+2:33and general wear and tear on the joint.
+2:35We'll go into the specific pathophysiology later.
+2:39The second big category,
+2:40and it really qualifies as a big category,
+2:43because it includes a lot of different diseases,
+2:46this one's gonna be autoimmune.
+2:48So auto- means self, and immune is referring
+2:52to our immune system, which is usually
+2:55the system that helps us fight off
+2:57invasion from the environment.
+3:00So essentially the body is attacking itself,
+3:02and some of the famous diseases in this category
+3:04you might have heard of.
+3:05They include lupus, Crohn's disease,
+3:07and they're often systemic,
+3:09means they reach a lot of different parts of the body.
+3:12The population, if we had to bet on
+3:15the biggest population to have these diseases
+3:17would be females, usually middle-aged females,
+3:20but for now we're just gonna say females.
+3:22Of course guys get them too,
+3:24but if we're going with our odds,
+3:25it's more common in female patients.
+3:28So autoimmune arthritis.
+3:30At the top of this list has to be rheumatoid arthritis.
+3:33Rheumatoid.
+3:36Aside from OA, this is the other huge category
+3:39of people with arthritis.
+3:41Rheumatoid arthritis.
+3:45And even though it's very different from OA,
+3:48they're often contrasted against each other
+3:50because these are the most common kinds,
+3:52so when we're diagnosing, we always wanna see
+3:54if they're leaning towards OA or RA.
+3:56So compared to OA, the patients on average
+3:58might be younger, but of course elderly people
+4:01get RA as well, but as you will see later,
+4:03the symptoms look very different.
+4:05There's a whole branch of medicine called rheumatology
+4:08that deal with rheumatoid problems,
+4:10so that kinda suggests how widespread it is.
+4:13The thing is, rheumatoid arthritis has a unique thing
+4:16we can isolate from testing the patients' blood.
+4:18It's called rheumatoid factor.
+4:20I'm gonna write RF.
+4:21Rheumatoid factor is something you can test for,
+4:24and it pushes you towards a diagnosis
+4:25of rheumatoid arthritis.
+4:27Now I'm mentioning this because the rest of the diseases
+4:30that went on the list in the autoimmune section
+4:32are collectively referred to as a seronegative arthritis.
+4:37This is referring to the fact that in their serum,
+4:40they don't have rheumatoid factor.
+4:43So this whole category is there to separate
+4:45rheumatoid arthritis from the other
+4:47autoimmune arthritises.
+4:49Arthritises, I don't know if that's a word,
+4:51but that's what we're gonna call it.
+4:53So seronegative is the first part of the word.
+4:55The other half of the category refers to the fact
+4:57that these diseases often involve the spine,
+5:00not just the joints in our limbs that we think of.
+5:03So spondylo- refers to the spine,
+5:07so spondyloarthritis.
+5:10The name here tells you a lot.
+5:11It tells you that it's not gonna be RF positive,
+5:14and it's gonna involve the spine.
+5:16So we have ankylosing spondyloarthritis.
+5:20Ankylosing means a fusion, fusing together,
+5:23which is a common symptom in a lot
+5:25of different types of arthritis,
+5:27but here it's part of the name.
+5:29Ankylosing spondyloarthritis.
+5:32Such long words.
+5:34Spondyloarthritis.
+5:37I'll probably refer to this as AS.
+5:39Everything's about acronyms in medicine.
+5:41And then we have Reiter's syndrome,
+5:43named after the person who found the disease,
+5:47Reiter's syndrome.
+5:49Then we're gonna have psoriatic arthritis,
+5:52psoriatic, which is part of psoriasis,
+5:55one of the autoimmune systemic diseases.
+5:58But it also causes inflammation of the joints,
+6:00so psoriatic arthritis is its own category.
+6:03With the seronegative spondyloarthritis,
+6:06one buzzword I want you to remember
+6:08is called HLA-B27,
+6:13I'm sorry, not seven.
+6:14For those of you taking tests, this counts as a buzzword.
+6:17Every time you see it, think of the seronegative
+6:20spondyloarthritis diseases.
+6:23This is an antigen, surface antigen on an immune cell.
+6:26So all that means is if we have a white blood cell,
+6:29HLA-B27 is an antigen that can attach to it,
+6:32and it's something that these diseases have in common.
+6:35We don't have to go too far into immunology here,
+6:38but just remember, cement these four letters
+6:40and two numbers into your head, HLA-B27,
+6:43and think of autoimmune seronegative spondyloarthritis.
+6:48All right, moving on.
+6:49The next category is gonna be nice and straightforward.
+6:53It's gonna be infectious.
+6:54Even though usually the joints should be
+6:57nice and closed off to the outside environment,
+7:00sometimes an infection gets through,
+7:03and this can give us arthritis,
+7:04so the most dangerous kind is gonna be septic arthritis.
+7:10So sepsis refers to an infection
+7:12that's leaked into the blood.
+7:14So septic arthritis, this person's gonna have fevers
+7:17and systemic symptoms,
+7:19but the original problem's gonna be
+7:20able to be traced to a joint.
+7:22And the people that are most likely to get this
+7:24are young males.
+7:27Think of college-aged kids, maybe slightly older.
+7:30Some of the bacteria responsible include
+7:32gonorrhea, chlamydia, which are the big ones.
+7:35Also bacteria that live on the skin.
+7:37So think of infection if the arthritis came on suddenly,
+7:40it's pretty severe, and we're seeing systemic symptoms.
+7:44Speaking of which, I wonder if Reiter's syndrome
+7:46also fits in the infectious, because it's associated
+7:48sometimes with certain viral infections,
+7:52and it can develop as an aftermath of that infection.
+7:55But I guess it belongs better up here,
+7:57because it's not an active infection.
+7:59But as we get to Reiter's syndrome later,
+8:01we'll talk about that in more detail.
+8:03So far we're talked about overuse of the joint,
+8:06of things inside the body,
+8:08the immune system attacking the joint,
+8:10outside things attacking the joint,
+8:13and the last category we're gonna have
+8:14is gonna be things depositing in the joint
+8:17that really don't belong there.
+8:19Don't really know what to call this.
+8:20Let's call it depository, if that makes sense.
+8:23Depository.
+8:25So there's not really anything attacking it per se,
+8:28but the joint should be a clean, pure place,
+8:32and particles that deposit there
+8:34can cause a lot of inflammation and pain,
+8:36and you probably already know where I'm going with this.
+8:39It's gonna be gout and pseudogout.
+8:44We think of these usually are isolated to certain joints
+8:48in the body, and they almost always occur there,
+8:51but of course they can occur in other places too,
+8:54and it counts as arthritis because it's
+8:56an inflammation of a joint,
+8:57and they both come from depositing certain proteins
+9:00in the joint space.
+9:02So these four big categories round out
+9:04the big things that we refer to as arthritis.
+9:07All these diseases are so different,
+9:09so the next time you hear arthritis,
+9:11remember that's not the stereotypical knee pain
+9:14that we're thinking of.
+9:15So really pay attention to the symptoms
+9:17that distinguish these different kinds
+9:19of arthritis from each other.

@@ -1,0 +1,15 @@
+single-input single-output block-oriented model 1.0
+n-l-n hammerstein-wiener model 1.0
+model 1.0
+linear model 0.8368736505508423
+model structure 0.7402254343032837
+disturbance model 0.7137387990951538
+n-l-n hammerstein-wiener model estimation 0.7492031455039978
+frequency weighted model reduction 0.5444365739822388
+use 0.016583316028118134
+paper 0.045363374054431915
+static nonlinear gains 0.05611196160316467
+simple algorithm 0.021003631874918938
+method 0.027691982686519623
+original loss function 0.01544744148850441
+simulation study 0.08424104005098343

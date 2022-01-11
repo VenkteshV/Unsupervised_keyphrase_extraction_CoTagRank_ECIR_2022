@@ -1,0 +1,15 @@
+error-bounded simplification 1.0
+simplification algorithm 0.3438398241996765
+approximations 0.2573956549167633
+many current simplification methods 0.23259346187114716
+simplification proceeds 0.19572614133358002
+adaptive level 0.19321952760219574
+spatial occupancy grid 0.2212369740009308
+user-specified distance 0.1795276403427124
+detail hierarchy 0.1767134815454483
+approximation 0.22480496764183044
+original surface 0.13690832257270813
+such bounds 0.1219082847237587
+scientific computing 0.157600536942482
+representation complexity 0.2391708940267563
+mesh degeneracies 0.06435640156269073

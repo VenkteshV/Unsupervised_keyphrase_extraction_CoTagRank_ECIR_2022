@@ -1,0 +1,15 @@
+power converter topologies 1.0
+dc capacitor filter 0.6928143501281738
+multipulse topology 0.5251665115356445
+study 0.34406113624572754
+link voltages 0.8664959073066711
+capacitor sizing 0.7587743401527405
+power flow controller 0.786586344242096
+interline power 0.7985155582427979
+chain converter 0.668095052242279
+voltage control 0.833606481552124
+mpc converter 0.6188662052154541
+facts controller 0.4667608141899109
+device count 0.35334810614585876
+series compensator 0.3743511140346527
+power inverters 0.7737026810646057

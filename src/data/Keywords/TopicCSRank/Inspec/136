@@ -1,0 +1,15 @@
+variable fractional delay allpass filters 0.06940712206725634
+variable allpass filter 0.06898951350677668
+dimensional variable fractional delay allpass 0.06330984255336791
+nonlinear phase error 0.06110870306215667
+weighted equation error 0.059374347615605866
+effectiveness 0.05696926629539671
+approach 0.05199757365701208
+cost function 0.05198839980756841
+filters 0.05011592424347247
+fractional delay parameter 0.04998335760425955
+design examples 0.04998125390629671
+polynomial 0.04654588286713212
+iteration 0.04563275360201069
+squares method 0.04548623874386322
+equation error 0.043117215814737

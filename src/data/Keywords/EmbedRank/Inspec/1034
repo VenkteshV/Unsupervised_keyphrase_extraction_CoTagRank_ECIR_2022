@@ -1,0 +1,15 @@
+system 1.0
+vibration control 0.6572367548942566
+flexible-timoshenko-shaft/flexible-disk coupling system 0.870560884475708
+flexible-shaft/multi-flexible-disk system 1.0
+bilinear system 1.0
+optimal feedback control laws 0.6758377552032471
+virtual work 0.19548989832401276
+numerical results 0.19298291206359863
+assumed-mode method 0.2117893248796463
+motion 0.08015106618404388
+strain energies 0.22051295638084412
+bls 0.09665241092443466
+lagrange 0.10521317273378372
+eddy-current damper -0.013464026153087616
+equations 0.09523337334394455

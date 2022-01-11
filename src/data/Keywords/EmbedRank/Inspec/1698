@@ -1,0 +1,15 @@
+reconstruction algorithm 1.0
+exact frequency-domain reconstruction 0.9150539636611938
+fast fourier-domain reconstruction algorithm 0.8300004005432129
+thermal confinement 0.17011728882789612
+effects 0.14267684519290924
+thermoacoustic tomography 0.2769249975681305
+finite length 0.10642865300178528
+resolution 0.12334845960140228
+planar configuration 0.17026293277740479
+constant acoustic speed 0.075556680560112
+factor 0.02273799665272236
+excitation pulse 0.0049845012836158276
+detector surface -0.00042235886212438345
+planar geometry 0.04295393452048302
+algorithm 0.24254009127616882

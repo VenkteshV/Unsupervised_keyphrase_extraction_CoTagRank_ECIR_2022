@@ -1,0 +1,15 @@
+turbofan engine 1.0
+application 0.9121850728988647
+parameter-varying control 0.714553952217102
+rotor speed requests 0.3436407744884491
+linear systems 0.26040390133857727
+command response 0.2883380651473999
+controllers 0.19320091605186462
+fixed power codes 0.23815250396728516
+parameter-dependent control design methods 0.5278804898262024
+nonlinear simulations 0.29990285634994507
+pressure 0.16372528672218323
+paper 0.19461533427238464
+objective 0.13360179960727692
+robustness 0.0873960480093956
+lpv framework 0.1718067228794098

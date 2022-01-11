@@ -1,0 +1,15 @@
+adjoint diffusion equation 1.0
+space derivatives 0.726456344127655
+boundary value problem 0.6316104531288147
+algorithm 0.4545651078224182
+concentration derivatives 0.7572129964828491
+isotropic diffusion 0.9258949160575867
+monte carlo method 0.5108973979949951
+additional conditions 0.4544435739517212
+solution 0.6313315629959106
+coefficients 0.6348611116409302
+trajectories 0.4924297630786896
+convective velocity 0.6670979857444763
+gradient 0.6619259715080261
+euler scheme 0.5899309515953064
+diffusion trajectories 0.726782500743866

@@ -1,0 +1,15 @@
+parallel implicit predictor corrector methods 1.0
+continuous problem 0.5363265872001648
+finite precision 0.5864441394805908
+processors 0.3890923261642456
+roundoff errors 0.5557115077972412
+parallel codes 0.7611491680145264
+initial value problems 0.4240420460700989
+experiment 0.15437956154346466
+parallel implicit predictor corrector methods 1.0
+solution 0.2535185217857361
+coefficients 0.24259178340435028
+stability condition 0.3415045142173767
+stable formulas 0.49612927436828613
+amount 0.30373966693878174
+class 0.1755979210138321

@@ -1,0 +1,15 @@
+solution 0.05797613231420251
+true surface 0.05113153458923496
+geometric errors 0.04616713396394487
+analytic test cases 0.03578787776067602
+geometry parametrisation 0.035157590214088735
+geometric error 0.03476240319821259
+mesh refinement 0.03455369851580337
+solution polynomial orders 0.03387536506865263
+test cases 0.03270302629145796
+exponential convergence 0.0325717543857599
+spatial discretisation errors 0.03161123145246159
+exponential convergence properties 0.031325245065334066
+geometry 0.029249071006894486
+expansion polynomial order 0.029229378731657738
+coarse curvilinear mesh 0.02898709559750256

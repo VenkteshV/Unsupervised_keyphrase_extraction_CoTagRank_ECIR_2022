@@ -1,0 +1,15 @@
+local model error forecasts 1.0
+deterministic model 0.8750634789466858
+assimilation 0.3101903200149536
+model predictions 0.7184697985649109
+local models 0.5736584663391113
+entire model domains 0.693281352519989
+uncorrected model 0.8461712598800659
+improved estimate 0.2366778701543808
+model 0.8390933871269226
+problem 0.2411704957485199
+boundary 0.028327101841568947
+conventional kalman filter type schemes 0.15956026315689087
+standard forecasting procedure 0.2142806202173233
+current time level 0.09304013848304749
+alternate uses 0.09693555533885956

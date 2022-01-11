@@ -1,0 +1,15 @@
+extensions 1.0
+real-world applications 0.6859053373336792
+complicated reductions 0.3409392237663269
+irregular remote data accesses 0.41185644268989563
+hpf extensions 1.0
+usability 0.2953668534755707
+compiler 0.20918798446655273
+real-world production codes 0.43605923652648926
+communication pattern reuse 0.2873392403125763
+sophisticated parallelization 0.28542080521583557
+high performance fortran 0.17880651354789734
+preliminary experiments 0.2152271419763565
+set 0.08701758831739426
+programs 0.2571326792240143
+loops 0.1456749588251114

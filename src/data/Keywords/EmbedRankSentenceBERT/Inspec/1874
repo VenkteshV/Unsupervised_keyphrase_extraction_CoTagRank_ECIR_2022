@@ -1,0 +1,15 @@
+theorem prover e. e 1.0
+efficient inference 0.7226342558860779
+search control heuristics 0.6242747902870178
+brainiac theorem prover 0.9440357685089111
+clausal first order logic 0.7050791382789612
+engine 0.3948858678340912
+system 0.5022963881492615
+equality 0.37762415409088135
+superposition 0.36502236127853394
+discount loop proof procedure 0.3530222177505493
+prover 0.44793325662612915
+strong redundancy elimination 0.2921585440635681
+flexible interface 0.16838258504867554
+strengths 0.3070935904979706
+weaknesses 0.03203519806265831

@@ -1,0 +1,15 @@
+tcp explicit congestion notification 1.0
+atm network 0.8580673336982727
+ecn response 0.7348064184188843
+simulation experiments 0.4241994619369507
+packet retransmissions 0.7377451658248901
+buffer utilization 0.2731398046016693
+throughput 0.6355722546577454
+asynchronous transfer mode 0.7599307298660278
+tcp 0.5879038572311401
+forward congestion indication 0.43576380610466003
+novel idea 0.2589483857154846
+transmission control protocol 0.6305230259895325
+mechanisms 0.2798021733760834
+explicit congestion notification 0.7863756418228149
+networks 0.3578964173793793

@@ -1,0 +1,10 @@
+nltk
+networkx
+numpy
+scipy
+spacy
+six
+sklearn
+unidecode
+future
+joblib

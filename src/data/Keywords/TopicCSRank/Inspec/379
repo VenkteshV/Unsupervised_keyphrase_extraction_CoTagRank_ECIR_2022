@@ -1,0 +1,15 @@
+feedforward maximum power point tracking 0.03854791670691464
+fuzzy feedforward peak power 0.03740834081688251
+applications 0.033957132882604366
+instantaneous array voltage 0.033668308390972346
+tracking algorithm 0.033645150049186515
+feedforward loop 0.033631230510255156
+fuzzy controller 0.03351419959675768
+propagation algorithm 0.03239434123084521
+point tracking scheme 0.03200828783485113
+feedforward maximum power 0.03184216397153729
+error signal 0.03169270472838351
+line training 0.030924269749930074
+data 0.02990032762627401
+controller 0.02980623040828119
+simulation 0.029536094526645726

@@ -1,0 +1,15 @@
+horizontal waypoint guidance algorithm 1.0
+lyapunov stability theorem 0.8516214489936829
+optimal control 0.8535140156745911
+linear quadratic regulator 0.9272016882896423
+speed changes 0.32136979699134827
+simulation 0.36609581112861633
+guidance 0.5324869155883789
+line segments 0.3790090084075928
+horizontal waypoint guidance design 0.9227735996246338
+points 0.3045634925365448
+lqr 0.3732023239135742
+waypoint line segments 0.5608981847763062
+results 0.40964627265930176
+optimal waypoint 0.576151430606842
+sufficient condition 0.496708482503891

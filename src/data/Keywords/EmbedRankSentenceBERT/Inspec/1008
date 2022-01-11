@@ -1,0 +1,15 @@
+scale model predictive control quadratic programming 1.0
+detailed simulations 0.7543978095054626
+efficient qp algorithms 0.7755828499794006
+novel dual space 0.48088887333869934
+c+ 0.6367337107658386
+schur complement algorithm 0.5468034744262695
+construction 0.35838475823402405
+challenging mpc 0.26805636286735535
+tailoring 0.2401629090309143
+study 0.19552752375602722
+algorithms 0.5616559982299805
+qpschur 0.3886416554450989
+new qp method 0.5623131394386292
+applications 0.47350481152534485
+qp algorithms 0.7683597803115845

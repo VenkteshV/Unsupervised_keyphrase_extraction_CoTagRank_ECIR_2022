@@ -1,0 +1,15 @@
+circuit techniques 1.0
+high-voltage transistor 0.38002246618270874
+high coupling-ratio cell technology 0.25401365756988525
+voltage 0.27559342980384827
+path-gate logic 0.16231046617031097
+coupling capacitors 0.1943546086549759
+level shifter 0.16100934147834778
+scale high-voltage transistors 0.2672547996044159
+result 0.10241977125406265
+high-voltage drivers 0.18152005970478058
+comparison 0.07091759145259857
+conventional high-voltage generator 0.24002981185913086
+source-erase nor flash memories 0.0919387936592102
+low noise 0.10985056310892105
+latched nodes 0.1140374019742012

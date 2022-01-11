@@ -1,0 +1,15 @@
+randomized algorithm 1.0
+cross - entropy method 0.8063569664955139
+maximal cut 0.7141934037208557
+distribution converges 0.8562012910842896
+original deterministic network 0.7133920788764954
+associated stochastic network 0.9329012036323547
+random cuts 0.8396120071411133
+iteration 0.7298705577850342
+parameter vector p 0.42170608043670654
+partition problem 0.33428916335105896
+auxiliary bernoulli 0.29767051339149475
+multidimensional ber(p 0.5999864339828491
+polynomial complexity 0.4160824120044708
+sub d/,/sub 0.5860313773155212
+generation 0.35535556077957153

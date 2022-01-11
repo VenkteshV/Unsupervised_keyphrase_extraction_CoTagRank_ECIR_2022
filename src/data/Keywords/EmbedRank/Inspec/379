@@ -1,0 +1,15 @@
+feedforward maximum power point tracking 1.0
+fuzzy controller 0.7765647172927856
+systems 0.6218394041061401
+tracking algorithm 0.5837328433990479
+off-line trained neural network 0.4209897220134735
+reference voltage 0.29149094223976135
+conventional boost converter 0.2596738338470459
+feedforward maximum power 0.7481073141098022
+simulation 0.29221171140670776
+point tracking scheme 0.5793555974960327
+converter fed 0.26254788041114807
+experimental data 0.27951687574386597
+sca 0.2091355174779892
+error signal 0.1955685317516327
+solar cell array 0.19017146527767181

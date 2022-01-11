@@ -1,0 +1,15 @@
+numerical solution 1.0
+adaptive time step procedure 0.8507364988327026
+nonlinear boundary condition 0.8576550483703613
+ordinary differential equation 0.8709762096405029
+discrete approximation 0.7933592796325684
+explicit runge 0.44127923250198364
+space variable 0.6195985674858093
+solutions 0.5762972235679626
+points 0.3377561569213867
+paper 0.2857854664325714
+time converges 0.5289695262908936
+localization 0.3107891380786896
+conditions 0.264615535736084
+blowup 0.36407285928726196
+approximation 0.5894505977630615

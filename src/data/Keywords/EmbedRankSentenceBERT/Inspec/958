@@ -1,0 +1,15 @@
+efficient combinational verification 1.0
+local bdds 0.8976835012435913
+typical internal correspondence 0.9306859374046326
+circuitry 0.7225320339202881
+new cutsets 0.5948485732078552
+binary decision 0.5607461929321289
+equivalent nodes 0.697261393070221
+hash table 0.4741005599498749
+internal node pairs 0.7913169264793396
+bdd sizes 0.7702455520629883
+internal equivalences 0.7399906516075134
+iscas85 0.30313628911972046
+benchmark circuits 0.4208778142929077
+manager -0.04850884526968002
+case verification 0.37402287125587463

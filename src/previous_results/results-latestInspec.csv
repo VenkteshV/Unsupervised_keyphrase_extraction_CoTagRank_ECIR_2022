@@ -1,0 +1,13 @@
+,app,F1_10,P_10,recall_10
+0,Inspec_EmbedRank.out,0.225900 bl ,0.273200 bl ,0.203400 bl 
+1,Inspec_WordAttractionRank.out,0.151600 ▼ ,0.177800 ▼ ,0.143700 ▼ 
+2,Inspec_SingleRank.out,0.223900   ,0.269400   ,0.204400   
+3,Inspec_TopicalPageRank.out,0.226000   ,0.272400   ,0.205600   
+4,Inspec_TextRank.out,0.123400 ▼ ,0.140800 ▼ ,0.102000 ▼ 
+5,Inspec_EmbedRankSentenceBERT.out,0.218800 ▼ ,0.266300 ᐁ ,0.197000 ᐁ 
+6,Inspec_EmbedRankSentenceUSE.out,0.226700   ,0.274800   ,0.204900   
+7,Inspec_MultiPartiteRank.out,0.186500 ▼ ,0.221000 ▼ ,0.171000 ▼ 
+8,Inspec_CoTagRankWindow.out,0.227500   ,0.274700   ,0.206200   
+9,Inspec_CoTagRanks2v.out,0.198300 ▼ ,0.237200 ▼ ,0.180700 ▼ 
+10,Inspec_CoTagRankUSE.out,0.238200 ▲ ,0.288700 ▲ ,0.215300 ▲ 
+11,Inspec_CoTagRankPositional.out,0.228200   ,0.275600   ,0.206600   

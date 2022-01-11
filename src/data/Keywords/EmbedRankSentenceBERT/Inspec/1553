@@ -1,0 +1,15 @@
+implicit inversion method 1.0
+dimensional heat conduction problem 0.7968358397483826
+numerical solution 0.903679370880127
+related inverse problem 0.8212780952453613
+initial temperature distribution 0.7373135685920715
+tikhonov regularization 0.6370411515235901
+error analysis 0.6233518719673157
+explicit difference scheme 0.6738747358322144
+inversion process 0.7868137955665588
+application 0.6289970278739929
+iteration process 0.569751501083374
+equation 0.6803516745567322
+relaxation 0.18837842345237732
+backward problem 0.45726314187049866
+sor technique 0.4521894156932831

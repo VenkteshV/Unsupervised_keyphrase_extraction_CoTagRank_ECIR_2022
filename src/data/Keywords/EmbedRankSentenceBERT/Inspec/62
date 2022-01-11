@@ -1,0 +1,15 @@
+independent speaker verification 1.0
+gaussian mixture model 0.677465558052063
+simple method 0.45953255891799927
+normalized score 0.8192344307899475
+utterance sample covariance 0.962070882320404
+computational complexity 0.23104289174079895
+experimental results 0.5104475617408752
+tested utterance 0.7675230503082275
+speaker covariance 0.8421984910964966
+distortion measure 0.48581376671791077
+verification accuracy 0.5788675546646118
+utterance level scoring 0.7340837717056274
+uls 0.2955514192581177
+text 0.33612537384033203
+second order statistics 0.267150342464447

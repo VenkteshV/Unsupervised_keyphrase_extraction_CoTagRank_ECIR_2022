@@ -1,0 +1,15 @@
+efficient parallel code generation 0.026674782315095014
+performance fortran 0.02629399617317805
+available hpf compilers 0.026249917961396963
+gmd adaptor hpf compiler 0.02617256848914827
+compilers 0.026170390093512016
+hpf compiler 0.02592797694432381
+performance portability 0.02575846143057119
+test programs 0.02571246576253072
+special benchmark suite 0.025660303662301744
+different hpf compilers 0.02560408676623309
+benchmark suite 0.02537689461114625
+prepare prototype compiler 0.025249726118555894
+programmer 0.024932179717549227
+template programs 0.024811451290852066
+tno hpf benchmark suite 0.0243199073753035

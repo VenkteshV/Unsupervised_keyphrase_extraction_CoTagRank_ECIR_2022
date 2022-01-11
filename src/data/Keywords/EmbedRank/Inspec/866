@@ -1,0 +1,15 @@
+steady suction 1.0
+disturbance control 0.9792723059654236
+adjoint-based optimization 0.33820873498916626
+adverse pressure gradient 0.38886451721191406
+optimal suction distribution 0.6797740459442139
+optimal control 0.6724433898925781
+effect 0.2469598948955536
+suction peak 0.5840288996696472
+multiple disturbances 0.3374910354614258
+growth rate 0.2146870493888855
+mean flow modifications 0.24869996309280396
+suction region 0.5852574706077576
+suction 0.794920027256012
+apse 0.15358726680278778
+steady cross-flow mode 0.37586745619773865

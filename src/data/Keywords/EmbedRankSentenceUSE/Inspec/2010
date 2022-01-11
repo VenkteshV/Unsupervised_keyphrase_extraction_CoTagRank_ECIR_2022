@@ -1,0 +1,15 @@
+invariant segmentation approach 1.0
+overall error rate 0.7471916675567627
+perfusion mr images 0.6303262114524841
+scale 0.5666870474815369
+theoretical results 0.798403263092041
+morphological scale spaces 0.9351292252540588
+neural net classifier 0.9470296502113342
+distribution 0.4895896911621094
+uniform prior class distribution 0.7126214504241943
+order 0.22057175636291504
+inherent scale selection selection 0.774518609046936
+image segmentation 0.8428409695625305
+segmentation results 0.9222037196159363
+optimal set 0.5942378044128418
+dynamic magnetic resonance 0.6498815417289734

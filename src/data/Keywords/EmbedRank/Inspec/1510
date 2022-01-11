@@ -1,0 +1,15 @@
+diffusion equation 1.0
+solution 0.9276252388954163
+gradient 0.5097091197967529
+coefficients 0.5384361147880554
+isotropic diffusion 0.4954416751861572
+parallel modelling 0.26425084471702576
+direct differentiation 0.19466187059879303
+dependent testing method 0.22860749065876007
+trajectories 0.44199830293655396
+other additional conditions 0.19174039363861084
+corresponding boundary value problem 0.28795126080513
+algorithm 0.2977869510650635
+directional derivative 0.31779125332832336
+weights 0.13987013697624207
+space derivatives 0.19069018959999084

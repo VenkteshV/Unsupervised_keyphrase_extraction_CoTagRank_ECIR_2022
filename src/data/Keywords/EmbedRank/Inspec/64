@@ -1,0 +1,15 @@
+model 1.0
+speech enhancement 0.5183866620063782
+variances 0.2624872624874115
+mixture-maximum model 1.0
+experiments 0.1661529242992401
+mixture model 0.7406670451164246
+computational requirements 0.23203575611114502
+new algorithm 0.20183171331882477
+quality 0.16913194954395294
+past 0.011839078739285469
+short time spectrum 0.07628549635410309
+production 0.1680665761232376
+maximum assumption 0.10087961703538895
+alternative speech enhancement algorithms 0.4867904782295227
+performance penalties 0.14516013860702515

@@ -1,0 +1,15 @@
+first kind boundary integral equation 1.0
+wavelet collocation methods 0.6346116065979004
+first kind integral equation 0.8714435696601868
+boundary integral equation 0.8881120681762695
+boundary element solution 0.5495647192001343
+linear equations 0.3632756769657135
+conventional stiffness matrix 0.27532270550727844
+paper 0.16994908452033997
+wavelet bases 0.10354654490947723
+system 0.2299828976392746
+diagonal preconditioners 0.14150835573673248
+wavelet algorithm 0.2825268507003784
+respect 0.04799535870552063
+piecewise constant collocation method 0.336253821849823
+acoustic scattering 0.0029662230517715216

@@ -1,0 +1,15 @@
+speech parameterization 1.0
+dependent tfpc filters 0.9477398991584778
+spectral trajectories 0.6501412391662598
+covariance matrix 0.787891685962677
+delta delta parameterizations 0.7848914265632629
+contextual principal components 0.7625463604927063
+frequency principal component analysis 0.8768288493156433
+vector filtering 0.9938641786575317
+new filtering 0.8282122611999512
+speaker identification 0.8261078596115112
+integration 0.4440183639526367
+text 0.42506155371665955
+polycost 0.4494779706001282
+classical cepstral coefficients 0.6194959282875061
+% 0.38388633728027344

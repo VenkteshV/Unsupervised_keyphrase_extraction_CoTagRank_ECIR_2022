@@ -1,0 +1,15 @@
+tangent stiffness matrix 0.06488506605284133
+displacement constraint 0.061610991537810224
+dirichlet boundary conditions 0.0510924284299332
+nb unknown discrete lagrange multipliers 0.05053355790286661
+lagrange multipliers 0.04379242150819349
+lbb stability 0.043345032801100525
+linear systems 0.04127434839443937
+lagrange 0.03678212938491553
+nx unknown nodal coordinates 0.035425744507539506
+newton iteration 0.0332141537662376
+imposition 0.032980473062967246
+e 0.032861584958377626
+symmetric positive definite 0.02994592443344317
+discrete unknowns 0.029667460638072286
+eq 0.02931640588259326

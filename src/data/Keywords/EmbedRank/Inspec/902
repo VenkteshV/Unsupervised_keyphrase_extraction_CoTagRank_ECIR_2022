@@ -1,0 +1,15 @@
+simulation study 1.0
+explicit congestion notification 0.9686172008514404
+enhancement 0.38923466205596924
+transmission control protocol 0.3633502423763275
+atm 0.2548205852508545
+asynchronous transfer mode 0.24319303035736084
+tcp explicit congestion notification 0.9625160098075867
+agent 0.15434886515140533
+buffer utilization 0.32056793570518494
+congestion indication 0.3435251712799072
+throughput 0.3073975443840027
+networks 0.24217453598976135
+ecn response 0.17773695290088654
+tcp reno 0.10436179488897324
+unspecified bit rate 0.1430693119764328

@@ -1,0 +1,7 @@
+Four students performed an experiment to calculate the density of a stone. 
+    While measuring the mass of the stone with the help of spring balance, the first student immersed the stone in water, 
+    the second student immersed it in sulphuric acid, the third student immersed it in kerosene and 
+    the fourth student allowed it to hang freely in air. The correct value of mass of the stone will be obtained by   
+     In this experiment, we need true value of mass that can be measured by suspending the stone freely in air.
+      When we immerse the stone in some liquid, the liquid will exert an upward buoyant force on the stone in upward direction. 
+      This changes the reading of the spring balance and we will not get the correct value. 

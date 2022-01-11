@@ -1,0 +1,15 @@
+voltage balance compensator 1.0
+circuit configuration 0.8014578819274902
+active power filter 0.6845341920852661
+neutral point switch 0.9045016765594482
+bridge rectifier 0.7871658802032471
+reactive power 0.6988169550895691
+phase 0.44551223516464233
+harmonic currents 0.6247473955154419
+power switches 0.9237017035484314
+power quality compensation 0.7082027792930603
+current control scheme 0.5982939004898071
+control signals 0.6099490523338318
+sinusoidal line 0.5376805663108826
+low current distortion 0.6229490041732788
+nonlinear load 0.3404509723186493

@@ -1,0 +1,163 @@
+ All right, part b.
+A fresh zinc air cell is weighed on an analytical balance
+before being placed in a hearing aid for use.
+As the cell operates, does the mass of the cell
+increase, decrease, or remain the same?
+Justify your answer to part b one, or b i, b one
+in terms of the equation for the overall cell reaction.
+So let's just think about it for a little bit.
+Does the mass of the cell increase, decrease,
+or remain the same?
+Well, let's go to our original reaction over here.
+This is our total reaction.
+The zinc is part of the metal air cell,
+so that would contribute
+to its weight beforehand,
+and then it reacts with the oxygen.
+Well, where is this oxygen coming from?
+Well, this is oxygen is coming from the air
+and essentially gets incorporated into the zinc.
+So, before, the oxygen is in the air,
+but then after the reaction, after the total reaction,
+it gets incorporated with the zinc, I guess I should say,
+not into the zinc, of course.
+It gets incorporated with the zinc as zinc oxide,
+and so now, the oxygen is part of the cell.
+Part, or contributes to weight of the cell.
+So, contributes,
+contributes to
+the weight,
+the weight of cell.
+It doesn't contribute before the reaction,
+but it contributes after the reaction.
+So our, the mass, and I guess you could say,
+the weight, is going to increase.
+So I'll just write increase.
+And part two, we need to justify our answer
+in terms of the equation for the overall cell reaction.
+So let me just write the overall cell reaction.
+So, two zinc molecules
+react with one molecular oxygen,
+one O_two, to yield
+two zinc oxide,
+two zinc oxide molecules.
+Well, what we could say is,
+is that this was not part of cell before reaction,
+not part of
+cell before reaction.
+It's coming from the air.
+Before reaction.
+And then we could say, part of cell after reaction.
+Part of cell
+after reaction.
+And we could write it out in words, if we like.
+After reaction.
+And so I could say, oxygen,
+oxygen comes from air,
+from, from air,
+air to be incorporated into the zinc oxide,
+to be incorporated
+into zinc oxide
+which then contributes to weight of cell,
+or to the mass of cell.
+Which then contributes
+to mass of cell,
+to mass
+of cell.
+All right, I think I feel pretty good about that.
+Now let's do part c.
+The zinc-air cell is taken to the top of a mountain
+where the air pressure is lower.
+Will the cell potential be higher, lower, or the same
+as the cell potential at the lower elevation?
+Justify your answer to the first part
+based on the equation for the overall cell reaction
+and the information above.
+Well, let me just write the overall cell reaction again.
+So let me, the overall cell reaction.
+I'll rewrite it again.
+So we have two zinc molecules.
+Let me write that a little bit neater.
+Two, and I wrote it messier.
+Two zinc molecules.
+One molecular oxygen.
+We're going to have this ingrained in our brain
+by the time this is done,
+I'm writing it so frequently.
+We get two zinc oxides.
+Two zinc oxides.
+And so what's going to happen
+if we go to the top of a mountain
+where the air pressure is lower,
+we have just fewer air molecules in general.
+That means we're also going to have lower oxygen molecules.
+So we could say that the partial pressure of oxygen
+is going to be lower.
+So we could say, partial pressure
+of reactant will be lower.
+Partial pressure.
+There's just going to be fewer oxygen molecules from the air
+being able to bump and react with the zinc molecules.
+Well, actually, it's not reacting with the zinc molecules,
+as we saw in the original reactions,
+when we look at the half reactions.
+Fewer reactions from the air just bumping in the right way
+with the water molecules and actually the electrons
+that are coming in through the circuit,
+you're just going to have fewer of them
+bouncing around, being able to do this reaction.
+So you could say partial pressure,
+partial pressure of reactant.
+Or maybe I'll say partial pressure,
+or you could also do the concentration of the reaction,
+there's going to be just, reactant.
+There's going to be less of it around.
+Partial pressure or we can say concentration,
+concentration lower,
+lower,
+so lower,
+so lower cell potential.
+Lower cell,
+cell potential.
+So actually, I just did it in reverse.
+I answered part two first.
+And so part one is lower.
+So we're gonna have a lower cell potential.
+Lower cell potential.
+It's really important to get the conceptual understanding
+of why it's happening.
+Remember, when we look at the half reaction,
+what's happening,
+what is happening at our cathode,
+we have oxygen coming in from the air,
+and it gets into the kind of pores of this porous substance,
+and when the oxygen, the O_2 molecules bump
+in just the right way with the water
+and the electrons coming in,
+they just kind of go together, and react,
+you get your hydroxide,
+for they react to form the hydroxide.
+Now if you have less, you know,
+at a lower elevation, you're gonna have a lot of oxygen.
+You're gonna have a high partial pressure
+of the molecular oxygen.
+So there are a lot of them (mumbles) moment in time
+are going to be available to bounce around and react.
+But if you go to a higher elevation,
+you're just gonna have fewer of these characters.
+So you're gonna have fewer of these characters.
+So you're going to have a lower partial pressure of oxygen,
+or you could think of it as you have a lower
+concentration of oxygen inside the pores,
+so it's gonna be harder for this reaction to move forward.
+And you can think about the extreme situation.
+What if you were going to a super high elevation.
+If you were eventually going into space,
+where you have very little oxygen
+or no oxygen at all, well then,
+then the reaction's going to stop altogether.
+So hopefully, hopefully that,
+that makes, let me just go back to part c here.
+I'm having trouble with my, oh,
+this, then I go back to part c.
+And there you go.

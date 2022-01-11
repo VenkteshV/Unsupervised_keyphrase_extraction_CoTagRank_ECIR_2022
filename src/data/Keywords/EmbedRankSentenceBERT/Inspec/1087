@@ -1,0 +1,15 @@
+experimental matlab code 1.0
+stiff differential systems 0.7310431599617004
+equations 0.9873824715614319
+outperforms 0.40415000915527344
+local discretization error 0.5609332919120789
+newton iterations 0.5575700998306274
+eigenvalues 0.665930986404419
+jacobian 0.29062238335609436
+nonlinear systems 0.7159430980682373
+matlab ode suite 0.9197908043861389
+integration methods 0.5899349451065063
+implicit multistage 0.4838718771934509
+solution 0.4241845905780792
+methods 0.49620863795280457
+imaginary axis 0.2483522742986679

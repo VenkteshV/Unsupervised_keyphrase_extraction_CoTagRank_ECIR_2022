@@ -1,0 +1,15 @@
+validation positron emission tomography 1.0
+little anatomical information 0.6872779726982117
+pet voxels 0.5562292337417603
+biology 0.6175529360771179
+different image enhancements 0.38099995255470276
+automatic registration 0.2314692586660385
+scanner bed 0.43894854187965393
+neck 0.39650797843933105
+ct scans 0.7861490249633789
+full circle consistency test 0.1431124359369278
+radiotherapy treatment mask 0.34388449788093567
+pet scans 0.9865911602973938
+important information -0.09340883791446686
+tumor 0.4986531138420105
+body transformations 0.5374011397361755

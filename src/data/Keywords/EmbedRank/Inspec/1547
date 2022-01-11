@@ -1,0 +1,15 @@
+finite termination 1.0
+methods 0.9664881825447083
+monotone lcp 0.8162480592727661
+linear system 0.3384825885295868
+active set strategy 0.3697194457054138
+solution 0.33938637375831604
+nondegeneracy condition 0.22913770377635956
+iteration 0.28029143810272217
+extragradient method 0.5103182792663574
+new projection-type methods 0.8274062275886536
+combination 0.1962347775697708
+paper 0.15770754218101501
+monotone linear complementarity problem 0.6260339021682739
+finite termination property 0.7892890572547913
+monotone affine variational inequality problem 0.681267499923706

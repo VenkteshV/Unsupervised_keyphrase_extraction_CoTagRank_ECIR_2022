@@ -1,0 +1,15 @@
+stability constant c/sub infinity 1.0
+estimate 0.7952333092689514
+stability 0.8605162501335144
+discrete laplacian 0.165420264005661
+cauchy formula 0.018358513712882996
+neumann boundary conditions 0.022260475903749466
+known result 0.0037132001016288996
+interval 0.042069852352142334
+paper -0.046373043209314346
+sharp resolvent estimate 0.6463817954063416
+crank-nicolson scheme -0.07838786393404007
+one-dimensional heat equation -0.006689201574772596
+c/sub infinity 0.14083696901798248
+present paper 0.0019453575368970633
+heat equation -0.06931690126657486

@@ -1,0 +1,15 @@
+approximate matrix factorization 1.0
+reaction equations 0.939218282699585
+mathematical biology 0.8890275955200195
+nonlinear odes 0.9852259159088135
+operator splitting 0.4765709936618805
+general purpose solver vodpk 0.8316101431846619
+numerical integration 0.9111331105232239
+taxis 0.09196213632822037
+rosenbrock 0.46883103251457214
+certain types 0.23252227902412415
+kutta methods 0.3561171591281891
+spatial discretization 0.36950263381004333
+implicit runge 0.3850202262401581
+positivity 0.19391170144081116
+pde systems 0.2585553824901581

@@ -1,0 +1,15 @@
+monotone linear complementarity problem 1.0
+new projection 0.9671574831008911
+newton method 0.9179482460021973
+finite termination property 0.6943093538284302
+solution 0.6082649230957031
+linearly convergent 0.8891890645027161
+equations 0.46467190980911255
+monotone affine variational inequality problem 0.9378048777580261
+extragradient method 0.5288563966751099
+assumption 0.5246779918670654
+iteration 0.6086061000823975
+monotone lcp 0.6520496010780334
+type methods 0.5822959542274475
+active set strategy 0.47029241919517517
+lcp 0.47139984369277954

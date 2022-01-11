@@ -1,0 +1,15 @@
+text-independent speaker verification 1.0
+utterance level 0.9568092823028564
+nist speaker recognition evaluation 0.7914275527000427
+verification accuracy 0.46090033650398254
+score 0.3552646338939667
+computational complexity 0.39723047614097595
+text independent speaker verification 0.7786532044410706
+utterance sample covariance 0.4864955246448517
+speaker covariance 0.8453567624092102
+distortion measure 0.3331490755081177
+uls 0.24754416942596436
+second order statistics 0.2964208424091339
+utterance 0.6525526642799377
+method 0.21313422918319702
+results 0.2784632742404938

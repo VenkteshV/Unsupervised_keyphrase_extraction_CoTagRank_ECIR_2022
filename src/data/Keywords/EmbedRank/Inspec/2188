@@ -1,0 +1,15 @@
+hybrid ac/dc power systems 1.0
+nonlinear modulation strategy 0.7515630125999451
+power system 0.7299484610557556
+hvdc systems 0.698909342288971
+traditional generator dynamic equations 0.41254815459251404
+dual-infeed hybrid ac/dc system 0.7353532314300537
+local feedback 0.23224084079265594
+inverter 0.23729205131530762
+affine form 0.16813622415065765
+global linearization method 0.299689918756485
+power 0.5981754064559937
+design procedure 0.29461103677749634
+control variable 0.29436177015304565
+non-linear function 0.223734512925148
+important feature 0.16747333109378815

@@ -1,0 +1,15 @@
+inaccurate vehicle segmentation 0.9999999403953552
+accurate scene analysis 0.817110002040863
+monocular color traffic image sequences 0.7512137293815613
+shadow detection 0.7212555408477783
+different lighting conditions 0.6365025639533997
+neighboring scss 0.22419849038124084
+erroneous scene analysis 0.7730941772460938
+vehicle edge pixels 0.7953805327415466
+geometry domains 0.3057059347629547
+gradient density 0.3954029977321625
+image 0.4173044264316559
+average error rate 0.5102134943008423
+sequences 0.26421284675598145
+chrominance 0.4379940330982208
+robust segmentation 0.3418661057949066

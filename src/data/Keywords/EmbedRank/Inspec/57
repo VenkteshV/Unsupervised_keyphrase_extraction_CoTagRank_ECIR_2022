@@ -1,0 +1,15 @@
+vocal tract normalization 1.0
+speaker adaptive modeling 0.6354894638061523
+non-normalized acoustic model 0.3042382001876831
+databases 0.17772729694843292
+well-known two-pass strategy 0.20568835735321045
+fast variant 0.21508663892745972
+experimental tests 0.13400286436080933
+scale factor 0.1331455409526825
+single gaussian densities 0.09444510191679001
+hmm state 0.12069963663816452
+german spontaneous speech task verbmobil 0.15541021525859833
+problem 0.13920047879219055
+efficient method 0.16042256355285645
+recognition performance 0.1373453140258789
+improvement 0.08854652941226959

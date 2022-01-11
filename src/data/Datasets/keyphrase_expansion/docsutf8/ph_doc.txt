@@ -1,0 +1,231 @@
+ Let's do some buffer solution calculations
+using the Henderson-Hasselbalch equation.
+So in the last video I showed you how to derive
+the Henderson-Hasselbalch equation,
+and it is pH is equal to the pKa
+plus the log
+of the concentration of A minus
+over the concentration of HA.
+So we're talking about a conjugate acid-base pair here.
+HA and A minus.
+And for our problem HA, the acid,
+would be NH four plus
+and the base, A minus,
+would be NH three or ammonia.
+So the first thing we need to do,
+if we're gonna calculate the pH of our buffer solution,
+is to find the pKa, all right,
+and our acid is NH four plus.
+So let's say we already know the Ka value for NH four plus
+and that's 5.6
+times 10 to the negative 10.
+To find the pKa, all we have to do
+is take the negative log of that.
+So the pKa is the negative log
+of 5.6 times 10 to the negative 10.
+So let's get out the calculator and let's do that math.
+So the negative log of 5.6
+times 10 to the negative 10.
+Is going to give us a pKa value
+of 9.25 when we round.
+So pKa is equal to
+9.25.
+So we're gonna plug that into our
+Henderson-Hasselbalch equation right here.
+So the pH of our buffer solution
+is equal to 9.25
+plus the log of the concentration of A minus, our base.
+Our base is ammonia, NH three,
+and our concentration in our buffer solution
+is .24 molars.
+We're gonna write .24 here.
+And that's over the concentration of our acid,
+that's NH four plus, and our concentration is .20.
+So this is over .20 here and we can do the math.
+So let's find the log,
+the log of .24 divided by .20.
+And so that is .080.
+So 9.25
+plus .08 is 9.33.
+So the final pH, or the pH of our buffer solution,
+I should say, is equal to 9.33.
+So remember this number for the pH,
+because we're going to compare what happens to the pH
+when you add some acid and when you add some base.
+And so our next problem is adding
+base to our buffer solution.
+And we're gonna see what that does to the pH.
+So now we've added .005 moles of
+a strong base to our buffer solution.
+Let's say the total volume is .50 liters.
+So what is the resulting pH?
+So we're adding .005
+moles of sodium hydroxide,
+and our total volume is .50.
+So if we divide moles by liters,
+that will give us the concentration of sodium hydroxide.
+.005 divided by .50
+is 0.01 molar.
+So that's our concentration of sodium hydroxide.
+And since sodium hydroxide is a strong base,
+that's also our concentration of hydroxide ions in solution.
+So this is our concentration of hydroxide ions,
+.01 molar.
+So we're adding a base and think about
+what that's going to react with in our buffer solution.
+So our buffer solution has NH three and NH four plus.
+The base is going to react with the acids.
+So hydroxide is going to react with NH four plus.
+Let's go ahead and write out the buffer reaction here.
+So NH four plus,
+ammonium is going to react with hydroxide
+and this is going to go to completion here.
+So if NH four plus donates a proton to OH minus,
+OH minus turns into H 2 O.
+So we're gonna make water here.
+And if NH four plus donates a proton,
+we're left with NH three, so ammonia.
+Alright, let's think about our concentrations.
+So we just calculated that we have now .01 molar
+concentration of sodium hydroxide.
+For ammonium, that would be .20 molars.
+So 0.20 molar for our concentration.
+And for ammonia it was .24.
+So let's go ahead and write 0.24 over here.
+So if .01, if we have a concentration
+of hydroxide ions of .01 molar,
+all of that is going to react with the ammonium.
+So we're gonna lose all of this
+concentration here for hydroxide.
+And that's going to neutralize
+the same amount of ammonium over here.
+So we're gonna be left with,
+this would give us 0.19 molar for our
+final concentration of ammonium.
+Hydroxide we would have zero after it all reacts,
+And then the ammonium, since the ammonium
+turns into the ammonia, if we lose this much,
+we're going to gain the same concentration of ammonia.
+So over here we put plus 0.01.
+So the final concentration of ammonia
+would be 0.25 molar.
+And now we can use our Henderson-Hasselbalch equation.
+So let's go ahead and plug everything in.
+So ph is equal to the pKa.
+We already calculated the pKa to be 9.25.
+And then plus,
+plus the log of the concentration
+of base, all right, that would be NH three.
+So the concentration of .25.
+So this is .25 molar for our concentration,
+over the concentration of our acid and that's ammonium.
+So that's over .19.
+So this is all over .19 here.
+So if we do that math,
+let's go ahead and get out the calculator here
+and let's do this calculation.
+Log of .25
+divided by .19,
+and we get .12.
+So 9.25 plus .12
+is equal to 9.37.
+So let's get a little bit more room down here
+and we're done.
+The pH is equal to 9.25 plus .12
+which is equal to 9.37.
+So let's compare that to the pH
+we got in the previous problem.
+For the buffer solution just starting out it was 9.33.
+So we added a base and the pH went up a little bit,
+but a very, very small amount.
+So this shows you mathematically
+how a buffer solution resists
+drastic changes in the pH.
+Next we're gonna look at what happens
+when you add some acid.
+So we're still dealing with our same buffer solution
+with ammonia and ammonium, NH four plus.
+But this time, instead of adding base,
+we're gonna add acid.
+So we add .03 moles of HCl and
+let's just pretend like the total volume
+is .50 liters.
+And our goal is to calculate the
+pH of the final solution here.
+So the first thing we could do is
+calculate the concentration of HCl.
+So that would be moles over liters.
+So that's 0.03 moles divided by
+our total volume of .50 liters.
+And .03 divided by .5 gives us
+0.06 molar.
+That's our concentration of HCl.
+And HCl is a strong acid, so you could think
+about it as being H plus and Cl minus.
+And since this is all in water, H plus and H two O
+would give you H three O plus, or hydronium.
+So .06 molar is really the concentration
+of hydronium ions in solution.
+And so the acid that we add is going to react
+with the base that's present in our buffer solution.
+So this time our base is going to react
+and our base is, of course, ammonia.
+So let's write out the reaction between
+ammonia, NH3, and then we have
+hydronium ions in solution, H 3 O plus.
+So this reaction goes to completion.
+And if ammonia picks up a proton,
+it turns into ammonium, NH4 plus.
+And if H 3 O plus donates a proton,
+we're left with H 2 O.
+So we write H 2 O over here.
+For our concentrations, we're gonna have .06 molar
+for our concentration of hydronium ions, so 0.06 molar.
+And the concentration of ammonia is .24 to start out with.
+So we have .24.
+And for ammonium, it's .20.
+So we write 0.20 here.
+So all of the hydronium ion is going to react.
+So we're gonna lose all of it.
+So we're left with nothing after it all reacts.
+So it's the same thing for ammonia.
+So that we're gonna lose the exact same
+concentration of ammonia here.
+So we're gonna lose 0.06 molar of ammonia,
+'cause this is reacting
+with H 3 O plus.
+And so after neutralization, we're left with
+0.18 molar for the concentration of ammonia.
+And whatever we lose for ammonia, we gain for ammonium
+since ammonia turns into ammonium.
+So we're going to gain 0.06 molar
+1for our concentration of ammonium after neutralization.
+1So we get 0.26 for our concentration.
+1And now we're ready to use the Henderson-Hasselbalch
+1equation to calculate the final pH.
+1So let's do that. Get some more space down here.
+1So the pH is equal to the pKa, which again
+1we've already calculated in the first problem is 9.25
+1plus the log of the concentration
+1of the base and that's .18
+1so we put 0.18 here.
+1Divided by the concentration of the acid,
+1which is NH four plus.
+1So that's 0.26, so 0.26.
+1And we go ahead and take out the
+1calculator and we plug that in.
+1So log of .18
+1divided by .26 is equal to,
+1is equal to negative .16.
+1So let's go ahead and write that out here.
+1So we have our pH is equal to
+19.25
+1minus 0.16.
+1And so that comes out to 9.09.
+1So the pH is equal to 9.09.
+1So remember for our original buffer
+1solution we had a pH of 9.33.
+1So we added a lot of acid, the pH went down a little bit,
+1but not an extremely large amount.
+1So once again, our buffer solution is able to resist
+1drastic changes in pH.

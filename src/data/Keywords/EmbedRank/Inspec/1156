@@ -1,0 +1,15 @@
+favorable noise uniformity properties 1.0
+noise nonuniformities 0.6821072101593018
+fourier-based interpolation 0.20307232439517975
+standard methods 0.20763245224952698
+fourier-based fan-to-parallel rebinning algorithm 0.2690390348434448
+zebra artifacts 0.16775895655155182
+uniform noise ratios 0.5492047071456909
+paper 0.0970408096909523
+variant noise levels 0.5225332975387573
+peculiarities 0.19340570271015167
+filtered backprojection 0.060324206948280334
+strong dependence 0.16163071990013123
+images 0.11175031214952469
+low-contrast object detectability 0.14504650235176086
+single-slice helical computed tomography volumes 0.20933471620082855

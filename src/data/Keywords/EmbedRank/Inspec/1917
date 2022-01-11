@@ -1,0 +1,15 @@
+interval-based abr flow control protocol 1.0
+modeling 0.5195707082748413
+novel flow control protocol 0.8641965985298157
+loss-free flow control mechanism 0.6724250316619873
+protocol 0.6423121690750122
+control decisions 0.39567190408706665
+multiple abr connections 0.20744751393795013
+periodic explicit rate feedback 0.19660413265228271
+fluid traffic model 0.22666747868061066
+numerical analysis 0.18243825435638428
+minimum cell loss 0.15069103240966797
+constraints 0.20528316497802734
+hop-by-hop basis 0.1159784197807312
+performance 0.12589137256145477
+interaction 0.16407839953899384

@@ -1,0 +1,15 @@
+search 1.0
+constraint propagation 0.6769867539405823
+local search algorithms 0.7539780139923096
+filtering-based search 1.0
+search space 0.7827808260917664
+experiments 0.30006006360054016
+specific version 0.16951341927051544
+pruning 0.08143698424100876
+single approach 0.14660215377807617
+local search 0.7662389278411865
+designing hybrid 0.13107924163341522
+conflict-based heuristics 0.3161334693431854
+tabu decision-repair 0.09919732809066772
+partial assignments 0.14096376299858093
+families 0.02821112982928753

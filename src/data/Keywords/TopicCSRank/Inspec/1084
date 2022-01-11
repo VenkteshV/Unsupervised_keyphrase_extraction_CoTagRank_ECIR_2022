@@ -1,0 +1,15 @@
+numerical solution 0.051980268931205734
+initial boundary value problems 0.05192000038494673
+corresponding initial boundary value problem 0.05019102091789694
+finite difference splitting procedure 0.04966570021801915
+applications 0.049608495637966835
+application 0.048012268876958406
+matrix factorization 0.04793260084101722
+indices 0.04598371685297415
+convergence 0.045520182689080486
+nonlinear terms 0.044816083663209764
+spatial index 0.04362009547510356
+partial differential algebraic equations 0.04098011058968065
+quasi - linear pdaes 0.040303988628739955
+results 0.030524129368422265
+class 0.02868094088996071

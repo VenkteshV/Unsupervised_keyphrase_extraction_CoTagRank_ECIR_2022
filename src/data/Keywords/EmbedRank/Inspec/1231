@@ -1,0 +1,15 @@
+scalable shared memory systems 1.0
+parallel programming 0.8766174912452698
+hpf programs 0.36033427715301514
+architectures 0.21361182630062103
+data locality 0.31067606806755066
+adaptor hpf compilation system 0.4754256308078766
+memory execution model 0.4061812460422516
+non-uniform memory access times 0.4655602276325226
+language extensions 0.2089998424053192
+work sharing 0.2266906499862671
+compiler 0.17451703548431396
+simple work-sharing directives 0.18500258028507233
+mechanisms 0.2719448506832123
+high-level interface 0.3009761571884155
+data parallel programming 0.796538233757019

@@ -1,0 +1,15 @@
+erroneous scene analysis 0.03145240439909048
+accurate scene analysis 0.03141267329945099
+vehicle edge pixels 0.031235617318980224
+vehicle images 0.030982857596720002
+monocular color traffic image sequences 0.030110214671606163
+shadow detection 0.02962380087910542
+monocular color traffic image 0.029472585052085234
+error rate 0.029310274195506764
+probability map 0.028152611488396508
+effective method 0.0281251084096718
+average error rate 0.027455219618394956
+method 0.02696951710124931
+inaccurate vehicle segmentation 0.026794310684761072
+image 0.026403920235330516
+geometry domains 0.025856146946978405

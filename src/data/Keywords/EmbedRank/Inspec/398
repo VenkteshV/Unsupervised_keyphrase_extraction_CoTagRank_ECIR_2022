@@ -1,0 +1,15 @@
+finite-element time-domain solution 1.0
+stable finite-element time-domain 0.9751378297805786
+extended fetd algorithm 0.7145183682441711
+nyquist sampling criterion 0.27571260929107666
+use 0.17201565206050873
+computation time 0.26689085364341736
+implementation 0.25383254885673523
+benchmark test 0.28306132555007935
+fetd lattices 0.13096116483211517
+reflection 0.1594092845916748
+advantages 0.20974105596542358
+material 0.1298794001340866
+entire propagation bandwidth 0.2057705670595169
+pml 0.0755976215004921
+spatial discretization 0.13604804873466492

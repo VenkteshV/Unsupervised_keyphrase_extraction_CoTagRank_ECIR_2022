@@ -1,0 +1,15 @@
+two-dimensional heat conduction problem 1.0
+numerical solution 0.8046339750289917
+problem 0.7778342962265015
+direct heat problem 0.9008428454399109
+2-d heat conduction equation 0.8037002682685852
+sor technique 0.20479749143123627
+initial boundary value problem 0.48926156759262085
+inversion 0.233994260430336
+conditional stability 0.20563481748104095
+explicit difference scheme 0.21362008154392242
+transient temperature measurements 0.3188527226448059
+paper 0.10966547578573227
+inverse problem 0.7476443648338318
+iteration process 0.2523721158504486
+error analysis 0.176462784409523

@@ -1,0 +1,15 @@
+linear theory 0.05836190261155223
+mathematical model 0.05784968180096914
+piezoelectric patches 0.05538066652812015
+composite adaptive rectangular structure 0.05417893789484239
+sensors 0.05372640500746448
+piezoelectric actuators 0.052047696375056976
+configuration 0.05059443398723045
+analytical model 0.04968840306113928
+rectangular nonpiezoelectric 0.04783632524102964
+delta -dirac distribution 0.04500512947855202
+piezoelectricity 0.043313564801448115
+material 0.03928821153674182
+objective 0.038558161490865786
+structure model 0.03602976516709772
+mindlin displacement field 0.03310454565068146

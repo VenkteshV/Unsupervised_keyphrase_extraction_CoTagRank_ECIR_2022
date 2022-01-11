@@ -1,0 +1,15 @@
+accurate leaf verification 0.9999999403953552
+ionization chamber 0.2513870894908905
+accurate dose delivery 0.678767204284668
+ccd 0.6619912385940552
+dynamic multileaf collimation 0.7326282858848572
+camera 0.4310636818408966
+modulated beam profiles 0.5401172637939453
+daily leaf verification 0.8637706637382507
+electronic portal imaging device 0.47793248295783997
+leaf position errors 0.5715861320495605
+prerequisite 0.30445271730422974
+epid images 0.3593035638332367
+treatments 0.16072286665439606
+imrt profiles 0.41298454999923706
+reproducibility 0.4124889671802521

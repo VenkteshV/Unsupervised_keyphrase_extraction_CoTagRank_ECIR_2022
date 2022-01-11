@@ -1,0 +1,15 @@
+deterministic server vacations 1.0
+queue 0.722385585308075
+single server vacation queue 0.9378495216369629
+system 0.2523241937160492
+server 0.777806282043457
+deterministic service 0.222329244017601
+time 0.18232575058937073
+poisson arrivals 0.2408120185136795
+deterministic vacations 0.6339518427848816
+special case 0.13509929180145264
+numerical illustration 0.11459514498710632
+completion 0.13481102883815765
+mean 0.030494211241602898
+steady state probability generation functions 0.15914635360240936
+constant duration 0.10651586949825287

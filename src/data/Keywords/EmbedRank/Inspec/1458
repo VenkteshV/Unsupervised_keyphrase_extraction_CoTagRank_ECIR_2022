@@ -1,0 +1,15 @@
+direct gear tooth contact analysis 1.0
+hypoid bevel gears 0.6949248313903809
+gear tooth flanks 0.7921231389045715
+tooth contact analysis 0.8838015198707581
+constructive approach 0.21144752204418182
+transmission error 0.2800135612487793
+second order conditions 0.156080961227417
+contact points 0.38967448472976685
+curvature properties 0.18109244108200073
+exact determination 0.08822274208068848
+process 0.191249281167984
+pair 0.07268226891756058
+paths 0.08112914860248566
+automatic differentiation 0.12469973415136337
+machine accuracy 0.1797734946012497

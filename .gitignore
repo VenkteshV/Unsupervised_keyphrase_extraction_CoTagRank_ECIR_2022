@@ -1,0 +1,8 @@
+regular_output.txt
+src/main/__pycache__/*
+scratch/
+dacapo-9.12-MR1-bach.jar
+src/main/embedding/GoogleNews-vectors-negative300.bin.gz
+src/main/embedding/torontobooks_unigrams.bin
+torontobooks_unigrams.bin
+bi_encoder_sentence_triplets

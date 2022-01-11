@@ -1,0 +1,15 @@
+delay 1.0
+semi-input-memory finite automata 0.9377083778381348
+input memory finite automata 0.5432876944541931
+invertible semi-input-memory finite automata 0.9377083778381348
+finite automata 0.9377083778381348
+autonomous finite automaton 0.576646625995636
+feedforward inverse finite automata 0.8377595543861389
+mutual invertibility 0.10621051490306854
+structure 0.08683734387159348
+authors 0.02328339032828808
+error propagation 0.24686329066753387
+cycle 0.05641264468431473
+paper 0.036199864000082016
+state graph 0.10605527460575104
+generalization 0.04762512817978859

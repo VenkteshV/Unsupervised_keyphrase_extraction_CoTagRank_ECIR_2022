@@ -1,0 +1,15 @@
+tight temperature control 1.0
+slow processes 0.4445142149925232
+robust barrel 0.45329076051712036
+barrel temperature control 0.808506190776825
+control problem 0.5821231007575989
+performance requirements 0.3420073091983795
+extruders 0.34401819109916687
+overshoot 0.31693920493125916
+model predictive control 0.2097049355506897
+temperature control slow temperature control 0.6948511004447937
+fast startup 0.24031893908977509
+production run 0.3353510797023773
+system 0.10691758245229721
+problem 0.4645783305168152
+order 0.007135698106139898

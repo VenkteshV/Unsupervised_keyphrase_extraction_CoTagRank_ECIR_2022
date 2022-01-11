@@ -1,0 +1,14 @@
+linear discontinuous galerkin solver 0.11412807724554935
+first order nonstationary hyperbolic equation 0.10802797280174674
+discontinuous solver 0.09614786207101764
+rectangular partition 0.09185178832131095
+piecewise 0.08924422305549475
+equation 0.08287729486023723
+discontinuous galerkin method 0.07148254532687613
+optimal estimate 0.0690845866409831
+nonstationary hyperbolic 0.05797476179671294
+half approximative order 0.052731174186005876
+p. lesaint 0.05234979548724847
+p. raviart 0.049941821684756624
+superconvergence 0.03985846749803138
+order 0.02429962902402864

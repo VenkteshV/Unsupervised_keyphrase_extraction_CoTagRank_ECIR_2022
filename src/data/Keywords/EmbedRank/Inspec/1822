@@ -1,0 +1,15 @@
+power quality compensation 1.0
+single-phase half-bridge converter topology 0.4834044277667999
+reactive power 0.584527850151062
+voltage regulator 0.37499260902404785
+effectiveness 0.2868207097053528
+line current command 0.18041086196899414
+high power factor half-bridge rectifier 0.4033085107803345
+control scheme 0.16412292420864105
+active power filter 0.38275331258773804
+nonlinear load 0.08805437386035919
+harmonic currents 0.1732320934534073
+power switches 0.3971567749977112
+analytical 0.06821002066135406
+circuit configuration 0.14329442381858826
+experimental results 0.12419857829809189

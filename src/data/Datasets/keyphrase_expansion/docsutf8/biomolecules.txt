@@ -1,0 +1,79 @@
+Voiceover: What is a non-coding RNA?
+A non-coding RNA, or an ncRNA, as it is abbreviated,
+is a functional RNA molecule that actually skips
+this last step and is not translated into a protein.
+In other words, they just go directly from transcription
+into an RNA molecule and then go off
+to perform any number of vital functions within the cell.
+There are many examples of non-coding RNAs,
+including micro RNAs, ribosomal RNAs, transfer RNA,
+the list goes on and on.
+As we go through each of these different types
+and examples of non-coding RNAs,
+you'll start to see that there's
+sort of an emerging theme, here.
+That is that most of these non-coding RNAs participate
+in either transcription or translation
+in one capacity or another.
+Let's start off with micro RNAs.
+Micro RNAs, or miRNAs, function in transcriptional
+and post transcriptional regulation of gene expression.
+They do this by base paring with complementary sequences
+within mRNA, or messenger RNA, molecules.
+This usually results in gene silencing
+through translational repression or target degradation.
+In essence, the mRNA to which these micro RNAs bind
+are prevented from being translated
+or they are sent on a pathway for degradation.
+The next set of non-coding RNAs that we'll be talking about
+are all involved in translation.
+The first of which is ribosomal RNA.
+Ribosomes are the cellular machinery used
+to translate mRNA into proteins.
+It is made up of one type of RNA molecule, ribosomal RNA.
+Transfer RNAs are an adapter molecule that links the codons
+in an mRNA strand to the corresponding amino acids.
+This is another type of non-coding RNA
+that you'll see in translation.
+The thrid type is called snow RNA,
+which stands for small nucleolar RNA.
+It's a class of small RNA molecules
+that guide covalent modifcations of ribosomal RNA,
+transfer RNA, and small nuclear RNAs,
+primarily through methylation, which is the addition
+of methyl groups, or pseudouridylation,
+which is the addition of an isomer
+of the nucleoside uridine.
+Another class of non-coding RNAs
+are the small nuclear RNAs, or snRNAs,
+not to be confused with the snow RNAs,
+the small nucleolar RNAs that we just talked about.
+Small nuclear RNAs get their name from the fact
+that the average length of these RNA molecules
+is approximately 150 nucleotides.
+Their primary function is in the processing
+of pre-mRNA in the nucleus.
+They also aid in the regulation of transcription factors
+or a particular RNA polymerase, RNA polymerase two,
+as well as maintaining telomeres, which are the regions
+of repetitive nucleotide sequences at the end of a chromotid,
+which protects the end of the chromosome from deterioration
+during chromosomal replication.
+SnRNA can be associated with a set of specific proteins
+and form complexes that are called
+small nuclear ribonucleic proteins, or snRNPs
+or sometimes people just call them snRPs.
+There is a special snRP complex called the spliceosome,
+made up of five small nuclear RNAs and over 150 proteins
+that is responsible for splicing, or removing,
+the introns contained in messenger RNA,
+which is a major step in the post transcriptional
+modification that takes place in the nucleus of eukaryotes.
+The way the the spiceosome does this is that it binds
+to specific sequences in the pre-messenger RNA strand
+and performs two sequential transesterification reactions
+that splice out the intron and then [lagate] the two exons
+to form a mature mRNA.
+Now you know a little bit more some examples
+of non-coding RNAs and some of the functions
+that they perform within the cell.

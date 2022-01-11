@@ -1,0 +1,15 @@
+high performance fortran 1.0
+communication optimizations 0.548346757888794
+irregular remote data accesses 0.2972516119480133
+sophisticated parallelization 0.8154237270355225
+extensions 0.33212751150131226
+compiler 0.46385395526885986
+world production codes 0.2525099217891693
+experiments 0.11409952491521835
+user 0.2636025846004486
+pattern reuse 0.17471596598625183
+controllable shadow 0.07830928266048431
+complicated reductions 0.18350264430046082
+hpf 0.1702270656824112
+high performance fortran 1.0
+set -0.02008393034338951

@@ -1,0 +1,15 @@
+time-delay systems 1.0
+class 0.7358143329620361
+controller 0.8090483546257019
+controller synthesis 0.8375536203384399
+controller structure 0.6237425208091736
+proposed controller 0.6219787001609802
+external point delays 0.2926537096500397
+pole-placement controller 0.8090483546257019
+unknown plant parameters 0.2668643891811371
+point-delayed signals 0.21194709837436676
+computational cost 0.18883822858333588
+infinite spectrum assignment 0.2337716519832611
+adaptive case 0.21954436600208282
+input 0.17606964707374573
+important feature 0.17611578106880188

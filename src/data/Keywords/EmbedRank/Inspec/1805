@@ -1,0 +1,15 @@
+control signals 1.0
+exact analytical model 0.8766423463821411
+model 0.8104599714279175
+criterion 0.2555128037929535
+hardware 0.18635356426239014
+simulation 0.2034631222486496
+data probe 0.30643343925476074
+flexible geometry 0.22611330449581146
+external exclusive-or two-input shift 0.17292124032974243
+use 0.11615975201129913
+neighbouring structures 0.1562204658985138
+control stream error probabilities 0.3827711343765259
+motherboard vlsi design 0.2486361563205719
+same signature 0.05657735466957092
+test pattern length 0.18744497001171112

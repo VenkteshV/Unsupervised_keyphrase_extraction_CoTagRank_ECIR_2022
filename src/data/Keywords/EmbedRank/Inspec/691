@@ -1,0 +1,15 @@
+linear continuous uncertain state 1.0
+robust output-feedback control 0.463444322347641
+state feedback control law 0.6040133833885193
+state time-varying delay 0.5657623410224915
+sequential quadratic programming method 0.22639866173267365
+uncertain systems 0.3760136365890503
+availability 0.20150969922542572
+new stability criterion 0.24794794619083405
+other variables 0.22721576690673828
+separation property 0.17390204966068268
+state-delayed time 0.12490757554769516
+example 0.061918798834085464
+observer 0.023761700838804245
+unknown time delay 0.28943583369255066
+criterion 0.13525673747062683

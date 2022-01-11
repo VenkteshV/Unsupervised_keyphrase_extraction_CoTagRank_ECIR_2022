@@ -1,0 +1,15 @@
+transient wave propagation 0.06468767259059946
+transient analysis 0.06428282871133442
+wave propagation 0.0601946075356634
+discontinuous galerkin finite element method 0.05885705597487698
+derivation 0.05446407301788099
+boundary condition 0.05380271671923989
+implicit method 0.0535750746800272
+unbounded domains 0.053131007255946515
+computational cost 0.05137308278065518
+discontinuous galerkin method 0.04830968981462459
+green functions 0.04803233040876524
+analysis 0.04709847866888682
+magnitude 0.04452684254721772
+discretization error 0.04007229914216592
+conditions 0.03945278256370474

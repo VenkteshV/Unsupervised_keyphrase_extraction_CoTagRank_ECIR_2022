@@ -1,0 +1,15 @@
+stiffness matrix 0.07083262274457083
+piecewise 0.06650593401894783
+kind integral equation 0.06525853484566703
+boundary integral equation 0.06449299710617681
+wavelet algorithm 0.06429728454975134
+boundary element solution 0.06285062142997067
+wavelet bases 0.06275065028519819
+first kind boundary integral equation 0.06221123045116576
+wavelet collocation methods 0.06157510980983322
+corresponding matrix 0.06092328798823602
+equations 0.0604688131841382
+collocation method 0.05942711205477253
+acoustic scattering 0.057057919381456774
+matrix 0.056792009675101396
+preconditioners 0.037285860418273496

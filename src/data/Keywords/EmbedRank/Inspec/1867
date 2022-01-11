@@ -1,0 +1,15 @@
+command following 1.0
+design 0.8425236344337463
+fixed-order controllers 0.5919763445854187
+linear programming 0.3376636803150177
+tracking error 0.16294631361961365
+command input 0.6690685749053955
+form 0.11683176457881927
+peak magnitude 0.09997964650392532
+approach 0.1307159960269928
+order 0.17430365085601807
+closed-loop systems 0.13940784335136414
+performance robustness 0.10871780663728714
+non-zero initial conditions 0.08387047797441483
+optimization-based design 0.8425236344337463
+plant coprime factor uncertainty 0.11662747710943222

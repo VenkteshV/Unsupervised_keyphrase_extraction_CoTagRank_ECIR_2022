@@ -1,0 +1,15 @@
+fuzzy feedforward peak power 1.0
+converter fed photovoltaic 0.8288289904594421
+tracking algorithm 0.4671139717102051
+instantaneous array voltage 0.6333606839179993
+error signal 0.5948829650878906
+conventional boost converter 0.4884348511695862
+feedforward maximum power point tracking 0.8382798433303833
+neural network 0.4972423017024994
+pv systems 0.4535263478755951
+reference voltage 0.6277478933334351
+fuzzy controller 0.5320404171943665
+idb 0.28958389163017273
+solar insolation 0.3355046808719635
+duty ratio 0.0687115415930748
+experimental results 0.15284068882465363

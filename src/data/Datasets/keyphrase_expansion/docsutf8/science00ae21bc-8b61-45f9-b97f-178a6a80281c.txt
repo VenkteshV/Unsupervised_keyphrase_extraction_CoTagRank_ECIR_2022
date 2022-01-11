@@ -1,0 +1,213 @@
+
+In the last video, we talked about normal blood values
+and the ranges as well.
+But we didn't really get to units.
+So I thought we would talk about that now.
+I think the best way to think about units and the information
+they tell you is to break it into two basic categories.
+One is amount, and the other is function.
+And we'll talk about each of them in turn.
+So what I mean by amount is, let's
+say that you want to convey to someone information
+about the amount of something.
+What are the different ways you could do it?
+One way to do it is you could say, well, what about the mass,
+let's figure out the mass of whatever it
+is you're interested in, and the volume.
+And you could convey information--
+you could say, well, it's maybe five grams in a liter.
+Or, in the case of hemoglobin, you
+could say it's 15 grams in a deciliter,
+and a deciliter just means 1/10 of a liter.
+So you can actually convey information that way.
+And it's actually done a few times,
+you can see, on this list of lab values.
+So you can see that we do that for hemoglobin.
+And we also do it down here for blood urea nitrogen,
+the fasting glucose, we do it for calcium,
+we do it for phosphate, a few things, total bilirubin.
+Direct bilirubin.
+So this strategy of conveying information
+by simply figuring out the mass over a volume
+is used a few times.
+But here's something that I think a lot of people
+sometimes miss in lab values, and that's the fact
+that you can actually compare things to one another.
+So I could, for example, I could look at this list
+and say, well, hemoglobin, I have 15 grams in a deciliter,
+but I only have 15 milligrams of blood urea
+nitrogen in a deciliter.
+So in one deciliter, the same volume,
+I have a thousand times more hemoglobin
+than I do blood urea nitrogen by mass.
+So that's actually quite interesting
+because that tells you that it seems on the surface,
+at least, that hemoglobin by mass then,
+obviously, is much, much more common
+in the blood than blood urea nitrogen.
+So that's one way to talk about the amount of something.
+Now another way of talking about the amount of something,
+let's switch colors, would be just to count up,
+just to actually literally just go and count up
+the number of something that you find
+in a certain volume of blood.
+And we do that too sometimes.
+We actually will count, for white blood cells,
+we actually count up 5,000 cells in one mililiter.
+Or, for platelets, you might say there are 227,000--
+and I'll put cells in quotes because there
+are cell fragments --in a microliter.
+And even looking at those two, microliter versus milliliter,
+you can see that there are way more
+platelets in the same volume than there are white blood
+cells.
+They may be smaller, but there are many more of them.
+So this is actually the second way to talk about amount.
+Now if you look through this list,
+do you see any other examples of number of something
+in a volume?
+And if you're thinking no, then I'm
+going to point something out to you that might surprise you.
+Think about these-- milliequivalents per liter,
+all of those ions are milliequivalents per liter.
+And so, thinking about what milliequivalent means-- maybe
+we should use an example here to make it a little bit more
+concrete, maybe this would be a good example --sodium.
+So I have here a sodium-- and remember
+sodium is a cation, it's one charge.
+So I have 141 milliequivalents of it.
+And that's actually the same as saying
+that I have 0.141 equivalents, because we know milli- is just
+a thousandth, so that's the same thing as that.
+And we know that, because sodium has just one positive charge,
+that, in terms of equivalence, one mole of sodium
+equals one equivalent of sodium.
+Therefore, if I have 0.141 equivalents of sodium,
+I have exactly the same number, 0.141, moles of sodium.
+And you know that moles-- this is just Avogadro's number,
+this is just 6.02 times 10 to the 23rd, just
+a big, big number.
+So if I actually multiplied this times this-- actually
+the whole thing, obviously --and I actually just
+did it right here with my calculator,
+you can actually find that this 0.141 times 6.02 times
+10 to the 23rd is about 8.5 times 10 to the 22 sodium ions.
+So if I was to literally count them up,
+it would obviously take forever to count
+this huge number of ions up.
+But if I was to do it, all that is
+is just a number over, in this case, what do we have,
+a liter, that's a volume.
+So in one liter, that's how many sodium ions I have.
+So, again, it's just a number over a volume.
+So it's really no different.
+But I think the term milliequivalent
+I think can be a little bit surprising for folks
+to see that.
+And so we don't think of it always as a number.
+Now the third way to think about amount would be a percent.
+And one example would be right here, all these numbers.
+So these are all percents.
+And here these percents are of a number.
+So these are all percents of that white blood cell number.
+So that would be a percent of number over volume.
+So that's saying, for example, for bands, 3%
+times 5,000 per milliliter.
+So that would be example one.
+And another way to think about percent
+would be like this one right here.
+You think about, what does hematocrit mean?
+45%.
+What is that percent of?
+That's a percent of total blood volume.
+So if I took the total blood volume, whatever that is,
+I just take some blood out of my arm and it's 10 milliliters.
+Then 45% of it, or 4.5 milliliters,
+would actually be red blood cells.
+And the rest, the rest of that fluid,
+would be mostly water, of course, but in that water
+it could be proteins and immunoglobulins and all sorts
+of things that help us stay healthy.
+So that percent represents just how much of my total blood
+volume is taken up by red blood cells.
+That's what that number is.
+Now we've talked about amounts in three ways.
+But I've also mentioned function at the bottom,
+I talked about function in the beginning of this.
+So now imagine that you have a situation--
+let's say you have a little enzyme,
+I'm going to draw it here, it's a little y.
+And let's say enzyme y has a job.
+And this enzyme's job is to take little molecules like this,
+five of them, and add little red things to them.
+So it's supposed to add little red things to them.
+And you let this go on for five minutes.
+You basically just keep an eye on enzyme y.
+And you see how many does it convert.
+And you find out that, in the end of five minutes,
+it actually was able to convert four of them.
+So you get four converted in five minutes.
+So far so good.
+That's fine.
+Four were converted.
+Now you have another person.
+They have enzyme y as well.
+And they have more of it.
+So they have more enzyme y than the first person.
+And this person has the same task.
+Or you basically give them a bunch
+of these little purple molecules, whatever, they are,
+and you say, well how many can they converse in five minutes?
+And you might think well, obviously,
+that there's more of the yellow enzyme y protein.
+So if they have more of the enzyme y protein,
+they can obviously do more than person one.
+This is person one up here.
+Let's say this is a person one, and this is person two.
+So person two, after five minutes-- let's say you time it
+--they actually convert three.
+So they were able to convert three, and five minutes are up.
+So a little surprising,
+But now you think back on this and say, OK,
+well if I was, let's say, to just figure out
+the amount of an enzyme-- let's say
+your job, just as in part one, was to figure out
+the amount of an enzyme --and I did it by mass,
+I use the mass over volume of the enzyme.
+Then person two would look like they have more, over here.
+Or if I did the number of enzyme, then
+again person two looks like they have more.
+Or if I did some sort of percent, I don't know,
+percent of all enzymes, again, person two
+looks like they have more because they
+have just more of the enzyme around.
+But if you look at function, if you actually
+look at the amount of work that's
+being done by these enzymes, or the outcome of this enzyme,
+then, clearly, person one actually wins out.
+They have more of the work done than person two.
+1So if you're looking at actual activity--
+1and that's what this is when I say function,
+1you're looking at enzyme activity,
+1or sometimes it's even hormone activity --then
+1that would be a different story.
+1So actually let me make a little bit of space here.
+1So function really alludes to-- let me give you a nice,
+1there we go --so this alludes to hormone or enzyme activity.
+1And, in this case, person one would actually
+1have a higher number because they have more enzyme activity
+1in this case.
+1And so all three of these, these at the bottom,
+1are examples of looking at activity.
+1So whenever you see IU or U, that
+1refers to international units or units.
+1So it's a way of standardizing across the entire globe,
+1or sometimes if it's through a set of labs,
+1just in one country how we look at the function
+1of a certain enzyme.
+1And so anytime you see IU over L,
+1it's not really telling you about the amount of an enzyme,
+1although of course you would expect
+1that there would be some correlation.
+1But it really tells you more about the function
+1of an enzyme.

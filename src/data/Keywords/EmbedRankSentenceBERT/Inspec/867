@@ -1,0 +1,15 @@
+stabilizer design 1.0
+crank mechanism system 0.7721453309059143
+variable structure control 0.838087797164917
+flexible slider 0.6269717812538147
+continuous force model 0.7922829389572144
+mass compensation emc 0.5860170125961304
+momentum balance 0.6809526681900024
+tracking control 0.7688774466514587
+crank angular position 0.8552128076553345
+performance 0.45522016286849976
+simulation results 0.5268173813819885
+gmb 0.47635719180107117
+rod 0.4487628936767578
+approaches 0.5613716840744019
+pole placement technique 0.3880370259284973

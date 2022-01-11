@@ -1,0 +1,927 @@
+Fine_name,Keywords,label1,label2
+archimedes_principle,upward buoyant force 0.09764002442281922,1,1
+,sulphuric acid 0.0855887286967505,0,0
+,stone 0.08353554674738589,0,0
+,mass 0.07553665817823035,1,1
+,density 0.07376846919027856,1,1
+,second student 0.06179080395770108,0,0
+,fourth student 0.061208701477583935,0,0
+,third student 0.05815350558422833,0,0
+,first student 0.0519066275529451,0,0
+,experiment 0.05023734932606733,1,1
+,archimedes' principle 0.019928962574967707,1,1
+,mass (mass spectrometry) 0.01917883936987029,1,1
+,double-slit experiment 0.019059621255741847,0,0
+,mass spectrometry 0.018993567809762177,1,0
+,electron density 0.018060614010485553,0,0
+,reaction (physics) 0.017953066422518035,0,1
+,cavendish experiment 0.01758124163321431,0,0
+,mass–energy equivalence 0.01749009417186636,0,0
+,molar mass 0.017447397838876378,0,0
+,glossary of physic 0.01716762508394504,0,0
+,,,
+biomolecules,ribosomal rna 0.017143360589150086,1,1
+,rna molecule 0.017078116341865887,1,1
+,functional rna molecule 0.016949384932049984,1,1
+,small nucleolar rna 0.016906977892464908,1,1
+,small rna molecule 0.01681003584919991,1,1
+,rna polymerase 0.01678416777258044,1,0
+,transfer rna 0.016238853472277576,1,1
+,sn\. rna 0.016174983781011197,0,1
+,particular rna polymerase 0.016125013045101496,0,0
+,rna polymerase iii 0.028777721537204794,1,1
+,rna polymerase ii 0.028653109145134158,1,1
+,rna-dependent rna polymerase 0.02858089846972723,1,1
+,rna polymerase i 0.028001824997406714,1,1
+,small nucleolar rna snord38 0.0279145873174962,1,0
+,non-coding rna 0.027608506413671175,1,1
+,23 ribosomal rna 0.02759807160050336,1,1
+,rna polymerase ii holoenzyme 0.027545586989623665,1,1
+,,,
+crack_band_semeval,maximum tensile principal strain 0.03668162091999868,1,1
+,strain tensor 0.0337395031441573,1,1
+,inelastic strain law 0.03311803037370317,1,1
+,tensile part 0.03268455655134321,1,0
+,compressive part 0.032647511287156095,1,1
+,inelastic strain 0.03252624018598978,1,1
+,inelastic strain profile 0.0324629124036886,0,1
+,mesh dependence 0.03207239321971596,1,1
+,compressive damage parameter 0.030893580878816797,1,0
+,mesh size independent load 0.030174199680610567,1,1
+,tensile structure 0.025933047596022923,1,0
+,deformation (engineering) 0.024753845475943646,0,0
+,viscous stress tensor 0.023880949069977415,1,0
+,deformation (physics) 0.023436869699293487,0,0
+,infinitesimal strain theory 0.023275489505630638,1,0
+,strain-rate tensor 0.023084509371554932,1,1
+,finite strain theory 0.022884699333783887,1,1
+,elastic modulus 0.022859239144976982,1,1
+,plasticity (physics) 0.02282586094592719,0,0
+,hooke's law 0.022018829713875927,1,1
+,,,
+exothermic_endothermic,endothermic reaction 0.032634878125936906,1,1
+,exothermic reaction 0.03235057134341396,1,1
+,exothermic process 0.0311508695857484,1,1
+,endothermic process 0.029168770356564868,1,1
+,chemical reaction 0.02895721493100413,1,1
+,reactant 0.028467368269816197,0,1
+,decomposition reaction 0.028391522084136686,1,1
+,nitrogen dioxide 0.02748812505693015,0,0
+,exergonic and endergonic reaction 0.031439533294665596,1,0
+,heterogeneous catalysis 0.03064711043104416,0,0
+,endothermic gas 0.029446225594977712,1,0
+,chemical kinetics 0.028169966997320803,1,1
+,salt metathesis reaction 0.027625696444236993,0,0
+,chemical transport reaction 0.02726313835636623,0,0
+,,,
+lung_cancer,small cell lung cancer 0.05288984842896665,1,1
+,non - small cell lung cancer 0.051134011734174395,1,1
+,lung cancer 0.044775485318457896,1,1
+,lung tissue sample 0.041099842821064256,1,1
+,cancer cell 0.04054651524580731,1,1
+,small cell 0.03785940601141971,0,1
+,tiny cell 0.036616196496316304,0,0
+,lung 0.03615812811851761,1,1
+,baby cell 0.03557618311795573,1,1
+,cell wall 0.03519668074069822,0,0
+,squamous-cell carcinoma of the lung 0.02912512430285979,0,0
+,combined small-cell lung carcinoma 0.02863982998828854,0,0
+,lung transplantation 0.028167606056425345,1,1
+,treatment of lung cancer 0.028036402192977317,0,0
+,non-small-cell lung carcinoma 0.027781115997862312,0,0
+,large-cell lung carcinoma 0.027640266545773475,0,0
+,cancer stem cell 0.027265928117529516,0,0
+,lung cancer vaccine 0.026931688275712157,0,0
+,,,
+ph_doc,hydroxide ion 0.02860110139296824,1,1
+,sodium hydroxide 0.02819340323087808,1,0
+,molar concentration 0.027856648296071134,1,1
+,hcl 0.02785566972807755,1,0
+,hydronium ion 0.027297255109967295,1,1
+,buffer solution calculation 0.026750181575682392,1,1
+,nh3 0.026563625221091153,1,0
+,hasselbalch equation 0.02489902573297087,1,1
+,hydroxide 0.024446209293829704,1,1
+,acid–base titration 0.02249560780375487,1,0
+,titration 0.020017563105342907,1,0
+,carbonic acid 0.019869679974331613,0,0
+,hcl sametime 0.019620877183171875,0,0
+,conjugate acid 0.01958760663955126,1,0
+,magnesium hydroxide 0.018743408550702632,0,0
+,order of magnitude (molar concentration) 0.018705145436518238,1,1
+,bicarbonate buffer system 0.01866449170224078,0,0
+,copper(ii) hydroxide 0.01856103901091603,0,0
+,,,
+science_qa33eab9fa-9359-4975-a860-ac7eb3a293e2,energy 0.30428031506726605,1,1
+,total energy 0.29151330369784595,1,1
+,energy transformation 0.23360675871557557,1,1
+,conservation 0.08782053996054312,1,1
+,system 0.054162793299431265,1,0
+,law 0.028616289259338224,1,0
+,conservation of energy 0.04499326906780079,1,1
+,transfer of energy 0.04473501375951368,0,1
+,energy density 0.04126803505122531,0,0
+,energy homeostasis 0.040315586914506464,0,0
+,energy transition 0.040094350559777524,1,1
+,kinetic energy 0.03866856242068641,0,0
+,potential energy 0.038540188038827305,0,0
+,energy consumption 0.03647181646085142,0,0
+,fermi energy 0.036177901608357585,0,0
+,,,
+science_qabeb3fa47-33e4-4437-abaa-b255962dc5e6,momentum 0.36002696620376073,1,1
+,force 0.19159670204124538,1,1
+,change 0.17436435349076712,0,0
+,physical quantity 0.16424454299353516,0,1
+,rate 0.1097674352706916,0,1
+,momentum transfer 0.03851237514201796,0,0
+,angular momentum 0.03827888526098734,0,0
+,momentum operator 0.03777420394111176,0,0
+,angular momentum operator 0.03492429610735154,0,0
+,lorentz force 0.03430679537251274,0,0
+,dimensionless quantity 0.033538549846631814,0,0
+,momentum (disambiguation) 0.03240227606429706,1,1
+,momentum (finance) 0.0320013389865219,0,0
+,spin (physics) 0.02926905086705687,0,0
+,,,
+science_qac57d6e68-79fc-48d6-8158-2e0664fe63ff,nucleic acid molecule 0.10539363154874695,1,1
+,dna 0.10411959906446447,1,1
+,rna molecule 0.10367302373890426,1,1
+,organism 0.09492712514786955,0,0
+,deoxyribonucleic acid 0.09188208517516165,1,1
+,protein 0.0841023898380888,1,0
+,cell 0.0762553998755469,0,0
+,genetic instruction 0.06266903931359201,1,1
+,blueprint 0.046095354610860645,1,0
+,component 0.04387826341590361,0,0
+,nucleic acid structure 0.021283842843062693,1,0
+,nucleic acid secondary structure 0.021188302848110924,1,0
+,dna polymerase 0.020900394610210975,1,0
+,peptide nucleic acid 0.020538125605990797,1,0
+,dna replication 0.020472740806955356,0,0
+,molecular structure of nucleic acids: a structure for deoxyribose nucleic acid 0.020360844916083743,1,0
+,dna sequencing 0.02023121970228698,0,0
+,nucleic acid 0.020026485553591725,1,1
+,mitochondrial dna 0.019820178967828284,1,0
+,nucleic acid hybridization 0.019772503320518456,0,0
+,,,
+science_qac58cb615-f2ca-4210-9032-32b3f5af5eed,chromosome 0.2304892536658249,1,1
+,human cell 0.1910894589563808,1,1
+,cell 0.13066369481594084,1,0
+,human 0.09797791932508897,1,0
+,pair 0.08756887575023418,0,0
+,structure 0.08215854479875451,0,0
+,individual 0.05698652062736627,0,0
+,information 0.053843264679786035,0,0
+,number 0.049204290511328894,0,0
+,thread 0.02001817686929466,1,0
+,list of distinct cell type in the adult human body 0.020276893098475444,0,0
+,homologous chromosome 0.019827359356547575,0,0
+,cell (biology) 0.01953319841034398,1,1
+,human genome 0.019404472648262148,1,1
+,cell membrane 0.01825431496260512,0,0
+,meiosis 0.018231622765985427,0,0
+,sex chromosome 0.018140667429581883,0,0
+,cell division 0.017781592729464675,0,0
+,cell culture 0.017720465737675585,0,0
+,embryonic stem cell 0.017392886039847205,0,0
+,,,
+science0a430497-f28e-40dc-aa3f-88f1b597017a,oxygen molecule 0.035363543855277145,1,1
+,molecular oxygen 0.03532880386548171,1,1
+,air molecule 0.03446097862214521,0,1
+,o_2 molecule 0.0344562208961873,1,1
+,zinc molecule 0.032622366264772634,1,1
+,zinc oxide molecule 0.032620435087854026,1,1
+,overall cell reaction 0.03221692237333117,0,1
+,water molecule 0.028752526890918978,0,0
+,reactant 0.028709060963718547,0,1
+,cell potential 0.028026160489918725,1,1
+,electrochemical cell 0.021750680634860933,0,0
+,electrolytic cell 0.021097523613418184,0,0
+,chemical kinetics 0.020795607705580244,1,1
+,allotrope of oxygen 0.020118751829722024,0,0
+,manganese dioxide 0.01991486051758746,0,0
+,liquid oxygen 0.01981974117836459,0,0
+,diatomic molecule 0.01964595705821756,0,0
+,phosphoric acid fuel cell 0.019480449560049837,0,0
+,polymer electrolyte membrane electrolysis 0.01933040456858895,0,0
+,solid oxygen 0.019272404745241417,0,0
+,,,
+science0aa30d4b-107a-4d79-bad0-6d3e9145d34e,conjugate acid h3o 0.028682684315301625,1,1
+,hydrochloric acid 0.027107355321284603,0,0
+,hydrogen ion 0.026804444009901302,0,1
+,sodium ion 0.026330537641658786,0,0
+,strong acid 0.02581156523268008,1,0
+,hydrofluoric acid 0.025753680045442474,0,0
+,fluoride minus ion 0.02571765621688077,1,1
+,hcl 0.02556547030928909,0,0
+,fluoride ion 0.02554833149388746,1,1
+,weak acid 0.02480715627634844,1,1
+,conjugate acid 0.023372131945993503,1,1
+,acid–base reaction 0.022915232411395155,1,1
+,nitric acid 0.02282049199635152,0,0
+,acid dissociation constant 0.02204797497187697,1,1
+,hydrochloric acid regeneration 0.02191577817211842,1,0
+,phosphoric acid 0.021522389414140995,0,0
+,acid–base titration 0.02121462603230758,1,0
+,hydrogen chloride 0.020997549430540573,0,0
+,benzenesulfonic acid 0.02090215469034883,0,0
+,,,
+science0aaf8337-078e-4ba9-be75-ed70624408f3,lung tissue 0.017333141331138637,1,1
+,right lung 0.016981466953477038,1,0
+,left lung 0.01659957397637196,1,0
+,lung 0.015932026341561142,1,1
+,alveolus 0.015751487981550506,1,1
+,lung infection 0.014329487788563336,1,1
+,airway 0.013451282764642473,1,1
+,capillary 0.013430956246656788,1,1
+,alveolar tissue 0.01337359805189964,1,1
+,oxygen 0.01332862004619501,1,1
+,interstitial lung disease 0.02247265955237066,1,1
+,adenocarcinoma of the lung 0.02211100510898222,0,0
+,root of the lung 0.02114508234716524,1,0
+,respiratory tract 0.020982997028030703,1,1
+,lung cavity 0.020593520696356896,1,0
+,lung transplantation 0.020267318360606017,1,0
+,pulmonary artery 0.02014194447644612,0,0
+,pulmonary fibrosis 0.020140297290978836,0,0
+,pulmonary consolidation 0.01983456303271784,0,0
+,,,
+science0ac4f68b-7929-4cf5-8bba-8e6ee9a0d856,yellow particle 0.04181303770439258,0,0
+,particle 0.04019167055912638,0,1
+,concentration gradient 0.03995861320902404,1,1
+,unique concentration gradient 0.038601597367470965,1,1
+,diffusion 0.03851862510955478,1,1
+,second particle 0.038260874478430365,0,0
+,purple particle 0.03791045307209494,0,0
+,anomalous diffusion 0.02842007284499948,1,1
+,electrochemical gradient 0.02741618578319147,0,0
+,molecular diffusion 0.026883750596054214,1,1
+,fick's law of diffusion 0.025213466169828634,0,0
+,diffusion current 0.024840621720315856,0,0
+,massless particle 0.024741425649499105,0,0
+,elementary particle 0.024622245704754107,0,0
+,particle physic 0.024569404967314776,0,0
+,rayleigh scattering 0.024298524200787087,0,0
+,facilitated diffusion 0.024267333018749553,1,0
+,,,
+science0ac26d73-a314-43fd-ab1d-5456e1c98208,initial concentration time e 0.0378082591238779,1,1
+,exponential decay 0.03501762701632806,1,1
+,exponential decay graph 0.03445523979748343,1,1
+,reactant 0.0323789045053712,1,0
+,initial concentration 0.03196696830405045,1,1
+,theoretical reaction 0.03012879329146276,1,0
+,natural log 0.029741994178240447,0,1
+,negative natural log 0.029595777934861244,0,0
+,rate law 0.029175947147300412,1,1
+,concentration 0.027273091522796368,1,0
+,natural logarithm of 2 0.023405345160295927,0,0
+,dilution (equation) 0.022590967868017862,1,0
+,natural logarithm 0.022359421528858656,0,1
+,exponential function 0.02212157055886395,0,1
+,cottrell equation 0.0220943694316912,1,0
+,logarithmic derivative 0.022070211470502532,0,0
+,rate equation 0.02184691166837142,1,0
+,chemical kinetics 0.02167538350810124,1,1
+,laplace transform 0.021061834740539312,1,0
+,e (mathematical constant) 0.021026302449019416,0,0
+,,,
+,,,
+science00ae21bc-8b61-45f9-b97f-178a6a80281c,total blood volume 0.013246305421351277,0,1
+,hemoglobin 0.012523700882182267,1,1
+,blood urea nitrogen 0.011855038900900672,0,0
+,normal blood value 0.011709942648916252,0,1
+,protein 0.011139169357192917,0,0
+,milliliter 0.011093079987606929,1,1
+,ion 0.010991248324285599,0,0
+,avogadro 0.010974617649340412,0,0
+,milligram 0.010914106004546294,1,1
+,hemoglobin e 0.01925666217139142,0,0
+,glycated hemoglobin 0.019248198264544922,0,0
+,c a 0.018967069660610902,0,0
+,hemoglobin c 0.01860685714456701,0,0
+,embryonic hemoglobin 0.01825974163020653,0,0
+,fetal hemoglobin 0.017293518479137453,0,0
+,avogadro constant 0.01713378395864498,0,0
+,	 0.016446995737149354,1,1
+,,,
+science0afdc4cf-a0b9-424d-adc8-14955f2c3638,convergent plate 0.030695609676028475,1,1
+,continental plate 0.029641621219491796,1,1
+,nazca plate 0.029453106588192453,1,1
+,oceanic plate 0.028759694240039543,1,1
+,pacific plate 0.02773668186266396,1,1
+,south american plate 0.025768255520229585,1,1
+,euroasian plate 0.02534756723426646,1,1
+,indian plate 0.025235411978815223,1,1
+,plate boundary 0.02500368156470169,1,1
+,plate tectonics 0.1164042489335429,1,1
+,list of tectonic plate interaction 0.10274377596706374,1,0
+,farallon plate 0.10251317988630873,1,1
+,eurasian plate 0.09671004388436485,1,1
+,north american plate 0.08970709341597041,1,0
+,indian copper plate inscription 0.07647929453749275,1,0
+,,,
+,attention deficit hyperactivity disorder 0.013133746626445945,1,1
+science00afee9b-882c-4fc7-b655-4d2892885722,developmental disorder 0.01306404594553487,1,1
+,neurodevelopmental disorder 0.012812305251617626,1,1
+,different neurodevelopmental disorder 0.012798822445296877,1,1
+,specific disorder 0.012695394755861579,1,0
+,adhd 0.012683780744611689,1,1
+,disorder 0.012579890522402923,1,1
+,autism spectrum disorder 0.01247802575327292,1,1
+,behavioral disorder 0.012473137979912074,1,1
+,condition comorbid to autism spectrum disorder 0.033216514688321,1,1
+,attention deficit hyperactivity disorder predominantly inattentive 0.03269248583044952,1,0
+,history of attention deficit hyperactivity disorder 0.031131762926688903,1,0
+,adult attention deficit hyperactivity disorder 0.03030020050789111,1,1
+,attention deficit hyperactivity disorder management 0.02970823157563527,1,0
+,specific developmental disorder 0.028733821119910373,1,1
+,journal of neurodevelopmental disorder 0.028418141210822104,1,0
+,autism spectrum disorder in the medium 0.0277709979521335,1,0
+,diet and attention deficit hyperactivity disorder 0.027232267071388698,1,0
+,,,
+,,,
+science0b0ef249-9131-4961-89ff-1f0b0cf44b2c,arbitrary liquid 0.055496788382716905,0,0
+,liquid time gravity 0.05160068963313359,1,1
+,buoyant force 0.04133818424714406,1,1
+,molecule 0.0355453186491882,0,1
+,total depth- time gravity 0.03546506644160536,1,1
+,surface area 0.034284505481005784,1,1
+,density 0.0339812106000738,1,1
+,density- 0.03313640918544423,1,1
+,volume time density 0.03266327472196736,1,0
+,water 0.032639473002207556,0,0
+,diatomic molecule 0.02302197069057797,0,0
+,surface tension 0.022396423400996027,1,1
+,small molecule 0.02229598860369754,0,0
+,electron density 0.02218087300068452,0,0
+,dispersion (water waves) 0.021980955317843907,1,1
+,current density 0.021868100601724377,0,0
+,energy density 0.021551892747515428,0,0
+,density of air 0.021292426521290455,0,0
+,electrolysis of water 0.021194111507507104,0,0
+,displacement (fluid) 0.021112606404980732,1,1
+,,,
+,,,
+science0b117ba8-d1e9-4f03-b762-f1a10a71683b,screw 0.04041778096464155,1,1
+,nipper plier 0.03855829542570657,1,1
+,modification 0.035285549585035145,0,0
+,bumper switch 0.03209254353937363,1,1
+,switch 0.03009176097924127,1,1
+,blade knife 0.029056480866033588,1,1
+,wire 0.028951611282220024,1,1
+,gauge wire 0.028783951841019922,1,1
+,right tool 0.028577974870095963,0,0
+,outer shell 0.027280736360342717,0,0
+,pentalobe screw 0.01901796249733225,1,0
+,plier 0.018839659421314582,1,0
+,syndesmotic screw 0.01879902829288495,1,0
+,self-tapping screw 0.018536701874008125,1,0
+,post-transcriptional modification 0.01790176143934414,1,0
+,litz wire 0.017734494020435528,0,0
+,shell and tube heat exchanger 0.01742872859748049,0,0
+,nail clipper 0.016984809614825905,1,0
+,kirschner wire 0.01667170412100503,1,0
+,aerial stem modification 0.016659847897367,1,0
+,,,
+,,,
+science0b161a08-8eab-4b58-8454-64ca026489ce,trp operon 0.02693953552452333,1,1
+,repressor enzyme 0.025391715775628283,1,1
+,e. coli genome 0.0253882341918442,1,1
+,lac operon 0.025271457538470814,0,0
+,operon 0.024765995028531253,0,1
+,first enzyme 0.023858941009743544,1,0
+,rna polymerase 0.023720150462463462,1,1
+,amino acid 0.0233630729447815,1,1
+,enzyme 0.023052701549253294,1,1
+,rna polymerase bind 0.022970058056172898,0,0
+,tryptophan operon leader 0.02287827191745187,0,0
+,l-arabinose operon 0.021092859549862657,0,0
+,gab operon 0.02106398410938519,0,0
+,angiotensin-converting enzyme 2 0.02081968989896976,0,0
+,rna polymerase iii 0.02033806175635781,1,0
+,rna-dependent rna polymerase 0.020255440265118545,0,0
+,rna polymerase ii 0.020187173392330154,0,0
+,amino acid synthesis 0.01982460399627833,1,1
+,,,
+,,,
+science0b443552-3af3-466a-b065-987fccdcb3ee,sperm cell 0.016081479001499234,1,1
+,egg cytoplasm 0.015268495867961538,1,1
+,little organelle 0.015260327917127756,1,1
+,organelle 0.015155517955147987,1,1
+,female egg cell 0.014747082073873,1,1
+,different organelle 0.014411724289566209,1,0
+,big organelle 0.014200842691373195,1,0
+,fertilization 0.013916195079355091,1,1
+,mitochondrial dna 0.013885107874959543,1,1
+,flagellum spin 0.013819540474616735,0,1
+,genomic imprinting 0.025302645522404455,0,0
+,eukaryote 0.024362789309829054,1,0
+,cell (biology) 0.023809027161988724,1,1
+,organelle biogenesis 0.023640765460934035,1,0
+,external fertilization 0.023378920888719946,1,1
+,internal fertilization 0.022883675348623757,1,0
+,prokaryote 0.022535993699279167,0,0
+,human fertilization 0.022120677679398418,1,1
+,,,
+,,,
+science0bc5134d-6181-407f-8c66-bc8017e43d69,alkyl group 0.0177925974533689,1,1
+,oxime isomer 0.016895061455854277,1,1
+,aldehyde 0.016626593628125408,1,1
+,hydroxyl amine 0.016533564292335122,1,1
+,hydrolysis 0.01571835139291515,0,1
+,original aldehyde 0.015332435213366847,1,0
+,benzene ring 0.015153427080763237,0,1
+,acid catalyst 0.01499088043265319,1,1
+,molecule 0.01492425585825533,0,0
+,alkene 0.020640993723794784,1,0
+,phenolic aldehyde 0.02034503853662356,1,0
+,protocatechuic aldehyde 0.019956548098804778,1,0
+,acid catalysis 0.019941425540408186,1,0
+,alkyl 0.019746787845025322,1,1
+,aldehyde dehydrogenase 0.01970346397757775,0,0
+,acid hydrolysis 0.01946471829068687,0,0
+,diatomic molecule 0.01940818646099224,0,0
+,methyl group 0.019126604967050764,0,0
+,,,
+,,,
+science0e2809e7-e2f7-49bc-8c5b-048d8084da3e,cell communication 0.014255860511362076,1,1
+,cell communication work 0.013210325428720488,0,1
+,intercom message 0.012722188930355484,0,1
+,classroom 0:18and 0.012144532719269876,0,0
+,little paper airplane message 0.011794986221570722,0,0
+,neuron 0.011760460016790932,1,1
+,neural communication 0.011589912202259578,1,1
+,cell 0.011068989330877774,1,1
+,intercom 0.01100859441954554,0,0
+,neuron 4:18and 0.010993626057467142,1,0
+,cell communication and signaling 0.022739661942977427,1,1
+,cell signaling 0.021992140597774896,1,0
+,cell communication (biology) 0.021321809469319362,1,1
+,cellular communication (biology) 0.020591747650535876,1,1
+,cell communication & adhesion 0.020395074117330124,1,0
+,intercom telephone 0.019012378131247856,0,0
+,educational technology 0.018197782901180813,0,0
+,wireless intercom 0.018180666210498967,0,0
+,cell division 0.017968079343501836,0,0
+,,,
+,,,
+science0ea4f7db-eb25-4758-b83e-6a9bdb57d4a3,rheumatoid arthritis 0.010764539878185132,1,1
+,psoriatic arthritis 0.010369070744438219,1,1
+,arthritis 0.010243792636646152,1,1
+,synovial lining 0.009907312045161785,1,0
+,autoimmune arthritis 0.009773647909234186,1,1
+,seronegative arthritis 0.009703071040859441,1,1
+,inflammation 0.009648319082493247,1,1
+,rheumatoid factor 0.009642926220632037,1,1
+,joint inflammation qualifies 0.009486022382068676,1,0
+,osteoarthritis 0.009477975197243235,1,1
+,juvenile idiopathic arthritis 0.03320088642059939,1,0
+,inflammatory arthritis 0.03206506394004846,1,1
+,reactive arthritis 0.0316521098652102,1,0
+,synovial osteochondromatosis 0.03068549593781398,1,0
+,trapeziometacarpal osteoarthritis 0.030542485553532873,0,0
+,ankylosing spondylitis 0.030090457861929584,0,0
+,knee arthritis 0.029592162583356216,1,1
+,,,
+science0ec2c419-7d17-45a5-93b7-71d82bb44c08,appendicular skeleton 0.01846352129401994,1,1
+,human skeleton 0.018013937676187336,1,1
+,axial skeleton 0.01770712115487071,1,1
+,compact bone 0.01766416057564276,1,1
+,endo skeleton 0.01665240395824685,1,1
+,arthropod 0.016573730697693002,1,0
+,yellow bone marrow 6:05now red bone marrow 0.01645189785543392,1,1
+,bug skeleton 0.016266853793447427,0,0
+,skeleton 0.01612909771283449,1,1
+,arthropod leg 0.028588431715900843,1,0
+,arthropod exoskeleton 0.028524739898347976,1,0
+,spiracle (arthropods) 0.028225385517468574,1,0
+,mandible (arthropod mouthpart) 0.02813178014392575,1,0
+,arthropod mouthpart 0.026746155929173464,1,0
+,exoskeleton 0.02427048096892462,1,1
+,,,
+science0eccfbd9-6076-429c-a72e-e5c65082932c,average gravitational field 0.022105462008861987,1,1
+,gravitational field 0.020723279170433775,1,1
+,gravitational 0.020591103566672927,0,1
+,meter 0.02057068033200199,0,0
+,mass time g 0.019944038089221985,0,0
+,scalar field 0.019450608193399575,0,1
+,acceleration 0.01913222228260325,1,1
+,meter 1:39per 0.018866017122237518,0,0
+,physic context 0.01880828942490414,0,0
+,gravitational acceleration 0.023394714431856242,1,1
+,schwarzschild radius 0.0222539478437845,0,0
+,scalar (physics) 0.02208988850180274,0,0
+,newton's law of universal gravitation 0.022054890222760602,1,1
+,cubic metre per second 0.021566148411741308,0,0
+,homogeneity (physics) 0.021251243367821318,0,0
+,gravitational constant 0.020956139073662793,1,1
+,center of gravity in non-uniform field 0.02076538447057801,1,0
+,angular acceleration 0.020545178788702042,0,0
+,gravitational energy 0.020500190579742117,0,0
+,,,
+,,,
+science0ee0208b-91cd-49b8-b487-b2f86c7bc091,gravitational force 0.018849424097420155,1,1
+,force time displacement 0.017579822059984707,1,1
+,vertical motion gravity 0.017010654541289794,1,0
+,vertical displacement 0.015911664595355958,1,1
+,force increase 0.01579564084987264,0,0
+,horizontal displacement 0.015016660491307994,1,1
+,gravity reduces 0.014620473047734573,0,0
+,horizontal motion 0.01443446086263112,1,1
+,displacement 0.014407169307891944,1,1
+,inertial frame of reference 0.02385720199394058,0,0
+,newton's law of universal gravitation 0.02319560302701151,1,1
+,gravitational acceleration 0.022966327326527747,1,0
+,direct integration of a beam 0.02163057473654342,0,0
+,gravitational potential 0.02073032803913697,0,0
+,displacement (geometry) 0.020470606216922482,0,0
+,work (physics) 0.02009730860673373,1,1
+,gravitational constant 0.019873555758563553,0,0
+,projectile motion 0.019506292162046523,0,0
+,,,
+,,,
+science0efbb887-7c9f-4396-8ff1-7fafa62098e7,blood vessel 0.01409322960253347,1,1
+,large blood vessel 3:45and 0.013967762106767954,0,1
+,blood vessel 3:25and 0.01386111130635503,0,0
+,small blood vessel 0.01322149477995688,1,1
+,large blood vessel 0.013152464104790063,1,1
+,blood cell 0.01299468313011867,1,1
+,big blood vessel 0.01296151736008131,1,1
+,thin blood vessel wall 0.01288073425341819,1,0
+,little blood vessel 0.012633070788383298,0,0
+,lymphatic vessel 0.03060945264853538,0,0
+,circulatory system 0.030383699676936944,1,1
+,blood vessel disorder 0.030208410692328994,0,0
+,lymphatic system 0.0290862124112288,0,0
+,pulmonary circulation 0.0284712075945165,0,0
+,white blood cell 0.02842367562737697,1,1
+,blood transfusion 0.02780414111555695,0,0
+,,,
+,,,
+science1ca19868-86e1-4138-8171-79e931f425d4,thermodynamics 0.03887678467682842,1,1
+,chemical potential energy 0.03477993021069832,1,1
+,air molecule 0.03355716080571272,0,1
+,heat energy 0.032135162409252994,1,1
+,chemical energy 0.03189633325758981,1,1
+,actual electron 0.031560432473251306,0,0
+,electrostatic potential 0.03147523909769523,1,1
+,thermal energy 0.031014611597428746,1,1
+,kinetic energy 0.03033084190795352,1,1
+,electron 0.029947552185658147,0,1
+,first law of thermodynamics 0.020568524033499777,1,1
+,chemical thermodynamics 0.02034296837755139,0,0
+,law of thermodynamics 0.020122051311058858,1,1
+,second law of thermodynamics 0.019685608906417608,0,0
+,kinetic theory of gas 0.019482925658131436,0,0
+,third law of thermodynamics 0.019177362974815912,1,0
+,thermodynamic potential 0.019039390216258445,1,0
+,zeroth law of thermodynamics 0.018911727847500705,1,1
+,conservation of energy 0.017832769755140948,1,1
+,,,
+science1ccd6c88-3f99-453a-b967-aaf674288432,hydrogen gas 0.02292401742304854,0,0
+,ideal gas equation 0.022534540230531603,1,1
+,hydrogen 0.021402974738276827,,0
+,ideal gas law 0.02136701859131133,,1
+,gas 0.021084464851757027,,1
+,different gas 0.019969580245157163,,0
+,helium 0.019940957407470115,,0
+,initial temperature 0.019342472113832682,,0
+,methane 0.01925297471377652,,0
+,particle 0.017755902692400394,,1
+,liquid hydrogen 0.01997131856618139,,0
+,van der waals equation 0.01972773069058974,,0
+,helium atom 0.019565516405619442,,0
+,isotope of helium 0.01902419292399809,,0
+,metallic hydrogen 0.018371738231767642,,0
+,boyle's law 0.01826432094121627,,1
+,helium dimer 0.018133205625543974,,0
+,liquid helium 0.017762370551160634,,0
+,,,
+,,,
+science1ce0b14f-fb8c-4e7d-be6e-2f5425f3fc4c,intermolecular force hydrogen bonding 0.01782777805885004,,
+,hydrogen 0.017203247200488398,,
+,intermolecular force 0.017184461764287003,,
+,ether molecule 0.01709224100918646,,
+,nonpolar part 0.016721308663356294,,
+,nonpolar organic compound 0.016702649339384402,,
+,nonpolar organic molecule 0.016674579317377123,,
+,dimethyl ether 0.01659369556907228,,
+,different ion 0.01637317127926385,,
+,triethylene glycol dimethyl ether 0.02146741678898349,,
+,hydrogen ion 0.02120294488159412,,
+,tetraethylene glycol dimethyl ether 0.021066632026775604,,
+,diatomic molecule 0.020901528691196814,,
+,phenol ether 0.02037714459739704,,
+,hydrogen sulfide 0.020211246992730355,,
+,diethyl ether 0.02002843834370428,,
+,hydrogen bond 0.019904063134159346,,
+,ammonium lauryl sulfate 0.019668661441186362,,
+,,,
+science1d4f28fc-cb62-4280-914f-1bf1d4c89da7,smooth muscle cell 0.019170721608306296,,
+,smooth muscle cells- smooth muscle cell 0.018866742943382125,,
+,endothelial cell 0.017708522289281846,,
+,protein 0.01702666663042413,,
+,atherosclerosis 0.016803200838177917,,
+,blood flow 0.016193917355004563,,
+,smooth muscle 0.01596509904352508,,
+,foam cell 0.015842014148300575,,
+,collagen 0.015808946766675987,,
+,atherosclerosis (journal) 0.022215642537357177,,
+,liver sinusoidal endothelial cell 0.021397332776122505,,
+,renal blood flow 0.020768690066868618,,
+,muscle cell 0.02046240419879792,,
+,cerebral atherosclerosis 0.02032180720937262,,
+,cardiac muscle 0.020281875093352938,,
+,vascular smooth muscle 0.020128559595682275,,
+,vascular endothelial growth factor a 0.019957425807019587,,
+,anti-smooth muscle antibody 0.019914601706369477,,
+,interstitial cell of cajal 0.01963798206282853,,
+,,,
+,,,
+science1d10a996-1f23-44d0-b28e-5d5b6f2b2213,left carotid artery 0.014491357948096669,,
+,right carotid sinus 0.014320377707110652,,
+,left carotid sinus 0.01417721142255547,,
+,carotid sinus 0.014102181304156447,,
+,autonomic nervous system 0.014075395290934425,,
+,blood pressure homeostasis 0.013731037057895797,,
+,right brachial artery 0.013699333265782121,,
+,right carotid 0.013685666364480157,,
+,parasympathetic nerve 0.013504587757826444,,
+,left brachial artery 0.013439003786994537,,
+,anterior cerebral artery 0.0220773330958669,,
+,common carotid artery 0.021968335787794658,,
+,internal carotid artery 0.02181984834368705,,
+,carotid sinus nerve 0.021020889272515365,,
+,cerebral venous sinus thrombosis 0.020517444429389724,,
+,middle cerebral artery 0.020410245404248628,,
+,carotid artery stenosis 0.02015610189419247,,
+,carotid triangle 0.02005374114126409,,
+,radial artery 0.019903886830936857,,
+,,,
+science1d98ae29-cc68-4835-a67b-acc500259edf,prokaryotic m\. rna 0.02659066388401617,,
+,prokaryotic ribosome 0.026562824128536985,,
+,eukaryotic m\. rna 0.02604951477671666,,
+,ribosome 0.025984096883679815,,
+,eukaryotic cell 0.02509178920447972,,
+,guanine nucleotide 0.024894161935901632,,
+,eukaryote 0.024891044875983648,,
+,prokaryotic cell 0.02474816677636452,,
+,nucleotide 0.024643752252208762,,
+,eukaryotic ribosome 0.027694104971401526,,
+,eukaryotic transcription 0.027506878960723707,,
+,mitochondrial ribosome 0.02719648570691655,,
+,rna-dependent rna polymerase 0.02691765069928736,,
+,ribosome biogenesis 0.026854386270755294,,
+,eukaryotic dna replication 0.02659664681490247,,
+,prokaryotic small ribosomal subunit 0.02658830064734111,,
+,rna splicing 0.026081025752344136,,
+,rna polymerase 0.02587787276028466,,
+,,,
+,,,
+science1d8097b2-e1fe-4100-a002-96f7a6dd8540,anterior pituitary gland 0.02206748974864093,,
+,posterior pituitary gland 0.021538291186632145,,
+,pituitary gland 0.02107746711310227,,
+,anterior pituitary 0.0206684609932436,,
+,anterior pituitary hormone 0.020246492198841476,,
+,posterior pituitary 0.02016951043398154,,
+,adrenal gland 0.01975888074832062,,
+,endocrine gland 0.019535498764924622,,
+,hypothalamus 0.01935885242495479,,
+,endocrine gland neoplasm 0.04271261365398326,,
+,multiple endocrine neoplasia 0.04069646786481365,,
+,paraventricular nucleus of hypothalamus 0.03970628324494824,,
+,lateral hypothalamus 0.03945993091520869,,
+,ventromedial nucleus of the hypothalamus 0.03933928164026007,,
+,,,
+science1d48492b-5dd5-4048-83b2-0bbb5b73e725,kinematic formula 0.02553084456798743,,
+,kinetic energy 0.024720929859179046,,
+,initial velocity 0.02444076060140357,,
+,kinematics equation 0.02413424463343757,,
+,velocity 0.02408734531006568,,
+,joule 0.022646394847054704,,
+,particular force 0.021894794726195,,
+,acceleration time displacement 0.021841523151379147,,
+,acceleration 0.021785348658902477,,
+,displacement 0.021779128258089826,,
+,gravitational acceleration 0.019432000142820576,,
+,radial velocity 0.019375328923430694,,
+,turbulence kinetic energy 0.01909136292308826,,
+,particle displacement 0.018937155162512275,,
+,wien's displacement law 0.018722343019359405,,
+,rotational energy 0.01865092661484244,,
+,joule effect 0.018519120516624354,,
+,equation of motion 0.018423601241991192,,
+,angular velocity 0.018010336055117683,,
+,,,
+,,,
+science1da42f23-53fc-4939-b2ab-a13b9ccb1874,white blood cell 0.021220147406117405,,
+,red blood cell 0.02086850557631045,,
+,blood vessel 0.020797594137249117,,
+,blood cell 0.020527371660680242,,
+,different white blood cell 0.02021909592393037,,
+,blood vessel wall 0.019958941163417947,,
+,clotting factor 0.019777451299556312,,
+,clotting 0.018266668694222526,,
+,nucleated red blood cell 0.03294173313575588,,
+,blood vessel disorder 0.030768736637298802,,
+,white blood cell differential 0.03068359485704433,,
+,red blood cell index 0.030677450480241557,,
+,washed red blood cell 0.029384253588762895,,
+,,,
+science1daf6198-70a6-4123-85e8-d9729fd5e8a3,wart 0.1094593711234266,,
+,condyloma wart 0.10723166794392427,,
+,hpv 0.10410015667962673,,
+,single wart 0.10034023238728007,,
+,human papilloma virus 0.09614058160241161,,
+,multiple wart 0.09520380813759353,,
+,medical term 0.0671215748206397,,
+,acuminata 0.06046697477893706,,
+,toe 0.048351894517985265,,
+,groin 0.048156336637781835,,
+,genital wart 0.03023483452097852,,
+,squamous cell papilloma 0.028210662268877945,,
+,periungual wart 0.027929885348545787,,
+,plantar wart 0.02715187631968152,,
+,shope papilloma virus 0.026984877145038784,,
+,digitate wart 0.026555010173509894,,
+,papilloma 0.026395864706560464,,
+,flat wart 0.026329742122277327,,
+,molluscum contagiosum 0.024632957053730982,,
+,,,
+science1e9da780-664c-4196-9e96-612f0573a0e7,coronary artery disease 0.00957835255332596,,
+,coronary circulation 0.009524212164613724,,
+,coronary vessel 1is 0.009471231998138966,,
+,acute coronary syndrome 0.009398518109586862,,
+,coronary heart disease 0.009274238285497219,,
+,1is atherosclerosis 0.00925980404402223,,
+,coronary syndrome 0.009217375746439297,,
+,coronary artery 1to clamp 0.009197945611843394,,
+,cardiovascular disease 0.008993369537701022,,
+,atherosclerosis 0.008962915003398008,,
+,management of acute coronary syndrome 0.04231665534387733,,
+,coronary artery ectasia 0.04170567480735559,,
+,coronary artery bypass surgery 0.039971654791538455,,
+,right coronary artery 0.03852702471187248,,
+,coronary thrombosis 0.038465864157453386,,
+,coronary catheterization 0.03747333283641096,,
+,atherosclerosis (journal) 0.03640196303021499,,
+,coronary stent 0.036293921146135694,,
+,,,
+science1e1126b6-9ce0-4b68-a406-514d69eb990e,opposite force 0.019159459440922958,,
+,gravitational force 0.01913802340407305,,
+,opposite force- 0.018783294319262477,,
+,second law- 0.016788078121492595,,
+,particle 0.015910739307646214,,
+,third law 0.01582510790995541,,
+,enough force 0.01558719058388891,,
+,friction 0.015425199984181893,,
+,third law- 0.015345274877480233,,
+,super high velocity 0.015073997463900148,,
+,newton's law of motion 0.02937396955560539,,
+,newton's law of universal gravitation 0.029224431482020873,,
+,massless particle 0.027799352227689363,,
+,centrifugal force 0.024385869127496438,,
+,particle physic 0.02420496159119585,,
+,lenz's law 0.02338780718820748,,
+,gravitational acceleration 0.02315573174597577,,
+,law of thermodynamics 0.02307542661442253,,
+,kepler's law of planetary motion 0.023054502882251162,,
+,second law of thermodynamics 0.023001053770710864,,
+,,,
+science9da4e4ea-f3c2-41f8-88ff-4adc9ff9eb70,right ventricle 0.017588673673595664,,
+,new aorta 0.01706133958605421,,
+,hypoplastic left heart syndrome 0.01701478097243365,,
+,left ventricle 0.016721744795015522,,
+,functional ventricle 0.016246968455844304,,
+,pulmonary artery 0.01555983471511737,,
+,aorta 0.015059320344533488,,
+,venous return 0.01494371463824339,,
+,systemic artery 0.014764270181523874,,
+,pulmonary flow 0.01458547320718987,,
+,ventricular septal defect 0.02161302276127461,,
+,descending thoracic aorta 0.021539212488087132,,
+,aortic arch 0.021506266696067877,,
+,aortic dissection 0.02149155976613707,,
+,hypoplastic right heart syndrome 0.021441534548906557,,
+,overriding aorta 0.021022347223163405,,
+,descending aorta 0.020777730486873962,,
+,double outlet right ventricle 0.02071385232718941,,
+,pulmonary shunt 0.020433426615502123,,
+,,,
+,,,
+science9dc38392-301c-48d8-bbd5-4a1b81e9afc1,pi radius 0.018297758968806203,,
+,angular velocity 0.017899953947247103,,
+,pi r meter 0.01754865563259641,,
+,angular velocity- 0.017501782374216047,,
+,radian 0.01749937464654358,,
+,pi radian 0.017408371049610225,,
+,instantaneous angular velocity 0.017326571099652983,,
+,angular velocity vector 0.017138756374188685,,
+,second radian 0.01711379680320209,,
+,angular velocity time 0.017084056477235602,,
+,radian per second 0.04197291187052132,,
+,constant angular velocity 0.03725372990719544,,
+,constant linear velocity 0.03721832655090555,,
+,areal velocity 0.032568472004356176,,
+,angular acceleration 0.03204010613537107,,
+,angular momentum 0.03193694574981649,,
+,radian (disambiguation) 0.03129313244918123,,
+,kinematics 0.030669148607451114,,
+,,,
+,,,
+science9dd1c68c-763a-470d-9101-1907751f178e,convex lens 0.013663039879164559,,
+,actual convex lens 0.013091968437439632,,
+,magenta angle 0.012771251009388583,,
+,focal point 0.011962825802184527,,
+,convex mirror 0.01193804506133535,,
+,parallel ray 0.011857332946270982,,
+,focal length 1to 0.011708743465224589,,
+,geometrical optic 0.027425784790132947,,
+,pinhole camera model 0.027083244545719046,,
+,self-portrait in a convex mirror 0.024545570666286293,,
+,flange focal distance 0.024093228108544938,,
+,history of photographic lens design 0.024083664266137193,,
+,35 mm equivalent focal length 0.02392804897916624,,
+,focus (optics) 0.02355579873758239,,
+,perspective distortion (photography) 0.02345444544372595,,
+,cmyk color model 0.022829484732849296,,
+,hyperbola 0.02280733657562318,,
+,,,
+science9deae3d1-b3e3-47b0-8f97-60a45b6a86a9,reactant 0.024030379743132043,,
+,chemical reaction 0.02287872822280474,,
+,balanced equation 0.021890188973531764,,
+,initial concentration 0.02166205878474049,,
+,nitrogen dioxide 0.02114858497840642,,
+,nitrogen dioxide form 0.02047084684502514,,
+,chemistry 0.020186080085827885,,
+,calculation 0.01999888988030794,,
+,n2 0.019539162603415913,,
+,equation 0.01952810633091123,,
+,chemical kinetics 0.022505167502627006,,
+,chemical equation 0.02075103133752285,,
+,stoichiometry 0.020602804346571076,,
+,acid–base titration 0.019938743234196244,,
+,heat equation 0.019556576232386658,,
+,chemical equilibrium 0.01954238770451905,,
+,thermochemical equation 0.01932610626028009,,
+,nitric acid 0.018781169077379017,,
+,dilution (equation) 0.018755159099627484,,
+,,,
+science9df665a3-2955-4737-8092-80154789fe10,photosynthetic organism 0.03397142134370846,,
+,eutrophication 0.031453379966304866,,
+,fertilizer 0.030595069814453306,,
+,algal bloom 0.029896742021925812,,
+,biosphere 0.029273462167602935,,
+,phosphate 0.028634094634817614,,
+,potential eutrophication 0.027824838360378704,,
+,algae 0.027219177162195497,,
+,serious ecological thing 0.026780012556617133,,
+,plant 0.026203970091155087,,
+,cyanobacteria 0.01960538064369165,,
+,symbiosis in lichen 0.01786245614902585,,
+,nutrient pollution 0.017410486742246486,,
+,trophic state index 0.01687184153219318,,
+,photosynthesis 0.016850810681977392,,
+,engro fertilizer 0.01681949300747974,,
+,harmful algal bloom 0.016714976403996027,,
+,plant reproduction 0.016632303665286723,,
+,,,
+science9e4ba180-553e-4a91-9ccb-756c8f30f975,inch machine screw 0.01170386315389079,,
+,oak veneer plywood 0.011676005366461328,,
+,oak veneer plywood piece 0.011603986923156312,,
+,spiral drill bit 0.011567805067461839,,
+,circular saw 0.011398471779159966,,
+,machine screw 0.011212200729539266,,
+,center pivot screw 0.011131000730944854,,
+,drill bit 0.01106363404764883,,
+,pvc 0.010876606298625786,,
+,square tubular aluminum 0.010687611280890012,,
+,automatic lathe 0.021463095551174677,,
+,drilling rig 0.0192219986468867,,
+,miter saw 0.019148394328492024,,
+,carbide saw 0.019105139443659058,,
+,pvc decking 0.01877849346772566,,
+,rail drilling machine 0.018628071608931845,,
+,annular cutter 0.018579865839167375,,
+,hammer drill 0.018556736261458966,,
+,molded plywood 0.018507639046898824,,
+,archimedes' screw 0.018026542906884418,,
+,,,
+science15687021-2250-40df-a688-cfe4c2043b23,diffraction 0.01639291466357886,,
+,half wavelength 0.016126318523877105,,
+,double slit experiment 0.01604475485715348,,
+,wavelength 0.015522792157631134,,
+,dimension 0.014060746378798509,,
+,double slit 0.01383729085690531,,
+,big laser 0.013826315455787112,,
+,top hole 0.013747151965293565,,
+,wave interference 0.01364447587968113,,
+,fraunhofer diffraction 0.02182082351030606,,
+,electron diffraction 0.02117088062016472,,
+,electron hole 0.02032225894550713,,
+,fresnel diffraction 0.020053726836729485,,
+,diffraction grating 0.020008550914793425,,
+,diffraction spike 0.01963329848428316,,
+,powder diffraction 0.01943571445925621,,
+,wave–particle duality 0.01942281764813405,,
+,coherence (physics) 0.019075551610695376,,

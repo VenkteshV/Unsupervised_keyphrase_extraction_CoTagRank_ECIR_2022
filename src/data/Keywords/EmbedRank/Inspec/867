@@ -1,0 +1,15 @@
+flexible slider-crank mechanism system 0.9999999403953552
+impact 0.4989703595638275
+control 0.43132245540618896
+motor-controller flexible slider-crank mechanism 0.851497232913971
+flexible slider-crank mechanism 0.8514969944953918
+flexible vibrations 0.4774174094200134
+pole placement technique 0.2896081209182739
+continuous force model 0.25758230686187744
+simulation results 0.24759982526302338
+effective mass compensation emc 0.24186156690120697
+energy 0.17968779802322388
+good tracking trajectory 0.14688946306705475
+stabilizer design 0.1941549926996231
+basis 0.08165565878152847
+approaches 0.014546457678079605

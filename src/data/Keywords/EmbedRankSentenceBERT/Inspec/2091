@@ -1,0 +1,15 @@
+ct detector 1.0
+metal foreign objects exhibit severe artifacts 0.857886552810669
+reconstruction algorithms 0.757636547088623
+statistical image reconstruction x - ray 0.8546989560127258
+tomography 0.6649749875068665
+deterministic iterative deblurring 0.5320926308631897
+fbp streaking artifacts 0.5791666507720947
+metal intracavitary 0.8628023862838745
+radiation 0.40256160497665405
+model mismatches 0.3537124693393707
+polyenergetic spectrum 0.30780744552612305
+physical process 0.4667972922325134
+clinical possibility 0.4001680910587311
+measurement noise 0.3892906606197357
+image reconstruction 0.786672055721283

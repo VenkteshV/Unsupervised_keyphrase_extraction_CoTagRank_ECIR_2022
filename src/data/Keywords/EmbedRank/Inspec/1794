@@ -1,0 +1,15 @@
+image 1.0
+well-posed anisotropic diffusion 0.3725948929786682
+image denoising 1.0
+cfl condition 0.12284566462039948
+smoothing parameter 0.11173336207866669
+discrete scheme 0.07982603460550308
+candidate edges 0.10284046083688736
+smooth areas 0.1035471186041832
+second-order partial differential equation 0.11995216459035873
+time discretisation steps 0.04597461596131325
+artefacts 0.05350318178534508
+adoption 0.03908776119351387
+absence 0.08105750381946564
+approach 0.018761778250336647
+authors -0.05391829460859299

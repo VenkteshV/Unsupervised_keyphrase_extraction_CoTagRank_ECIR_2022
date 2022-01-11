@@ -1,0 +1,15 @@
+line conditioner 1.0
+voltage up/down capability 0.9788307547569275
+transformer 0.5089991688728333
+series voltage compensation 0.552480936050415
+steady-state performance 0.2764623165130615
+output voltage 0.750502347946167
+snubber energy 0.30656567215919495
+resistors 0.40278834104537964
+capacitor 0.4265994131565094
+novel pulsewidth-modulated line conditioner 0.7795259952545166
+chopper 0.1846613585948944
+reversible voltage control 0.5644506216049194
+line stray inductance 0.4369845390319824
+reliability 0.2465064823627472
+commutation problem 0.17141853272914886

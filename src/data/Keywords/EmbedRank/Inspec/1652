@@ -1,0 +1,15 @@
+finite volume scheme 1.0
+nonlinear degenerate parabolic equations 0.5389385223388672
+uniqueness 0.2540552616119385
+entropy weak solution 0.25564339756965637
+numerical results 0.18019433319568634
+delta phi 0.10729067772626877
+convergence 0.23438863456249237
+nonlinear parabolic degenerate equation u/sub 0.5615302920341492
+space 0.0979069173336029
+piecewise constant function u/sub 0.09107067435979843
+size 0.12628112733364105
+measure 0.0546414814889431
+time steps 0.022273672744631767
+div -0.1264902651309967
+model equation 0.2144373506307602

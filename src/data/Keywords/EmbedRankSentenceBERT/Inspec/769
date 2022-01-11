@@ -1,0 +1,15 @@
+standard polygonal surface simplification algorithm 1.0
+distance 0.40083855390548706
+many current simplification methods 0.6002842783927917
+error tolerance 0.5841052532196045
+permission grid 0.6519473791122437
+input model 0.6278259754180908
+detail control 0.5082576870918274
+approximations 0.5193817019462585
+original surface 0.3737889230251312
+mesh degeneracies 0.4282570779323578
+geometric error 0.531283438205719
+spatial occupancy grid 0.5122405886650085
+underlying simplification algorithm 0.6923825740814209
+computing 0.2117566615343094
+adaptive level 0.3151606023311615

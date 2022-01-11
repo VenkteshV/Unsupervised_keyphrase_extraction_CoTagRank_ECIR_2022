@@ -1,0 +1,15 @@
+active damping model 1.0
+comparisons 0.6424378156661987
+loop model 0.6052159667015076
+acld model 0.7059202194213867
+element modeling 0.740866482257843
+viscoelastic material behavior 0.7266067862510681
+geometric parameters 0.6124765276908875
+several acld models 0.6517043113708496
+acld performance 0.7205473780632019
+active constrained layer 0.694926381111145
+treatment 0.39235931634902954
+time domain analysis 0.5133668184280396
+mc\. tavish method 0.5095505714416504
+active system 0.6822839975357056
+passive damping 0.5453290343284607

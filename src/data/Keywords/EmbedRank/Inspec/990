@@ -1,0 +1,15 @@
+broadcast 1.0
+wormhole routers 0.8856846690177917
+message replication capability 0.45586177706718445
+algorithm 0.41867920756340027
+performance comparisons 0.17842362821102142
+pipelined broadcast 1.0
+n-dimensional hypercube 0.34669578075408936
+replication tree 0.21817760169506073
+communication 0.2755909264087677
+reachable sets 0.08311627060174942
+all-port wormhole router 0.8304212093353271
+time 0.04459269717335701
+practical implementation 0.07979550212621689
+paper -0.029772043228149414
+size 0.038308676332235336

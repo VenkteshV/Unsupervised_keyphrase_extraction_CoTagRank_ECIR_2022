@@ -1,0 +1,30 @@
+maximum tensile principal strain 0.03668162091999868
+strain tensor 0.0337395031441573
+inelastic strain law 0.03311803037370317
+tensile part 0.03268455655134321
+compressive part 0.032647511287156095
+inelastic strain 0.03252624018598978
+inelastic strain profile 0.0324629124036886
+mesh dependence 0.03207239321971596
+compressive damage parameter 0.030893580878816797
+mesh size independent load 0.030174199680610567
+inelastic displacement law 0.02945680360356551
+displacement curve 0.02836213425147122
+finite element analysis 0.026939445415142982
+element length dependent zone 0.02583623237867222
+eccentric compression 0.02565952972847866
+tensile structure 0.0163929007349156
+concrete fracture analysis 0.01594508258357491
+deformation (engineering) 0.015724913286527854
+structural analysis 0.01566568958263952
+viscous stress tensor 0.01505718583228286
+deformation (physics) 0.014851547692920134
+strain-rate tensor 0.014786396762556322
+infinitesimal strain theory 0.014748256630561436
+finite strain theory 0.014494847870324698
+elastic modulus 0.014469786992645573
+plasticity (physics) 0.014423203404930337
+size effect on structural strength 0.014114380057272342
+hooke's law 0.013974143559913402
+flow plasticity theory 0.013816663233264739
+material failure theory 0.013678028684061707

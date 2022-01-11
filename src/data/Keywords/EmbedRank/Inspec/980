@@ -1,0 +1,15 @@
+nonlinear parabolic equations 1.0
+runge-kutta methods 0.858113706111908
+exact solution 0.374459445476532
+nonlinear parabolic differential equations 0.957563042640686
+convergence estimates 0.3641522228717804
+numerical examples 0.3503711521625519
+euler method 0.4764493405818939
+analysis 0.24383790791034698
+stage order 0.1084381565451622
+smooth solutions 0.33609187602996826
+sectorial operator 0.08015590906143188
+stable runge-kutta methods 0.6595037579536438
+nonsmooth-data error 0.13082903623580933
+fact 0.07917862385511398
+time discretizations 0.02912662737071514

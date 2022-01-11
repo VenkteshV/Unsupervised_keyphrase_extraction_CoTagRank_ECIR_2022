@@ -1,0 +1,9 @@
+digital-domain self-calibration technique 1.0
+pipeline adc 0.6710975170135498
+technique 1.0
+algorithm 0.28830137848854065
+gaussian white noise 0.08491451293230057
+overall linearity 0.054718393832445145
+design example 0.14409960806369781
+video-rate pipeline a/d converters 0.6436997056007385
+gaussian white noise input signal 0.17044228315353394
